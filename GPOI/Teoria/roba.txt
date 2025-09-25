@@ -1,0 +1,17 @@
+Un progetto software e' un insieme organizzado di attivita' con lo scopo di creare, mantenere o modificare un sistema.
+Un progetto software ha: 
+ - un obj;
+ - un inizio e fine;
+ - un budget;
+ - dei vincoli.
+
+ESITI:
+ - SUCCESSFUL: completato in tempo, rispettando il budget e tutte le funzionalita' richieste (obiettivo);
+ - CHALLENGED: completato senza almeno una carratteristica (budget, obj o tempo).
+ - FAILED: mai completato, fallimento totale.
+
+Nel 2020 su 50k progetti:
+ - 31% succ
+ - 50% chal
+ - 19% fail
+

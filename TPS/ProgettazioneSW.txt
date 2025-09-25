@@ -1,0 +1,26 @@
+09/18/2025
+Il software e' un prodotto industriale, quindi necessita di standard qualitativi.
+La Modularizzazione, produzione di un software STRUTTURATO IN MODULI.
+
+Contesto organizzativo:
+- Attori come committente (chi richiede la progettazione del SW), esperti del dominio (analisi costi e benefici, esperti non di ICT ma dell'argomento interessato), analista (traduce i requisiti del committente e li rende comprensibili), progettista (produce un insieme dei requisiti tecnici), programmatore (chi scrive il codice), utente finale (chi usa il programma finito), manutentore (chi corregge/aggiorna il programma durante l'evoluzione del contesto).
+
+- Flusso di controllo: 
+	- App. Sequenziali: unico flusso di controlllo durante la creazione
+	- App. Concorrenti: le varie app necessitano di collab e sincronia
+	- App. Dipendenti dal tempo: necessita' di sincronia
+
+- Interesse primario:
+	- Orientate al controllo di funzioni (realizziamo il SW in base alle funzionalita' richieste);
+	- Orientate alla gestione di dati (database);
+	- Orientate al controllo (task manager)
+
+
+Il ciclo di vita/sviluppo del SW:
+- Studio di fattibilita' e raccolta dei requisiti: valutare costi/benefici, individuare ambienti;
+- Analisi: cosa dovra' fare l'app, descrivere il dominio e specificare le funzioni delle varie componenti;
+- Progetto: come realizzare i requisiti e le funzioni, definire l'architettura, strutture di rappresentazione ed efficienza;
+- Realizzazione: scrivere il codice del programma e produrre la documentazione;
+- Verifica: verifica se svolge completamente ed efficientemente il compito per cui e' stato sviluppato il SW; individuazione di errori e problemi;
+- Manutenzione: controllo del programma durante execution, correzione + update, ritorno alla fase di analisi dei requisiti.
+

@@ -1,0 +1,28 @@
+fieldset > div:nth-child(odd) {
+	background-color: yellow;
+}
+
+fieldset > div:nth-child(even) {
+	background-color: #57e655;
+}
+
+form {
+	width: 50%;
+	border: solid 2px black;
+}
+
+.errore{
+	background-color: red;
+	color: white;
+}
+
+/*
+input[type="submit"]{
+	
+}
+*/
+
+/*
+	input[type~="submit"] 
+	la tilde fa una ricerca approssimativa (prende "sumbit yolo" e "gets submit" ma non "sumbit_yolo")
+*/

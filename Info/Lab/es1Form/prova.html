@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+
+<!-- | -->
+
+<html>
+	<head>
+		<title>Esercizio Form</title>
+		<link href="style.css" type="text/css" rel="stylesheet">
+	</head>
+	
+	<body>
+		<form 
+			action="http://andreabonardi.altervista.org/ricevidati.php" 
+			method="POST"
+			onsubmit="return check(this)"
+		>
+			<fieldset>
+				<legend>Dati personali</legend>
+				<div>
+					<label for="name"> Nome: </label>
+					<input type="text" name="name" id="name">
+				</div>
+				<div>
+					<label for="sur"> Cognome: </label>
+					<input type="text" name="sur" id="sur">
+				</div>
+				<div>
+					<label for="male"> Male: </label>
+					<input type="radio" name="genere" value="male" id="male" checked>
+					<label for="fem"> Female: </label>
+					<input type="radio" name="genere" value="fem" id="fem">
+				</div>
+				<div>
+					<label for="data"> Data di nascita: </label>
+					<input type="date" name="data" id="data">
+				</div>
+				<div>
+					<label for="numTel"> Numero di telefono: </label>
+					<input type="text" name="numTel" id="numTel"><!-- pattern="[0-9]{10}" -->
+				</div>
+				<div>
+					<label for="colore"> Colore preferito: </label>
+					<input type="color" name="colore" id="colore">
+				</div>
+			</fieldset>
+			
+			<fieldset>
+				<legend>Credenziali</legend>
+				<div>
+					<label for="mail"> E-Mail: </label>
+					<input type="text" name="mail" id="mail">
+				</div>
+				<div>
+					<label for="pwd"> Password: </label>
+					<input type="password" name="pwd" id="pwd">
+				</div>
+				<div>
+					<label for="pwdConf"> Conferma Password: </label>
+					<input type="password" name="pwdConf" id="pwdConf">
+				</div>
+			</fieldset>
+			<input type="submit" value="Registrati">
+		</form>
+		<!-- | -->
+	</body>
+</html>

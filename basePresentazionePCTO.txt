@@ -1,0 +1,34 @@
+Svolsi la formazione scuola-lavoro dal 19/05/2025 al 07/06/2025, presso la Sercofim s.r.l..
+Il mio obiettivo principale era schiarirmi le idee riguardo il mondo lavorativo e capire se avessi voluto continuare con questo percorso di studi.
+
+In azienda ho svolto il ruolo di programmatore, producendo (con esito positivo) 2 applicativi in linguaggio Java (invio e-mail, accesso database).
+
+Riguardo le competenze tecniche, ho compreso ed applicato delle basi di GIMP, creazione di una connessione SSH, il funzionamento di un API, l'utilizzo del linguaggio NSIS per creare installer e delle basi SQL con query di lettura ed inserimento dati.
+
+Riguardo le "soft skill" penso di aver migliorato la mia organizzazione del tempo e la capacita' di adattamento alle richieste, anche se non ho avuto la possibilita' di migliorare la mia capacita' di teamwork, dato che lavoravo quasi sempre da solo.
+
+La vera difficolta' era "semplicemente" la mancanza di preparazione riguardo le conoscenze che avrei sviluppato durante la 5a.
+
+L'esperienza nel complesso e' stata stimolante e istruttiva; inoltre mi ha confermato che il ruolo di programmatore sara' quello che vorrei coprire, nel caso sia possibile.
+
+------------
+
+Formazione scuola-lavoro
+- Quando? Dal 19/05/2025 al 07/06/2025
+- Dove? Presso la Sercofim Srl
+- Obiettivo: vedere di persona una realta' lavorativa e capire se facesse al caso mio
+
+Esperienza
+- Ruolo: Programmatore
+- Attività: 2 app in Java e supporto alla modifica fogli CSS
+
+Competenze
+- Hard Skills: basi di GIMP, SSH connection, funzionamento API, utilizzo linguaggio NSIS e basi SQL + query
+- Soft Skills: 
+	+ organizzazione tempo e capacità adattamento alle richieste;
+	- teamwork;
+- Difficoltà: competenza richieste assimilate durante la 5a
+
+Conclusione
+L'esperienza nel complesso è stata molto stimolante ed istruttiva
+Inoltre ha confermato che il ruolo di programmatore sarà quello che vorrei coprire se ne avessi l'occasione.
