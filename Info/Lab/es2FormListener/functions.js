@@ -2,7 +2,7 @@
 
 //ritorna true se la stringa passata come parametro e' null oppure vuota
 function isStrVuota(str){
-	return (str == null || str ==="");
+	return (str == null || str === "");
 }
 
 // confronta la data (in formato String) passata come parametro alla data odierna e 
