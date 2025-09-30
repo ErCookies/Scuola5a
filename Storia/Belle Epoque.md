@@ -55,13 +55,15 @@ E sviluppo dell'*associazionismo cattolico*.
 
 
 
-&nbsp;\* La Chiesa si era chiusa rispetto al mondo moderno, condannando la liberta' di coscienza, la scienza e la politica. I lavoratori devono lavorare e rispettare i datori ***ma anche i datori devono garantire i diritti, il rispetto ed il salario minimo***. 
+ \* La Chiesa si era chiusa rispetto al mondo moderno, condannando la liberta' di coscienza, la scienza e la politica. I lavoratori devono lavorare e rispettare i datori ***ma anche i datori devono garantire i diritti, il rispetto ed il salario minimo***.
 
 
 
 
 
 #### **LA *BELLE EPOQUE***
+
+*Nord America, europa occidentale (Nord italia, Germania, Inghilterra e Spagna)*
 
 La crescita economica provoca una *grande fiducia* in un *progresso materiale* illimitato giustificata da:
 
@@ -85,38 +87,4 @@ Si manifestano tuttvia sintomi di ***crisi ed inquietudine***
 * Scoperta dell'inconscio *(psicoanalisi* di *Freud).*
 
 Il patriottismo ottocentesco degenera in *Nazionalismo* (Pangermanesimo, Sciovinismo), *Razzismo* (de Gobinau, Chamberlain) e *Antisemitismo* (che per contraccolpo da' origine al *Sionismo*).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

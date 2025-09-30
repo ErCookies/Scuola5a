@@ -1,6 +1,7 @@
 HTTP e' un protocollo stateless ("senza memoria"), ossia ogni richiesta e' completamente indipendente dalle precedenti.
 
 
+
 HTTP 1 e 2 per comunicare usano sessioni basate su TCP.
 
 Il client genera un numero casuale x (Initial Sequence Number) 	--> SYN = 1, ACK = 0; SeqNumber = x;
@@ -80,7 +81,7 @@ HEADER LINES:	Date: Mon
  		Content-Type:
 
  		Content-Length:
-		Connection: keep-alive
+Connection: keep-alive
 
 EMPTY LINE:	*carriage return, line feed*
 
@@ -103,28 +104,4 @@ BODY:		<!DOCTYPE html>
  		400-499 Client Error	(400 syntax error, 404 roba not found)
 
  		500-599 Server Error	(500 errore generico di server)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
