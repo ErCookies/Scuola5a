@@ -54,6 +54,82 @@ Chi guarda da fuori e' travolto dalla fiumana, perche' vede solo il progresso se
 
 
 
+###### **09/30/2025**
+
+* Dove si vede nel testo il principio dell'impersonalita' dell'autore?
+
+All'inizio del racconto *"studio sincero e spassionato"*, inoltre al centro *"Solo l'osservatore, travolto anch'esso dalla fiumana ha diritto di intreressarsi ..."* ed alla fine *"Chi osserva questo spettacolo non ha il diritto di giudicarlo"*.
+
+
+
+* Qual e' il movente fondamentale dell'agire umano secondo Verga? Come cambia passando da una classe sociale all'altra?
+
+La legge del progresso. Tutta la societa' e' mossa dalla ricerca dal progresso. Dalle sfere piu' basse a quelle piu' alte si hanno diverse idee di progresso: si passa dalla sopravvivenza, alla ricchezza, ambizioni aristocratiche/nobiliari, ambizioni politiche ed infine tutti gli altri insieme.
+
+
+
+* Come cambia il meccanismo delle passioni passando da una classe all'altra?
+
+I meccanismi della passione vanno complicandosi man mano che si sale nelle sfere sociali, origiinalizzando il linguaggio.
+
+
+
+* Cos'altro cambia da una classe all'altra? In che modo cambia?
+
+Il linguaggio, le ambientazioni, gli obiettivi e la societa' 
+
+
+
+* Dove si vede l'influsso delle teorie darwiniane (evoluzione, selezione naturale, lotta per la sopravvivenza)?
+
+Come nella natura, nella societa' vige la regola del piu' forte (Verga si occupa dei vinti). Man mano che si salgono le sfere sociali si vede il principio dell'evoluzione.
+
+
+
+* Quale visione ha l'autore del progresso? Positiva o negativa?
+
+Negativa perche' si occupa dei vinti, oltre ai lati negativi del progresso.
+
+
+
+* L'autore da' un giudizio morale sui personaggi?
+
+No, perche' vige il principio di impersonalita' dell'autore.
+
+
+
+
+
+##### ***IL MONDO ARCAICO E L'IRRUZIONE DELLA STORIA***
+
+Un tempo i Malavoglia *erano tanti come i sassi sulla strada vecchia di Trezza* (esempio che il popolo puo' capire --> narratore interno). 
+
+Il vero cognome era *Toscano, lo si diceva nel libro della parrocchia (esempio popolare).*
+
+Avevano le tegole al sole (per dire che avevano la casa).
+
+*Linguaggio, modi di dire, luoghi adatti e familiari a gente del posto.*
+
+Gli altri Toscano erano stati dispersi.
+
+Vi e' un esempio di collaborazione da ***Padron 'Ntoni*** mediante un pugno *chiuso* *"per menare il remo bisogna che tutte le 5 dita della mano battano su di esso"*, oltre al *"Gli uomini son fatti come le dita della mano: **il dito grosso deve far il dito grosso, e il dito piccolo deve far il dito piccolo**"*.
+
+*"Le feste e le quarant'ore"* c'erano giorni di festa e giorni di lavoro/preghiera/impegno.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
