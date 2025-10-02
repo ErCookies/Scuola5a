@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="it">
 	<head>
+	<!-- Cucchi Francesco 5AI regExp.html -->
 	  <meta charset="UTF-8">
 	  <title>Form con casella di testo</title>
 	</head>
@@ -14,6 +15,8 @@
 		Genere: <input type="text" id="genere" name="genere" pattern="[mMfF]"> <br>
 		Data: <input type="text" id="data" name="data" pattern="((0[1-9])|([12]\d)|(3[01]))\/((0[1-9])|(1[012]))\/\d{4})"> <br>
 		Numero reale: <input type="text" id="realNum" name="realNum" pattern="[\+\-]?\d+\.\d+"> <br>
+		Consegna stile Zola: <input type="text" id="zolaCon" name="zolaCon" 
+		pattern="[A-Z][a-z]{2}_[A-Z][a-z]{2}_[3-5][A-Z]{2}_\w+.\w+"> <br>
 		<!--
 			un bit
 			un byte
@@ -22,6 +25,7 @@
 			il sesso di una persona (m o f)
 			una data (GG/MM/AAAA)
 			un numero con la virgola
+			Cog_Nom_Cl_Argomento
 		-->
 		<button type="submit">Invia</button>
 	  </form>
