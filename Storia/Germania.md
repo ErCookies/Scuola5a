@@ -67,21 +67,27 @@ Lo Zar Nicola II e' costretto a promulgare una Costituzione che prevede un certo
 
 
 
+##### ***L'Europa in cerca di nuovi equilibri***
+
+Lo sviluppo economico ed industriale (creazione di *un'economia internazionale* basata sul *Gold Standard*) e fattori ideologici con il montare di nazionalismi portano alla corsa *all'espansione coloniale* e aumentano la *tensione fra le potenze europee*.
+
+In **Francia** la *terza repubblica* vede il successo delle *tendenze democratiche* contro le *tendenze autoritarie* clericali e militariste in occasione dell'*affare Deyus*. I *governi radicali* portano avanti una decisa *laicizzazione dello Stato* ma devono affrontare *agitazioni sociali* e una forte *spinta nazionalistica*.
 
 
 
+La **Gran Bretagna** mantiene l'*egemonia marittima* e vede svilupparsi il proprio *regime liberale* basato sul bipartismo. Ai due partiti tradizionali (liberali e conservatori) si aggiunge il nuovo *partito laburista*. I *governi liberali* attuano importanti *riforme sociali* e un *potenziamento della flotta* per fronteggiare la crescente potenza tedesca. Fra le questioni aperte ci sono la lotta *delle suffragette* per il *diritto di voto alle donne* e la ***Questione Irlandese***: la proposta liberale di autonomia per l'isola (*Home Rule)* osteggiata dai conservatori viene respinta dai nazionalisti cattolici del *Sinn Fein* e dai *Protestanti dell'Irlanda del Nord*.
 
 
 
+In **Germania** il nuovo imperatore *Guglielmo II* licenzia Bismarck e ne abbandona la politica prudente di mantenimento della pace inaugurando la politica del *nuovo corso* basato sul *militarismo* e la ricerca di *espansione economica e coloniale*; in particolare viene avviata la costruzione di una poderosa *flotta militare* che viene sentita dalla Gran Bretagna come una minaccia. A preoccupare gli inglesi e' anche la grande *espansione dell'industria tedesca*, basata sull'abbondanza di materie prime e sulla *manodopera qualificata* e la concorrenza nel campo del *commercio estero*. All'interno il dominio e' saldamente nelle mani dei *grandi capitalisti* e proprietari terrieri (*junker*).
 
 
 
+Nel 1890 il governo tedesco *non rinnova* il trattato di *controassicurazione* con la Russia e rifiuta di sostenere lo sviluppo industriale russo, spingendo cosi' i *russi* ad allearsi con la *Francia* nella ***Duplice intesa*** (1893).
 
+*Francia e Gran Bretagna* arrivano sull'orlo della guerra per questioni coloniali (incidente di *Fashoda*, 1898) ma poi risolvono i loro attriti con l'*Intesa Cordiale* (1904), accordo politico non ancora militare.
 
-
-
-
-
+Nel contempo l'indebolimento della Russia e delle sue minacce nei Balcani e in estremo oriente porta a un *riavvicinamento fra Gran Bretagna e Russia* (accordi sulle sfere di influenza in Asia centrale, 1907) gettando le basi per la ***Triplice intesa*** (diventata vera e propria alleanza nel 1914).
 
 
 

@@ -76,7 +76,7 @@ I meccanismi della passione vanno complicandosi man mano che si sale nelle sfere
 
 * Cos'altro cambia da una classe all'altra? In che modo cambia?
 
-Il linguaggio, le ambientazioni, gli obiettivi e la societa' 
+Il linguaggio, le ambientazioni, gli obiettivi e la societa'
 
 
 
@@ -102,7 +102,7 @@ No, perche' vige il principio di impersonalita' dell'autore.
 
 ##### ***IL MONDO ARCAICO E L'IRRUZIONE DELLA STORIA***
 
-Un tempo i Malavoglia *erano tanti come i sassi sulla strada vecchia di Trezza* (esempio che il popolo puo' capire --> narratore interno). 
+Un tempo i Malavoglia *erano tanti come i sassi sulla strada vecchia di Trezza* (esempio che il popolo puo' capire --> narratore interno).
 
 Il vero cognome era *Toscano, lo si diceva nel libro della parrocchia (esempio popolare).*
 
@@ -112,39 +112,61 @@ Avevano le tegole al sole (per dire che avevano la casa).
 
 Gli altri Toscano erano stati dispersi.
 
-Vi e' un esempio di collaborazione da ***Padron 'Ntoni*** mediante un pugno *chiuso* *"per menare il remo bisogna che tutte le 5 dita della mano battano su di esso"*, oltre al *"Gli uomini son fatti come le dita della mano: **il dito grosso deve far il dito grosso, e il dito piccolo deve far il dito piccolo**"*.
+Vi e' un esempio di collaborazione da ***Padron 'Ntoni*** mediante un pugno *chiuso* *"per menare il remo bisogna che tutte le 5 dita della mano battano su di esso"*, oltre al *"Gli uomini son fatti come le dita della mano: **il dito grosso deve far il dito grosso, e il dito piccolo deve far il dito piccolo**"*. (solidarieta', unione e gerarchias)
+
+
+
+Bastianazzo (figlio di 'Ntoni), corpulento ma rigava dritto quando c'era il nonno che si imponeva.
+
+La Longa (moglie di Bastianazzo), piccola e donna che tesseva e salava le acciughe.
+
+Luca, aveva il giudizio del piu' grande;
+
+Mena (filomena), stava sempre al telaio;
+
+Alessi, tutto suo nonno (morale)
+
+Lia, ancora ne carne ne pesce
+
+
 
 *"Le feste e le quarant'ore"* c'erano giorni di festa e giorni di lavoro/preghiera/impegno.
 
 
 
+***PROVERBI DI 'NTONI***
+
+<i>"Senza il pilota la barca non cammina"</i>
+
+<i>"Contentati di quel che t'ha fatto tuo padre" </i>RASSEGNAZIONE
+
+Ed altre sentenze giudiziose
+
+Vede padron 'Ntoni come una testa quadra, intelligente. Era anche consigliere comunale.
+
+*"Era un codino marcio"* Era una reazionario filo-Borbonico, auspicando-cospirando il ritorno di Francieschiello (ex re dei Borboni, cacciato da Garibaldi)
+
+Questa frase e' un discorso indiretto libero, l'errore grammaticale e' per immergersi
+
+*"Chi ha carico di casa non puo' dormire quando vuole. **Chi comanda ha da dar conto**".* Questo aggiunge il senso di ...
 
 
 
+...
 
 
 
+###### ***SVILUPPO DELLA VICENDA***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Il nonno acquista a credito da Zio Crocifisso (usuraio) dei *lupini* (vongoline, snack di allora); La *Provvidenza* (barca) naufraga, perdono il carico e muore Bastianazzo;
+* Viene recuperata la *Provvidenza*, 'Ntoni ritorna dalla leva ed al suo posto parte Luca. Lavorando duramente si rimettono a galla e pagano il debito;
+* Zio Crocifisso si prende la casa del Nespolo, i Malavoglia vengono isolati da tutti. Luca muore a Lissa (1866);
+* 'Ntoni parte per cercare fortuna ma torna deluso, non si rassegna e si mette a fare il contrabbandiere;
+* La Longa muore di colera e perdono la barca;
+* 'Ntoni viene sorpreso dal brigadiere, ferendolo che corteggiava la Lia;
+* L'avvocato Scipioni cerca di farlo passare per delitto d'onore, disonorando Lia;
+* Lia fugge e non tornera' piu';
+* Padron 'Ntoni finisce all'ospedale.
 
 
 
