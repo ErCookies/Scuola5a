@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+	  <meta charset="UTF-8">
+	  <title>Form con casella di testo</title>
+	</head>
+	<body>
+	  <h2>Inserisci il tuo nome</h2>
+	  <form action="" method="">
+		Bit: <input type="text" id="bit" name="bit" pattern="[01]"> <br>
+		Byte: <input type="text" id="byte" name="byte" pattern="[01]{8}"> <br>
+		Cifra HEX: <input type="text" id="HEXCifra" name="HEXCifra" pattern="[0-9A-F]"> <br>
+		Colore HEX: <input type="text" id="HEXColore" name="HEXColore" pattern="[0-9A-F]{6}"> <br>
+		Genere: <input type="text" id="genere" name="genere" pattern="[mMfF]"> <br>
+		Data: <input type="text" id="data" name="data" pattern="((0[1-9])|([12]\d)|(3[01]))\/((0[1-9])|(1[012]))\/\d{4})"> <br>
+		Numero reale: <input type="text" id="realNum" name="realNum" pattern="[\+\-]?\d+\.\d+"> <br>
+		<!--
+			un bit
+			un byte
+			una cifra esadecimale
+			un colore in formato rgb, usando gli hex -> #09AA65
+			il sesso di una persona (m o f)
+			una data (GG/MM/AAAA)
+			un numero con la virgola
+		-->
+		<button type="submit">Invia</button>
+	  </form>
+	</body>
+</html>
+ 

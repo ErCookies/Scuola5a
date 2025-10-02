@@ -1,0 +1,34 @@
+regex, regexp o Regular Expression sono una sequenza di caratteri che identifica un insieme di stringhe
+Utilizzate per:
+- convalida
+- ricerca
+- sostituzioni
+
+pattern="#[0-9A-F]{6}"
+Come primo carattere serve l'#, poi una sequenza di caratteri ({6}) utilizzanto i caratteri da 0 a 9 e dalla A alla F ([0-9A-F])
+
+Classi di caratteri:
+- . --> un qualsiasi carattere (tranne newline)
+	- per indicare il . come carattere "punto" si usa l'escape character "\" --> \.
+- \d --> cifra numerica 0-9
+- \w --> un carattere alfanumerico oppure underscore (_)
+- \s --> un carattere di spaziatura (spazio, tab, newline)
+- [] --> insieme di caratteri accetati - E' CASE SENSITIVE
+	- [aeiou] --> qualsiasi vocale MINUSCOLA
+	- [a-z] --> qualsiasi carattere MINUSCOLO
+	- [^aeiou] --> qualsiasi carattere NON (^) VOCALE MINUSCOLA
+
+Quantificatori:
+- ? 0 o 1 occorrenza
+- * 0 o piu' occorrenze
+- + 1 o piu' occorrenze 
+- {} numero esatto di occorrenze
+	- \d{3} --> ESATTAMENTE 3 cifre
+	- \d{3,5} --> DA 3 A 5 cifre
+	- \d{3,} --> ALMENO 3 CIFRE
+
+Gruppi:
+- () --> insiemi di espressioni regolari
+- | --> alternativa tra due espressioni
+	- "Milano|Roma"
+
