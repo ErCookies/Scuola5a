@@ -121,6 +121,8 @@ document.addEventListener("DOMContentLoaded", function (){
 		if(pwdInd.value.length < 8)
 			document.getElementById("pwdError").innerHTML = "La password deve essere lunga almeno 8 caratteri";
 		else{
+			document.getElementById("pwdError").innerHTML = "";
+			
 			let asciiVal;
 			let ausChar;
 			let hasLower = false;
@@ -143,8 +145,16 @@ document.addEventListener("DOMContentLoaded", function (){
 			
 			if(hasUpper && hasLower && hasNumber && hasSymbol)
 				document.getElementById("pwdError").innerHTML = "";
-			else
-				document.getElementById("pwdError").innerHTML = "La password deve contenere maiuscola, minuscola, numero e simbolo";
+			else{
+				if(!hasUpper)
+					document.getElementById("pwdError").innerHTML += " | Manca una maiuscola | ";
+				if(!hasLower)
+					document.getElementById("pwdError").innerHTML += " | Manca una minuscola | ";
+				if(!hasNumber)
+					document.getElementById("pwdError").innerHTML += " | Manca un numero | ";
+				if(!hasSymbol)
+					document.getElementById("pwdError").innerHTML += " | Manca un simbolo | ";
+			}
 		}
 	});
 });
