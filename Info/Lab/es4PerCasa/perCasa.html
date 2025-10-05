@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+	<!-- Cucchi Francesco 5AI regExp.html -->
+	  <meta charset="UTF-8">
+	  <title>Form con casella di testo</title>
+	</head>
+	<body>
+	  <h2>Inserisci il tuo nome</h2>
+	  <form action="" method="">
+		Codice Fiscale: <input type="text" id="bit" name="bit" 
+		pattern="[BCDFGHJKLMNPQRSTVWXYZ]{6}\d{2}[ABCDEHLMPRST]((0[1-9])|([12]\d)|(3[01]))[A-Z]\d{3}[A-Z]"><br>
+		<!--    3 let nom+cog    anno   lett mese            giorno              comune    cc-->
+		Carta Di Credito: <input type="text" id="bit" name="bit" 
+		pattern="\d{4}[ \-]\d{4}[ \-]\d{4}[ \-]\d{4}"> <br>
+		Password Complessa: <input type="text" id="bit" name="bit" 
+		pattern="^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[@#$%&]).{8,}$"> <br>
+		<!--
+			codice fiscale
+			carta di credito
+			password complessa
+		-->
+		<button type="submit">Invia</button>
+	  </form>
+	</body>
+</html>
+ 
