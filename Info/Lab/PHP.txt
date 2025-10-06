@@ -1,0 +1,5 @@
+PHP permette di generare pagine web statiche o dinamiche
+Linguaggio di scripting server-side (motore PHP = zend)
+PHP: PHP Hypertext Preropcessor, del 1994, linguaggio interpretato (come JS), estensione .php. Tag inclusione: <?php codice ?>
+
+L'output dello script php prende il posto del tag <?php ... ?>

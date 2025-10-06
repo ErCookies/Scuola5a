@@ -1,0 +1,4 @@
+cartella htdocs
+
+
+per modificare la porta di ascolto si va nel file httpd.conf e si modifica il parametro Listen da 80 ad un'altra porta e si modifica ServerName localhost:portaNuova
