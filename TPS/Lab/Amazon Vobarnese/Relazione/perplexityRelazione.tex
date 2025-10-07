@@ -1,0 +1,55 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\title{Relazione tecnica – Amazon Vobarnese}
+\author{Cucchi Francesco}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Introduzione}
+Questo documento descrive la struttura e il funzionamento del sistema Amazon Vobarnese, rappresentato tramite uno schema UML che individua attori e casi d'uso. L’obiettivo è descrivere la struttura del sistema, le sue funzioni e l’integrazione con attori esterni.
+
+\section{Architettura del sistema}
+L’architettura mostra una piattaforma e-commerce organizzata in moduli, che gestiscono diverse aree funzionali:
+\begin{itemize}
+  \item Area pubblica (registrazione e visualizzazione catalogo)
+  \item Area autenticata (login, acquisto prodotti, gestione account, richiesta rimborso, assistenza)
+  \item Moduli amministrativi (gestione catalogo, gestione personale)
+  \item Integrazioni con attori esterni (banca)
+\end{itemize}
+Ogni componente comunica tramite flussi diretti, rappresentati da linee di relazione che specificano interazioni, input e output dei processi.
+
+\section{Componenti e interfacce}
+Componenti individuati:
+\begin{itemize}
+  \item Registrazione: gestione nuova utenza.
+  \item Visualizzazione catalogo: accesso all’offerta prodotti.
+  \item Login: autenticazione cliente registrato.
+  \item Acquisto prodotto: flusso di acquisto, integrazione con sistema bancario.
+  \item Gestione account: gestione dati del profilo cliente.
+  \item Rimborso prodotto: flusso di richiesta e autorizzazione rimborso, con possibile integrazione con sistema bancario.
+  \item Assistenza clienti: rapporto fra utente e chatbot, o fra utente e personale.
+  \item Gestione catalogo/dati prodotto: aggiornamento prodotti, accessibile ai dipendenti ed admin.
+  \item Gestione personale: area riservata all’admin.
+\end{itemize}
+
+\section{Flussi operativi e funzionalità}
+Principali flussi:
+\begin{itemize}
+  \item Cliente non registrato: può solo visualizzare il catalogo e registrarsi.
+  \item Cliente registrato: può accedere a servizi aggiuntivi tra cui login, gestione account, richieste assistenza, acquisto e rimborso prodotti.
+  \item Dipendente: gestisce catalogo e dati prodotto, oltre a fornire eventuale assistenza.
+  \item Admin: gestisce personale, oltre alle mansioni dedicate ai dipendenti comuni.
+\end{itemize}
+Sequenza esempio: un cliente registrato effettua il login $\rightarrow$ visualizza catalogo $\rightarrow$ seleziona prodotto $\rightarrow$ avvia acquisto $\rightarrow$ inoltra richiesta al sistema bancario $\rightarrow$ riceve conferma/esito.
+
+
+\section{Conclusioni}
+...
+
+\end{document}
