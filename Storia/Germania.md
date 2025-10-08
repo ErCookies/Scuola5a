@@ -93,6 +93,31 @@ Nel contempo l'indebolimento della Russia e delle sue minacce nei Balcani e in e
 
 
 
+###### **10/8/2025**
+
+##### ***AREE DI CRISI***
+
+Questa evoluzione e' segnata da una serie di *crisi internazionali*:
+
+* **Crisi marocchine** del 1904 e 1911 col tentativo tedesco di opporsi alle pretese francesi, concluse con un accordo (*protettorato francese* sul Marocco, territori africani alla Germania);
+* **Guerre Balcaniche.**
+
+Nei *Balcani* la *crisi del dominio turco* da' slancio all'*espansionismo austriaco*.
+
+Nel 1908 - approfittando della rivoluzione dei *giovani turchi* a Istambul - gli austriaci annettono la *Bosnia Erzegovina* suscitando l'irritazione della *Serbia* - aspirante ad uno stato Jugoslavo - e della *Russia* sua protettrice.
+
+
+
+La sconfitta turca in Libia spinge Serbia, Grecia, Montenegro e Bulgaria ad attaccarla *(**Prima guerra Balcanica**)* e sonfiggerla in pochi mesi. Poi i vincitori si scontrano sulla spartizione del bottino e la Bulgaria attacca Serbia e Grecia (a questi si aggiungono Romania e Turchia - ***Seconda guerra Balcanica***).
+
+La Bulgaria e' ridotta, i turchi recuperano territori in Europa su iniziativa edlle potenze nasce il *Regno d'**Albania***.
+
+Le intromissioni di *Austria e Russia*, le delusioni degli stati balcanici, le preoccupazioni italiane per l'Albania ma sopratutto il *contrasto fra Austria e Serbia* trasformano i Balcani nella *polveriera d'Europa*.
+
+
+
+
+
 
 
 
