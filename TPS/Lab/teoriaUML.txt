@@ -1,0 +1,35 @@
+Omini: attori, nome univoco in base alla relazione
+Rettangolo tratteggiato: Sistema, il cui nome va sopra, ALL'ESTERNO
+Freccia piena, segmento pieno: associazione, seguendo il flusso si identificano gli attori secondari da quelli principali (principali beneficiano dall'azione, secondari fungono da supporto)
+Freccia piena, segmento tratt: Inclusione, entrante verso il vincolo. Necessita della scritta <<include>>
+Freccia piena, segmento tratt: Estensione, entrante verso il caso PRINCIPALE. Necessita della scritta <<extend>>
+Freccia vuota, segmento pieno: Generalizzazione, entrante verso colui dal quale si eredita (attore o caso).
+
+
+Inclusione: va a specificare un vincolo fra casi d'uso: non puoi fare uno senza passare dall'altro.
+Estensione: va a specificare che un caso d'uso PUO' essere richiamato durante l'esecuzione di un altro, non obbligatoriamente.
+Generalizzazione: legata al concetto di ereditarieta'.  Sia per attori, sia per casi d'uso. Nel caso "attori" guadagnano i casi d'uso, mentre riguardo i "casi d'uso" guadagnano inclusioni, estensioni etc. Si usa quando dei casi sono talmente specifici che necessitano di funzioni aggiuntive.
+
+
+
+
+JACOBSON
+Per ogni caso d'uso (USARE GLI STESSI NOMI) si ha una descrizione estremamente dettagliata dello stesso:
+
+- NOME					<DESCR>				EX.
+- Descrizione:			<Operazione che effettua>
+- Scopo:			<Sintesi dell'operazione>
+- Attori:			<Elenco attori coinvolti>
+- Attore primario:		<Attore primario se presente>
+- Use Case Extend:		<Eventuale Use Case successivo>
+- Scenario Principale:		<Nome scenario principale>		-->	<Acquisto andato a buon fine>
+	1. Precondizione:	<Vincolo per poter iniziare>		-->	<"Questo caso d'uso inizia quando...">
+	2. Flusso di eventi:	<Descrizione linguaggio naturale>
+	3. Postcondizione:	<Cio' che accade dopo lo Use Case>	-->	<"Quando questo caso d'uso termina...">
+- Scenari alternativi:		<Eventuali modalita' alternative>
+	1. Flussi alternativi:	<porcodio>
+	2. Eccezioni:		<Descrizione tutti casi errore>
+- Requisiti speciali:		<Requisiti non funzionali e vincoli>
+- Extension Points:		<Descrizione degli <<extend>> >
+- Frequenza Stimata:		<Per decidere le priorita'>		-->	<Un utente al minuto>
+- Criticita':			<Elemento da attenzionare>		-->	<Tempo di risposta>
