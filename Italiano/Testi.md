@@ -136,9 +136,9 @@ Lia, ancora ne carne ne pesce
 
 ***PROVERBI DI 'NTONI***
 
-<i>"Senza il pilota la barca non cammina"</i>
+*"Senza il pilota la barca non cammina"*
 
-<i>"Contentati di quel che t'ha fatto tuo padre" </i>RASSEGNAZIONE
+*"Contentati di quel che t'ha fatto tuo padre"* RASSEGNAZIONE
 
 Ed altre sentenze giudiziose
 
@@ -167,6 +167,51 @@ Questa frase e' un discorso indiretto libero, l'errore grammaticale e' per immer
 * L'avvocato Scipioni cerca di farlo passare per delitto d'onore, disonorando Lia;
 * Lia fugge e non tornera' piu';
 * Padron 'Ntoni finisce all'ospedale.
+
+
+
+###### **10/9/2025**
+
+###### ***FINALE***
+
+La conclusione e' che Alessi sposa Nunziata e rimette in piedi la famiglia. Alfio si mette il cuore in pace e Mena porta in braccio i suoi nipoti, quassi come se avesse il cuore in pace anche lei (povera e soffre in silenzio).
+
+Padron 'Ntoni muore in ospedale (il viaggio narrato e' una metafora per la morte, *"la gran cameraccia coi denti in fila"* e' l'ospedale). Padron 'Ntoni ha molte cose da dire ma non puo', da buon capofamiglia mantiene compostezza. Alla fine gli dicono che sono riusciti a riscattare la casa e' lui fa il suo ultimo sorriso.
+
+Anche nei Malavoglia c'erano due vagabondi cercati da Alessi. Il cane abbaia all'uscio (quando vede dei forestieri), Alessi non riconobbe 'Ntoni al ritorno dal gabbio (contrabbandiere --> coltellata al brigadiere, mascherata come delitto d'onore). 'Ntoni non riconosce le mura di casa, mangio' in silenzio e se ne va. Alessi non gli disse nulla e la Mena chiese se se ne andasse: "Si'" rispose 'Ntoni. Alla richiesta del dove, rispose che non lo sapeva, ritiene che il suo destino sia di andarsene via. 'Ntoni chiese del nonno e della Lia, ma non avette risposta. Penso' di essere responsabile, quindi voleva andarsene seduta stante. Quando fece il giro della casa, si fece fare un "tour", con Alessi che gli spiegava il tutto (vitello, forno nuovo etc.). Alessi gli propose di restare, ma rifiuto'. Alessi gli rammento' i vecchi tempi *quando salavano le acciughe tutte insieme*. Comunque 'Ntoni capi' che il nonno aveva ragione (solidarieta', gerarchia, accontentarsi di chi si e'...) e se ne ando', ma non prima di ricevere un abbraccio dal fratello Alessi.
+
+**FINE**
+
+
+
+
+
+##### ***NOVELLE RUSTICANE***
+
+Ritorna il *mondo della campagna* come in vita dei campi.
+
+Al centro c'e' il tema della ***Roba***, ben evidenziato dalla novella omonima (altra novella importante e' *"Liberta'"*)
+
+E chi tornera' nel Matro-Don Gesualdo.
+
+
+
+
+
+##### ***MASTRO-DON GESUALDO***
+
+Con **Mastro-Don Gesualdo** si passa dalla narrazione corale del Malavoglia alla storia di un *singolo individuo* dal suo punto di vista, in 4 parti:
+
+1. Presentazione del protagonista nel suo sforzo di ottenere *la roba* a **Vizzini**. *Matrimonio con Bianca Trao* come mezzo di *ascesa sociale*<b> 1820-21</b>;
+2. *L'ascesa sociale* di Gesualdo che da Mastro diventa *Don. L'apparente trionfo* contro i notabili del paese nell'asta per le terre comunali **1821**;
+3. *Il declino:* disavventure di Gesualdo con la figlia *Isabella* (futura *Duchessa di Leyra*) e con i fratelli che mirano alla sua roba **dopo il 1837**;
+4. *Il genero sperpera il denaro di Gesualdo. Muore Bianca. L'ambiente gli si ritorce contro, Gesualdo ammalato* deve fuggire da Vizzini e *muore* solo e disprezzato in casa del genero nobile a Palermo **1848**.
+
+
+
+
+
+
 
 
 
