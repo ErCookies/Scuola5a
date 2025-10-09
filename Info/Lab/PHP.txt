@@ -3,3 +3,8 @@ Linguaggio di scripting server-side (motore PHP = zend)
 PHP: PHP Hypertext Preropcessor, del 1994, linguaggio interpretato (come JS), estensione .php. Tag inclusione: <?php codice ?>
 
 L'output dello script php prende il posto del tag <?php ... ?>
+
+Le variabili non hanno tipo. Precedute dal simbolo del dollaro $. Non si dichiarano, si usano direttamente: $pippo = 5;
+
+Si puo' inserire <?php ?> nella head? SI, ma non per output (forse il title della pagina, ma boh)
+
