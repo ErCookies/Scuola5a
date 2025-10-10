@@ -98,6 +98,12 @@ No, perche' vige il principio di impersonalita' dell'autore.
 
 
 
+* Cos'e' il ciclo dei vinti?
+
+a
+
+
+
 
 
 ##### ***IL MONDO ARCAICO E L'IRRUZIONE DELLA STORIA***
@@ -206,26 +212,3 @@ Con **Mastro-Don Gesualdo** si passa dalla narrazione corale del Malavoglia alla
 2. *L'ascesa sociale* di Gesualdo che da Mastro diventa *Don. L'apparente trionfo* contro i notabili del paese nell'asta per le terre comunali **1821**;
 3. *Il declino:* disavventure di Gesualdo con la figlia *Isabella* (futura *Duchessa di Leyra*) e con i fratelli che mirano alla sua roba **dopo il 1837**;
 4. *Il genero sperpera il denaro di Gesualdo. Muore Bianca. L'ambiente gli si ritorce contro, Gesualdo ammalato* deve fuggire da Vizzini e *muore* solo e disprezzato in casa del genero nobile a Palermo **1848**.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
