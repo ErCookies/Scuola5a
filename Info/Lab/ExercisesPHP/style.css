@@ -1,0 +1,23 @@
+table {
+	border: solid 2px black;
+}
+
+thead {
+	font-weight: bold;
+}
+
+td{
+	padding: 0px;
+	border: solid 1px black;
+	text-align: center;
+}
+
+.blTile{
+	color: white;
+	background-color: black;
+}
+
+.whTile{
+	color: black;
+	background-color: white;
+}
