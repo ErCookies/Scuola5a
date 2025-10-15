@@ -71,7 +71,7 @@ Step per progettare un database:
 * Analisi dei requisiti;
 * Progettazione concettuale;
 * Inserimento di dati in *File XML* o *tabelle*?;
-* Scelta di un DBMS fra i vari sul mercato;
+* Scelta di un *DBMS* fra i vari sul mercato;
 * Scrittura fisica del database in linguaggio SQL.
 
 
@@ -100,7 +100,7 @@ Le ***associazioni*** rappresentano i legami logici fra le entita'.
 
 
 
-&nbsp;-----------------
+ -----------------
 
 |    **STUDENTE**     |                      --------
 
@@ -114,7 +114,7 @@ Le ***associazioni*** rappresentano i legami logici fra le entita'.
 
 | data di nascita |
 
-&nbsp;-----------------
+ -----------------
 
 
 
@@ -130,7 +130,7 @@ Associazioni 1:1, 1:N, N:M
 
 ***1:1***:
 
-&nbsp;----------                      -------------------
+ ----------                      -------------------
 
 | STUDENTE |	 possiede >	| ACCOUNT MICROSOFT |
 
@@ -138,7 +138,7 @@ Associazioni 1:1, 1:N, N:M
 
 | ...      |                    | ...               |
 
-&nbsp;----------                      -------------------
+ ----------                      -------------------
 
 *Uno studente possiede un Account Microsoft*
 
@@ -146,9 +146,9 @@ Associazioni 1:1, 1:N, N:M
 
 
 
-1:N
+***1:N***:
 
-&nbsp;----------                     ---------------
+ ----------                     ---------------
 
 | STUDENTE |	svolge >      /| PROVA SCRITTA |
 
@@ -156,7 +156,7 @@ Associazioni 1:1, 1:N, N:M
 
 | ...      |                  \\| ...           |
 
-&nbsp;----------                     ---------------
+ ----------                     ---------------
 
 *Uno studente svolge piu' prove scritte*
 
@@ -164,17 +164,17 @@ Associazioni 1:1, 1:N, N:M
 
 
 
-N:M
+***N:M***:
 
-&nbsp;----------                     ---------
+ ----------                     ---------
 
-| STUDENTE |\\	insegna >     /| DOCENTE |
+| STUDENTE |\\	< insegna     /| DOCENTE |
 
 |----------|-------------------|---------|
 
 | ...      |/                 \\| ...     |
 
-&nbsp;----------                     ---------
+ ----------                     ---------
 
 *Un docente insegna a piu' studenti*
 
@@ -184,21 +184,75 @@ N:M
 
 
 
-Cardinalita' minime
+***Cardinalita' minime***:
+
+&nbsp;----------                   ---------------
+
+| STUDENTE |    svolge >    /| PROVA SCRITTA |
+
+|----------|-|------------0--|---------------|
+
+| ...      |                \\| ...           |
+
+&nbsp;----------                   ---------------
 
 
 
-Studente	prova scritta
+tradotto: *Uno studente svolge 0 o piu' prove scritte,*
 
-|  svolge >   /
-
-|-|---------O--
-
-|             \\
+&nbsp;	  *Una prova scritta e' di un solo studente.*
 
 
 
-tradotto: *Uno studente svolge 0 o piu' prove scritte,* 
+&nbsp;      < Coordina
+
+&nbsp;     --------------
+
+&nbsp;     |            |
+
+&nbsp;     |            | *Supervisore*
+
+&nbsp;     |        ------------
+
+&nbsp;     |      /| DIPENDENTE |
+
+&nbsp;     |-----|-|------------|
+
+&nbsp;*Cooperatore* \\| ...        |
+
+&nbsp;              ------------
+
+
+
+
+
+*Un dipendente (supervisore) coordina uno o piu' dipendenti (collaboratori),*
+
+*Un dipendente (collaboratore) viene supervisionato da un altro dipendente (supervisore).*
+
+
+
+###### *10/14/2025*
+
+
+
+***Classificazione***:
+
+* Totale-Esclusiva: **OGNI** elemento della superclasse appartiene ad una ed una sola sottoclasse;
+* Totale-Sovrapposta: **OGNI** elemento della superclasse appartiene ad una o piu' sottoclassi;
+* Parziale-Esclusiva: Gli elementi della superclasse possono appartenere a 0 od una sottoclasse;
+* Parziale-sovrapposta: Gli elementi della superclasse possono appartenere a 0 o piu' sottoclassi;
+
+
+
+
+
+***DURANTE LA FASE DI PRODUZIONE DEL DIAGRAMMA ER NON E' NECESSARIO TROVARE UNA CHIAVE PRIMARIA, SE NON RICAVABILE DAL PROBLEMA.***
+
+***ALLO STESSO MODO SI POSSONO AGGIUNGERE PIU' ATTRIBUTI, IN MANIERA SENSATA E RELATIVA AL PROBLEMA.***
+
+.
+
 
 
 
