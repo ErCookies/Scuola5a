@@ -1,0 +1,32 @@
+17/10/2025
+Reti Ethernet e strato di collegamento
+Dispositivi di rete a livello 1 - 2 (Hub - Switch)
+
+HUB
+Sono dei ripetitori di bit da un'interfaccia su tutte le altre
+DISTANZA MASSIMA FRA NODO E HUB: 100m. 
+Se malfunzionamento di un adattatore, l'hub può disconnetterlo
+Livello 1 pila ISO/OSI
+Si possono connettere degli HUB ad un altro HUB a livello più alto, come fosse centro stella.
+Ogni singola LAN collegata è un segmento di rete.
+La creazione di rete multilivello a HUB non comporta aumenti di troughput. (Capacita' di informazioni)
+Buona tolleranza ai guasti, i segmenti comportano pochi host, o introducendo ridondanze, permettendo il funzionamento anche alla rottura di un singolo HUB
+
+BRIDGE
+Livello 2 Pila ISO/OSI
+Ricevono il frame e lo memorizzano, individuano l'host destinatario (MAC Address) ed inviandolo solo sulla linea interessata (link d'uscita).
+Applicano un filtro sui paccheti, bloccano i frame che sono destinati allo steso segmento (non lo mandano a se stessi)
+Inoltrano solo quelli destinati ad altri segmenti LAN
+Usano il protocollo CSMA/CD
+Isolano i domini di collisione, aumentando il troughput massimo, non introducono numero massimo sul limite delle stazioni.
+
+SWITCH
+Livello 2 Pila ISO/OSI
+Sostituisce sia l'hub, sia lo switch
+È un bridge ad alte prestazioni con più interfacce
+Usano memorie CAM -Central Access Memory- (accesso veloce)
+Garantiscono una banda per ogni stazione
+FULL DUPLEX --> ascolto e trasmetto simultaneamente
+Ogni porta dello switch è un dominio di collisione
+
+
