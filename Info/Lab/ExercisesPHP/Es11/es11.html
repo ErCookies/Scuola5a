@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<!-- Cucchi Francesco 5AI es11.html -->
+		<link rel="stylesheet" type="text/CSS" href="../style.css">
+		
+		<script src="es11.js"></script>
+	</head>
+	
+	<body>
+		<!--
+			BMI
+			altezza e peso
+			altezza in cm
+			peso in kg
+			controllo dati lato client e server
+			ogni categoria mostra un'img diversa
+
+			foreach($vettore as $key=>$value)
+		-->
+		<h2>Esercizio 11</h2>
+		<form style="width:20%;" method="POST" action="es11.php" onsubmit="return check(this)">
+			<fieldset>
+				<legend>Calcola BMI</legend>
+				Altezza:<input type="text" name="altezza">
+				<br>
+				Massa:<input type="text" name="massa">
+				<br>
+				<input type="submit" value="Calcola il tuo BMI">
+			</fieldset>
+		</form>
+	</body>
+</html>
