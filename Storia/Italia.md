@@ -89,7 +89,7 @@ La politica di Giolitti garantisce una *lunga stabilita' di governo* e important
 
 Giolitti introduce importanti mutamenti anche in *politica estera*.
 
-L'Italia appartiene dal 1882 alla ***Triplice Alleanza*** con Germania ed Austria-Ungheria e nell'epoca di Crispo ha avuto forti tensioni con la Francia.
+L'Italia appartiene dal 1882 alla ***Triplice Alleanza*** con Germania ed Austria-Ungheria e nell'epoca di Crispi ha avuto forti tensioni con la Francia.
 
 Giolitti stipula *accordi coloniali* con la *Francia* (Mano libera in *Tripolitania e Cirenaica* in cambio del *Marocco*).
 
