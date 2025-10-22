@@ -1,6 +1,6 @@
 **09/26/2025**
 
-#### **Nascita della Germania**
+#### **NASCITA DELLA GERMANIA**
 
 L'unificazione tedesca nel Secondo Reich avviene sopratutto all'iniziativa del cancelliere Bismarck:
 
@@ -10,7 +10,7 @@ L'unificazione tedesca nel Secondo Reich avviene sopratutto all'iniziativa del c
 
 
 
-###### **L'egemonia tedesca in Europa**
+###### **L'EGEMONIA TEDESCA IN EUROPA**
 
 Fino al 1890 Bismarck diviene il custode piu' geloso del sistema di alleanze che ha come scopo l'isolamento della Francia
 
@@ -20,7 +20,7 @@ Il cancelliere stipula la Triplice alleanza con Austria ed Italia (1882) ed il T
 
 
 
-##### ***Gli Stati Uniti tra crescita economica e imperialismo***
+##### ***GLI STATI UNITI TRA CRESCITA ECONOMICA ED IMPERIALISMO***
 
 Dopo la guerra civile (1861-65) gli Stati Uniti consolidano il loro enorme sviluppo economico basato sulla ricchezza del sottosuolo e su una potente economia industriale (con i nuovi metodi del Taylorismo: organizzazione scientifica del lavoro). L'agricoltura meccanizzata nelle grandi pianure mette in crisi quella europea, mentre la popolazione viene alimentata da una forte immigrazione. La ricchezza si concentra nell'ambito di pochi gruppi capitalistici, contro i quali a fine secolo vengono varate le prime legislazioni antitrust.
 
@@ -28,16 +28,16 @@ Dopo la guerra civile (1861-65) gli Stati Uniti consolidano il loro enorme svilu
 
 Lo sviluppo economico consente anche agli Stati Uniti di partecipare alla gara imperialistica fra le potenze europee (ricerca di fonti di materie prime e di mercati). Gli USA si rivolgono in particolare all'america centrale e al Pacifico:
 
-* Guerra contro la spagna (1898). Conquista delle Filippine, di Portorico e delle Samoa, protettorato su Cuba;
+* Guerra contro la Spagna (1898). Conquista delle Filippine, di Portorico e delle Samoa, protettorato su Cuba;
 * Intervento a favore dell'indipendenza di Panama e costruzione del Canale;
 * Appoggio in Messico alla dittatura di Porfirio Diaz (spazzata dalla rivoluzione di Villa e Zapatas 1910);
 * Altri interventi in Amwrica centrale e meridionale (Corollario Roosvelt).
 
 
 
+##### 
 
-
-##### ***Giappone e Russia dalla modernizzazione alla guerra***
+##### ***GIAPPONE E RUSSIA DALLA MODERNIZZAZIONE ALLA GUERRA***
 
 L'isolamento del **Giappone** e' rotto dall'iniziativa delle potenze occidentali.
 
@@ -67,7 +67,7 @@ Lo Zar Nicola II e' costretto a promulgare una Costituzione che prevede un certo
 
 
 
-##### ***L'Europa in cerca di nuovi equilibri***
+##### ***L'EUROPA IN CERCA DI NUOVI EQUILIBRI***
 
 Lo sviluppo economico ed industriale (creazione di *un'economia internazionale* basata sul *Gold Standard*) e fattori ideologici con il montare di nazionalismi portano alla corsa *all'espansione coloniale* e aumentano la *tensione fra le potenze europee*.
 
@@ -113,20 +113,4 @@ La sconfitta turca in Libia spinge Serbia, Grecia, Montenegro e Bulgaria ad atta
 La Bulgaria e' ridotta, i turchi recuperano territori in Europa su iniziativa edlle potenze nasce il *Regno d'**Albania***.
 
 Le intromissioni di *Austria e Russia*, le delusioni degli stati balcanici, le preoccupazioni italiane per l'Albania ma sopratutto il *contrasto fra Austria e Serbia* trasformano i Balcani nella *polveriera d'Europa*.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

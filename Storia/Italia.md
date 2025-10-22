@@ -113,31 +113,3 @@ La tensioe sociale sfocia nella ***settimana rossa*** (uno sciopero generale div
 
 #### FINO A QUI VERIFICA 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-

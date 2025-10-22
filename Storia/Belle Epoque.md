@@ -1,8 +1,6 @@
 **09/17/2025**
 
-
-
-**CRESCITA ECONOMICA E SOCIETA' DI MASSA**
+##### **CRESCITA ECONOMICA E SOCIETA' DI MASSA**
 
 La *moderna societa' di massa* si delinea in Europa e negli USA, a cavallo tra fine '800 ed inizio '900, grazie ad un insieme di fattori:
 
@@ -21,7 +19,7 @@ Alla base c'e' una grande *crescita economica* determinata da uno straordinario 
 
 
 
-***2ª RIVOLUZIONE INDUSTRIALE:***
+###### ***2ª RIVOLUZIONE INDUSTRIALE:***
 
 * *Innovazione tecnologica* (scienza e tecnica);
 * Nuove *fonti energetiche* (**petrolio, elettricita'**);
@@ -43,8 +41,6 @@ Anche il commercio assume una dimensione internazionale (Imperialismo come corsa
 
 
 **09/19/2025**
-
-
 
 Si allarga anche il coinvolgimento nella *vita politica*:
 
