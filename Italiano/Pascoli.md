@@ -25,13 +25,9 @@ Lo scrittore non deve annunciare delle verità, ma *svelare i legami segreti* ch
 * E rivelarli con un linguagggio allusivo: *analogie, **sinestesie ("unione di vari sensi -- voce amara")***;
 * Quindi: una *poesia elitaria*, iniziatica.
 
-a
 
 
-
-
-
-
+La scelta di di una *poesia aristocratica* nasce anche dalla *frattura fra intellettuale e società* (che emargina gli umanisti e gli artisti e li sottopone alla *logica del mercato*).
 
 
 
