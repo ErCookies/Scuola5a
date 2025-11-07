@@ -1,0 +1,20 @@
+8)
+1 - Column Names
+2 - Key Field
+3 - Fields
+4 - Record
+5 - Column Value
+
+9)
+1 - Structured collection of data
+2 - Data duplication
+3 - Precise element
+4 - Primary key
+5 - Non-structured data
+6 - Foreign key
+
+12)
+A database is a structured collection of data stored/archived electronically. It can contains any kind of data, including words, numbers, images and video.
+There are two types of databeses: non-relational and relational databases.
+A non-relational database is a database which doesn't use tables formed by rows and columns.
+A relational database organizes data in rows and columns, and together they make a table. A relational database can enstablish links (relation) between data merging the tables.

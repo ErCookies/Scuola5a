@@ -3,16 +3,19 @@
 function check(formettino){
 	const alt = formettino.altezza.value;
 	const massa = formettino.massa.value;
-	let valido = true;
+	let valido = false;
 	
-	if(alt == null || isNaN(massa) || alt <= 30 || alt >= 220){
+	alert("Altezza: " + alt + " | Massa: " + massa);
+	
+	if(alt == null || isNaN(alt) || alt <= 30 || alt >= 220){
 		valido = false;
-		formettino.altezza.focus;
 	}
 	if(massa == null || isNaN(massa) || massa <=10 || massa >= 500){
 		valido = false;
-		formettino.massa.focus;
 	}
+	
+	if(!valido)
+		alert("Controllare i dati inseriti");
 	
 	return valido;
 }

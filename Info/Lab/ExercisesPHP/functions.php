@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-
-	<!-- Cucchi Francesco 5AI functions.php -->
-	
 <?php
+	#Cucchi Francesco 5AI functions.php
+	
 function palindroma($str){
 	$test = array_reverse(str_split($str));
 	return implode($test) == $str;
@@ -30,5 +29,15 @@ function strDev($array){
 
 function calcolaBMI($hgt, $wgt){
 	return ($wgt / (($hgt/100)**2));
+}
+
+function ezImport($nF) {
+    $righe = file($nF);
+    $vals = [];
+
+    for ($i = 0; $i < count($righe); $i++) {
+        $vals[] = trim($righe[$i]);
+    }
+    return $vals;
 }
 ?>

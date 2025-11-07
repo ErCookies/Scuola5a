@@ -33,3 +33,165 @@ La scelta di di una *poesia aristocratica* nasce anche dalla *frattura fra intel
 
 
 
+**10/30/2025**
+
+##### ***GIOVANNI PASCOLI***
+
+Nasce a S.*Mauro di Romagna* nel *1855* da *famiglia benestante;* può studiare in collegio.
+
+10 agosto 1867: ***uccisione del padre*** ed inizio di una serie di calamità che *distruggono il nido famigliare* lasciandogli una *concezione negativa della realtà*.
+
+Studente brillante, si forma una soida *cultura classica* (all'università di Bologna è allievo di *Carducci*).
+
+Aderisce al *movimento socialista* di Andrea Costa e *viene arrestato* (in seguito abbandona il ***socialismo*** e si avvicina al ***nazionalismo***, ma sempre in modo personale). *Dopo la laurea (1882)* si dedica all'*insegnamento*, prima *liceale*, poi *universitario*, mentre cresce la sua fama letteraria (subentra a Carducci come *poeta ufficiale*).
+
+Tenta di *ricostruire il **nido** famigliare* ccon le sorelle Ida e Maria a *Castelvecchio* verso le quali ha un attaccamento morboso e vive il *matrimonio di Ida* come un *tradimento*.
+
+*MUORE NEL 1912* (aura).
+
+
+
+###### ***X AGOSTO***
+
+*" San Lorenzo, io lo so perché tanto*
+
+*di stelle per l'aria tranquilla*
+
+*arde e cade, perché si gran pianto*
+
+*nel concavo cielo sfavilla.*
+
+
+
+*Ritornava una rondine al tetto:*
+
+*l'uccisero: cadde tra i spini;*
+
+*ella aveva nel becco un insetto:*
+
+*la cena dei suoi rondinini.*
+
+
+
+*Ora è là, come in croce, che tende*
+
+*quel verme a quel cielo lontano;*
+
+*e il suo nido è nell'ombra, che attende,*
+
+*che pigola sempre più piano.*
+
+
+
+*Anche un uomo tornava al suo nido:*
+
+*l'uccisero: disse: Perdono;*
+
+*e restò negli aperti occhi un grido:*
+
+*portava due bambole in dono...*
+
+
+
+*Ora là, nella casa romita,*
+
+*lo aspettano, aspettano in vano:*
+
+*egli immobile, attonito, addita*
+
+*le bambole al cielo lontano.*
+
+
+
+*E tu, Cielo, dall'alto dei mondi*
+
+*sereni, infinito, immortale,*
+
+*oh! d'un pianto di stelle lo inondi*
+
+*quest'atomo opaco del Male! "*
+
+
+
+Io so perchè così tante stelle ardono e cadono, perchè sono il pianto del cielo.
+
+
+
+Quando una rondine tornava al nido fu uccisa cadde fra le spine (riferimento alla Passione di Cristo) con ancora in bocca la cena dei rondinini.
+
+Il cielo lontano indica la lontananza della provvidenza divina, la rondine chiede conto al Cielo di come possa essere accaduto.
+
+Il pigolio sempre più piano: i rondinini stanno morendo.
+
+Anche un uomo tornava al nido: metafora del padre ucciso
+
+Il grido della morte negli occhi aperti.
+
+Le due bambole in nodo sono per le figlie.
+
+Nella casa lontana lo aspettano invano, il padre, incredulo che sia morto, fa conto al cielo del perchè sia.
+
+
+
+
+
+###### *LA VISIONE DEL MONDO*
+
+*L'influenza del positivismo* si vede nella *precisione* nel suo *linguaggio specifico* (ornitologia, botanica) e nei riferimenti all'*astronomia*, ma nelle sue liriche si vede *l'attrazione verso l'ignoto, il **mistero**, l'inconoscibile* e la *rinuncia ad una visione razionale del mondo* che appare invece *frantimeta* con gli elementi rappresentati in modo casuale *come si offrono alla percezione senza gerarchie* (Ingigantendo i minimi particolari e rimpicciolendo realtà cosmiche).
+
+Gli *oggetti materiali* sono filtrati dalla *visione soggettiva* del poeta assumendo valenza di ***simboli*.**
+
+*La sfera dell'io si confonde con la realtà oggettiva:* le cose assumono significati umani.
+
+
+
+
+
+###### ***LAVANDARE***
+
+<i>"</i>
+
+<i>Nel campo mezzo grigio e mezzo nero</i>
+
+<i>resta un aratro senza buoi che pare</i>
+
+<i>dimenticato, tra il vapor leggero.</i>
+
+
+
+<i>E cadenzato dalla gora viene</i>
+
+<i>lo sciabordare delle lavandare</i>
+
+<i>con tonfi spessi e lunghe cantilene:</i>
+
+
+
+<i>Il vento soffia e nevica la frasca,</i>
+
+<i>e tu non torni ancora al tuo paese,</i>
+
+<i>quando partisti, come son rimasta,</i>
+
+<i>come l’aratro in mezzo alla maggese.</i>
+
+<i>"</i>
+
+
+
+In un campo metà arato metà no, c'è un aratro senza buoi, dimenticato.
+
+Dal canale viene lo sciabordare (panni nell'acqua) e tonfi pesanti (panni contro la pietra)
+
+Il vento soffia (canto delle lavandaie) e nevica la frasca (foglie che cadono).
+
+Si capisce l'immagine iniziale, la quale simboleggia l'abbandono.
+
+
+
+Mette insieme termini colti (cadenzare) insieme a termini contadini (sciabordare).
+
+
+
+La visione di Pascoli non è SINTETICA (visione generale), ma ANALITICA (prende i particolari).
+
