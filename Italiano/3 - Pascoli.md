@@ -149,33 +149,33 @@ Gli *oggetti materiali* sono filtrati dalla *visione soggettiva* del poeta assum
 
 ###### ***LAVANDARE***
 
-<i>"</i>
+*"*
 
-<i>Nel campo mezzo grigio e mezzo nero</i>
+*Nel campo mezzo grigio e mezzo nero*
 
-<i>resta un aratro senza buoi che pare</i>
+*resta un aratro senza buoi che pare*
 
-<i>dimenticato, tra il vapor leggero.</i>
-
-
-
-<i>E cadenzato dalla gora viene</i>
-
-<i>lo sciabordare delle lavandare</i>
-
-<i>con tonfi spessi e lunghe cantilene:</i>
+*dimenticato, tra il vapor leggero.*
 
 
 
-<i>Il vento soffia e nevica la frasca,</i>
+*E cadenzato dalla gora viene*
 
-<i>e tu non torni ancora al tuo paese,</i>
+*lo sciabordare delle lavandare*
 
-<i>quando partisti, come son rimasta,</i>
+*con tonfi spessi e lunghe cantilene:*
 
-<i>come l’aratro in mezzo alla maggese.</i>
 
-<i>"</i>
+
+*Il vento soffia e nevica la frasca,*
+
+*e tu non torni ancora al tuo paese,*
+
+*quando partisti, come son rimasta,*
+
+*come l’aratro in mezzo alla maggese.*
+
+*"*
 
 
 
@@ -194,4 +194,180 @@ Mette insieme termini colti (cadenzare) insieme a termini contadini (sciabordare
 
 
 La visione di Pascoli non è SINTETICA (visione generale), ma ANALITICA (prende i particolari).
+
+
+
+----
+
+
+
+###### ASSIUOLO
+
+*"*
+
+*Dov’era la luna? Che il cielo*
+
+*notava in un’alba di perla,*
+
+*ed ergersi il mandorlo e il melo*
+
+*parevano a meglio vederla.*
+
+*Venivano soffi di lampi*
+
+*da un nero di nubi laggiù;*
+
+*veniva una voce dai campi:*
+
+*chiù…*
+
+*Le stelle lucevano rare*
+
+*tra mezzo alla nebbia di latte:*
+
+*sentivo il cullare del mare,*
+
+*sentivo un fru fru fra le fratte3,*
+
+*sentivo nel cuore un sussulto,*
+
+*com’eco d’un grido che fu.*
+
+*Sonava lontano il singulto:*
+
+*chiù…*
+
+*Su tutte le lucide vette*
+
+*tremava un sospiro di vento;*
+
+*squassavano le cavallette*
+
+*finissimi sistri d’argento*
+
+*(tintinni a invisibili porte*
+
+*che forse non s’aprono più?…);*
+
+*e c’era quel pianto di morte…*
+
+*chiù…*
+
+*"*
+
+
+
+La nebbia impedisce alla nostra nebbia di vedere, quindi subentra l'immaginazione. Nel buio si immagazzinano tutte le nostre paure.
+
+
+
+----
+
+
+
+###### IL GELSOMINO NOTTURNO
+
+*"*
+
+*E s’aprono i fiori notturni,*
+
+*nell’ora che penso ai miei cari.*
+
+     *Sono apparse in mezzo ai viburni*
+
+     *le farfalle crepuscolari.*
+
+
+
+*Da un pezzo si tacquero i gridi:*
+
+*là sola una casa bisbiglia.*
+
+     *Sotto l’ali dormono i nidi,*
+
+     *come gli occhi sotto le ciglia.*
+
+
+
+*Dai calici aperti si esala*
+
+*l’odore di fragole rosse.*
+
+     *Splende un lume là nella sala.*
+
+     *Nasce l’erba sopra le fosse.*
+
+
+
+*Un’ape tardiva sussurra*
+
+*trovando già prese le celle.*
+
+     *La Chioccetta per l’aia azzurra*
+
+     *va col suo pigolio di stelle.*
+
+
+
+
+
+*Per tutta la notte s’esala*
+
+*l’odore che passa col vento.*
+
+     *Passa il lume su per la scala;*
+
+     *brilla al primo piano: s’è spento...*
+
+
+
+*È l’alba: si chiudono i petali*
+
+*un poco gualciti; si cova,*
+
+     *dentro l’urna molle e segreta,*
+
+     *non so che felicità nuova.*
+
+*"*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
