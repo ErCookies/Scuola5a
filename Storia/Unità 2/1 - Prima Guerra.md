@@ -136,9 +136,105 @@ Il 24 ottobre un'offensiva austro-tedesca sfonda il fronte italiano a ***Caporet
 *Cadorna* accusa la viltà dei soldati e il *disfattismo* di socialisti e cattolici.
 
 
+
 Nasce il *governo Orlando* di unità nazionale; anche i *socialisti* appoggiano la difesa e l'avanzata nemica viene fermata sul ***Piave*** dal nuovo comandante in capo *Diaz*.
 
 Nell'aprile 1917 si ha l'***intervento americano*** \[...]
+
+
+
+
+
+
+
+\[...]
+
+
+
+
+
+
+
+
+
+
+
+###### ***LA GUERRA CIVILE***
+
+Il governo rivoluzionario - chiamato *Consiglio dei commissari del popolo* - fa approvare un decreto per la *pace* "senza annessioni nè indennità" e uno per la *confisca* delle grandi *proprietà terriere* a vantaggio dei contadini, ma le *elezioni per l'assemblea costituente* vedono la vittoria dei socialrivoluzionari e la *sconfitta dei bolscevichi*. Per cui *Lenin la scioglie* d'autorità in nome del superiore potere dei soviet.
+
+Stipula poi la *pace di Brest-Litovsk* (con la Germania) rinuncia alla Polonia, ai Paesi Baltici, alla Finlandia e all'Ucraina.
+
+
+
+Scoppia una feroce ***guerra civile*** fra i bolscevichi (*rossi* - comunisti) e loro oppositori (bianchi - zaristi, liberali e menscevichi), appoggiati dall'Intesa. Lenin proclama ufficialmente la *Repubblica Socialista Federativa Sovietica Russa* con un regime a *partito unico*.
+
+L'*armata rossa* riorganizzata da *Trockij* ha la meglio sui bianchi (1921) dopo un consiglio accompagnato da stragi e carestie che provoca milioni di morti.
+
+*Lenin*, vedendo la rivoluzione d'ottobre come il primo passo della *rivoluzione mondiale*, dà vita alla *terza internazionale (Komintern)* per diffondere la rivoluzione su scala mondiale.
+
+Per sostenere la lotta contro i bianchi e fronteggiare la carestia, Lenin ricorre al ***comunismo di guerra***, sottoponendo tutta la *produzione* al *controllo forzato dello Stato* (requisizione dei prodotti agricoli - es. costringe a versare il prodotto dei contadini in degli *"ammassi*") *sopprimendo la libertà d'opinione*, il diritto di sciopero e *introducendo* il *lavoro forzato* e la *polizia politica* (*CEKA*).
+
+Queste misure forniscono la vittoria ma provocano *ribellioni contadine* (represse col *terrore*) e la *rivolta dei marinai di Kronstadt\**, che spingono Lenin ad abbandonare il comunismo di guerra, dato che si erano accorti di essere sfociati in un *regime dittatoriale*.
+
+
+
+\*coloro che spararono sul Palazzo d'Inverno, i soldati più fedeli.
+
+
+
+
+
+###### ***LA NASCITA DELL'URSS***
+
+Lenin vara la *nuova politica economica* (***NEP***):
+
+* *Fine delle requisizioni forzate* (sostituite da un'imposta fissa);
+* *restaurazione* del *piccolo commercio*, della *piccola industria privata*;
+* maggiore libertà per le grandi industrie (di proprietà statale.
+
+In *politica estera* viene cercata una *distensione* (abbandona la rivoluzione e cerca di allacciare rapporti con altri Stati) con gli altri Stati.
+
+In *campo religioso* vengono confiscati i beni ecclesiastici e viene proibita al cleroogni attività educativa.
+
+Viene *combattuto l'analfabetismo* ma la cultura e l'insegnamento vengono conformati al *Marxismo*.
+
+
+
+Nel 1922 viene creata l'*Unione delle Repubbliche Socialiste Sovietiche* ***(URSS)***
+
+Sulla carta garantisce larghe autonomie alle repubbliche (Bielorussia, Ucraina, ...) ma di fatto dominata dal partito.
+
+La *Costituzione del 1924* prevede che:
+
+* Il potere legislativo spetta sl *Soviet Supremo*;
+* Il potere esecutivo al *Consiglio dei commissari del popolo*.
+
+Ma di fatto tutta la direzione dello Stato è nelle mani del *comitato centrale* del *Partito Comunista*.
+
+Nel 1924 *muore Lenin* (già ammalato - Ictus) e si scatena la *lotta per la successione*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -159,4 +255,6 @@ Nell'aprile 1917 si ha l'***intervento americano*** \[...]
 
 
 .
+
+
 
