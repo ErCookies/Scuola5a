@@ -2,7 +2,7 @@
 
 ##### ***1914: L'ILLUSIONE DELLA GUERRA-LAMPO***
 
-All'inizio del novecento l'Europa e' caratterizzata da un forte *antagonismo fra le grandi potenze*:
+All'inizio del Novecento l'Europa e' caratterizzata da un forte *antagonismo fra le grandi potenze*:
 
 * *Rivalita' economiche* (sopratutto tra Gran Bretagna e Germania);
 * *Cause politiche* e *spinte nazionalistiche* (questione *Alsazia-Lorena*, *irredentismo* italiano, rivalita' austro-russa nei *Balcani*);
@@ -10,7 +10,7 @@ All'inizio del novecento l'Europa e' caratterizzata da un forte *antagonismo fra
 
 
 
-La scintilla e' *l'attentato di Sarajevo* (uccisione del principe ereditario austriaco Francesco ferdinando ad opera della *mano nera*).
+La scintilla e' *l'attentato di Sarajevo* (uccisione del principe ereditario austriaco Francesco Ferdinando ad opera della *mano nera*).
 
 L'***Austria*** coglie l'occasione per umiliare la Serbia e le invia un *ultimatum* (23 luglio) ritenendosi insiddisfatta dichiara *guerra alla Serbia* (28 luglio).
 
@@ -44,14 +44,14 @@ In estremo oriente (intervento del *Giappone* a fianco dell'Inghilterra) e in Af
 
 ###### ***L'ITALIA DALLA NEUTRALITA' ALL'INTERVENTO***
 
-L'***Italia*** all'inizio del conflitto dichiara la propria *neutralita'* (la triplice alleanza ha un carattere difensivo e prevede consultazioni non avvenute) mentre il governo cerca di ottenere *compensi dall'austria* in cambio della neutralita'.
+L'***Italia*** all'inizio del conflitto dichiara la propria *neutralita'* (la triplice alleanza ha un carattere difensivo e prevede consultazioni non avvenute) mentre il governo cerca di ottenere *compensi dall'Austria* in cambio della neutralita'.
 
 Il paese si spacca fra:
 
 * ***Neutralisti*** (*socialisti*, *cattolici*, *liberali giolittiani* - «Parecchio» → Giolitti disse che si poteva ottenere "parecchio" non facendo la guerra. E' stato ritenuto infedele allo stato);
 * ***Interventisti*** (*Nazionalisti* - d'Annunzio, *destra liberale*, *irredentisti*, *democratici*, *estrema sinistra*).
 
-
+---
 
  	Socialisti → maggioranza lavoratori
 
@@ -61,9 +61,9 @@ Il paese si spacca fra:
 
  	Anche se la maggioranza era a favore della pace, gli *interventisti* "facevano piu' casino".
 
+---
 
-
-Mussolini prima neutralista diventa acceso interventista e viene espulso dal PSI.
+Mvssolini prima neutralista diventa acceso interventista e viene espulso dal PSI.
 
 
 
@@ -77,9 +77,9 @@ Impegnandosi ad *entrare in guerra* in cambio di:
 
 Il parlamento non viene informato ma deve votare i provvedimenti necessari.
 
-La mobilitazione della piazzaz interventista ha la meglio sulla maggioranza neutralista del parlamento ("*Maggio Radioso*").
+La mobilitazione della piazza interventista ha la meglio sulla maggioranza neutralista del parlamento ("*Maggio Radioso*").
 
-Giolotti rinuncia a ogni posizione e il parlamento vota i pieni poteri al governo.
+Giolitti rinuncia a ogni posizione e il parlamento vota i pieni poteri al governo.
 
 Il 24 maggio 1915 l'*Italia dichiara guerra all'Austria*.
 
@@ -89,7 +89,7 @@ Il 24 maggio 1915 l'*Italia dichiara guerra all'Austria*.
 
 ###### ***1915-1916: LA GUERRA DI POSIZIONE***
 
-Il *fronte orientale* i *russi* subiscono *gravi perdite* (Polonia, Lituania) nei Balcani austro-tedeschi e bulgari occupano la Serbia.
+Sul *fronte orientale* i *russi* subiscono *gravi perdite* (Polonia, Lituania) nei Balcani austro-tedeschi e bulgari occupano la Serbia.
 
 L'esercito italiano comandato da *Cadorna* si dissangua nelle prime quattro *battaglie dell'Isonzo* (carenze di equipaggiamento e di comando - assalti forntali)
 
@@ -139,21 +139,25 @@ Il 24 ottobre un'offensiva austro-tedesca sfonda il fronte italiano a ***Caporet
 
 Nasce il *governo Orlando* di unità nazionale; anche i *socialisti* appoggiano la difesa e l'avanzata nemica viene fermata sul ***Piave*** dal nuovo comandante in capo *Diaz*.
 
-Nell'aprile 1917 si ha l'***intervento americano*** \[...]
+Nell'aprile 1917 si ha l'***intervento americano*** a fianco dell'intesa voluto dal presidente *Wilson*.
+
+Il *contributo americano* è *decisivo* sia come truppe fresche che come sostegno finanziario ed economico, che determina però un *forte indebitamento* degli Stati europei.
+
+*Austriaci e tedeschi* tentano l'*ultima offensiva* nella *primavera del 1918*.
+
+I tedeschi vengono fermati nella *seconda battaglia della marna* e costretti ad arretrare.
+
+Gli austriaci dagli italiani sul *Piave*.
+
+Mentre *la Germania arretra ma regge, crollano* la *Bulgaria* e l'*Impero Ottomano*.
+
+L'***Austria-Ungheria***, già in crisi per le insofferenze dei popoli slavi, viene schiantata a *Vittorio-Veneto* e costretta all'*armistizio di Villa Giusti* (4 novembre).
+
+L'*impero si dissolve* con l'Austria e l'Ungheria che diventano Repubbliche indipendenti.
 
 
 
-
-
-
-
-\[...]
-
-
-
-
-
-
+L'11 novembre anche la ***Germania***, in preda ad una sollevazione che ha cacciato il *Kaiser* e proclamato la *Repubblica*, chiede l'*armistizio*.
 
 
 
@@ -218,43 +222,72 @@ Nel 1924 *muore Lenin* (già ammalato - Ictus) e si scatena la *lotta per la suc
 
 
 
+###### ***LA S.d.N. E I TRATTATI DI PACE***
+
+Nel gennaio 1919 si riunusce a *Parigi* la ***conferenza per la pace*** dominata dai quattro grandi: *Wilson* (USA), *Lloyd George* (GB), *Clemenceau* (Francia) e *Orlando* (Italia, che però viene presto emarginata).
+
+Si evidenzia subito il *contrasto* fra la *visione tradizionale* delle *potenze europee* (*vantaggi* territoriali ed economici, annientamento della Germania - Clemenceau) e il nuovo orientamento democratico rappresentato dai *14 punti di Wilson* (*nazionalità* e autodeterminazione dei popoli)
+
+Viene creata la *società delle nazioni* voluta da Wilson per regolare paicficamente le controversie fra gli Stati ma - dopo il *rifiuto* del congresso *americano* a partecipare - diviene di fatto uno strumento per il dominio di Francia e Gran Bretagna.
+
+
+
+Il ***Trattato di Versailles*** infligge alla Germania una pesante umiliazione:
+
+* Ingenti *perdite territoiali (Alsazia-Lorena* alla Francia, Posania e alra Slesia alla *Polonia, Danzica* città libera con corridoio alla Polonia\*);\*
+* *Riduzione dell'esercito* e della flotta ai minimi termini (disarmo tedesco);
+* *Riparazioni economiche* tali da abbattere l'economia tedesca per decenni.
+
+
+
+Con il *Trattato di Saint-Germain* l'Italia ottiene il Trentino, Alto Adige, Venezia Giulia e Istria, ma *non la Dalmazia e Fiume*, facendo parlare di *"Vittoria mutilata"*. Dalla *scomparsa dell'impero austro-ungarico* nascono *nuovi Stati* (Austria, Ungheria, Cecoslovacchia, Jugoslavia).
+
+
+
+Dai territori perduti dalla Russia nascono la *Finlandia* e le *Repubbliche baltiche* (Estonia, Lettonia, Lituania)
+
+Il *Trattato di Sevres* disgrega l'Impero Ottomano e attribuisce estesi territori anatolici alla Grecia
+
+La *Rivolta Nazionalista* guidata da *Kemal Ataturk* costringe alla ritirata i greci e le truppe dell'intesa
+
+Dopo di che dà vita alla *repubblica turca* sottoposta ad un regime autoritario che promuove una *modernizzazione di stampo occidentale* (Stato laico, Alfabeto latino).
 
 
 
 
 
+###### ***CRISI E RICOSTRUZIONE ECONOMICA***
+
+Eredità della guerra sono grandi *difficoltà economiche* riguardanti l'*indebitamento* di tutti i Paesi e la necessità di *riconvertire l'apparato industriale*.
+
+La *Gran Bretagna perde* il suo *ruolo centrale* nell'economia mondiale a vantaggio degli Stati Uniti.
+
+*Italia e Germania* sono duramente colpite (la Germania a causa delle riparazioni)
+
+Dappertutto *disoccupazione* e *malessere sociale* che portano ad un maggiore *intervento sociale*.
+
+Gli *Stati Uniti* promuovono il *Piano Dawes* per salvare l'economia tedesca e permettere agli Stati europei di pagare i propri debiti attraverso ingenti investimenti di capitali.
 
 
 
+###### ***TRASFORMAZIONI SOCIALI E IDEOLOGIE***
+
+Il *malessere sociale* del dopoguerra si traduce in un'*ondata di scioperi e manifestazioni* di protesta, anche i *ceti borghesi* sono *impoveriti* e i *reduci* non riescono a reinserirsi nella vita civile.
+
+Si diffonde un sentimento di *sfiducia e incertezza* che porta ad una *radicalizzazione ideologica*:
+
+* *Spinte nazionaliste*, autoritarie e antidemocratiche;
+* *Rafforzamento delle ideologie socialiste* e rivoluzionarie.
 
 
 
+###### ***LO SCENARIO EXTRAEUROPEO***
 
+Inseguito al crollo dell'impero Ottomano *Francia e Gran Bretagna* si spartiscono il *Medio Oriente*
 
+La *Dichiarazione Balfour* che prevede la Costituzione di una "*Sede nazionale*" per gli *Ebrei* in Palestina.
 
+Suscita il *risentimento degli Arabi*.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-
-
+In numerosi *paesi afroasiatici* sorgono *movimenti indipendentisti* fra cui spicca l'inizio della lotta nonviolenta in *India* guidata da *Ghandi*.
 

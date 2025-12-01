@@ -197,7 +197,7 @@ La visione di Pascoli non è SINTETICA (visione generale), ma ANALITICA (prende 
 
 
 
-----
+---
 
 
 
@@ -261,7 +261,7 @@ La nebbia impedisce alla nostra nebbia di vedere, quindi subentra l'immaginazion
 
 
 
-----
+---
 
 
 
@@ -273,9 +273,12 @@ La nebbia impedisce alla nostra nebbia di vedere, quindi subentra l'immaginazion
 
 *nell’ora che penso ai miei cari.*
 
-     *Sono apparse in mezzo ai viburni*
+&nbsp;    \*Sono apparse in mezzo ai viburni\*
 
-     *le farfalle crepuscolari.*
+     \*le farfalle crepuscolari.\*
+
+
+
 
 
 
@@ -283,9 +286,12 @@ La nebbia impedisce alla nostra nebbia di vedere, quindi subentra l'immaginazion
 
 *là sola una casa bisbiglia.*
 
-     *Sotto l’ali dormono i nidi,*
+&nbsp;    \*Sotto l’ali dormono i nidi,\*
 
-     *come gli occhi sotto le ciglia.*
+     \*come gli occhi sotto le ciglia.\*
+
+
+
 
 
 
@@ -293,9 +299,12 @@ La nebbia impedisce alla nostra nebbia di vedere, quindi subentra l'immaginazion
 
 *l’odore di fragole rosse.*
 
-     *Splende un lume là nella sala.*
+&nbsp;    \*Splende un lume là nella sala.\*
 
-     *Nasce l’erba sopra le fosse.*
+     \*Nasce l’erba sopra le fosse.\*
+
+
+
 
 
 
@@ -303,9 +312,14 @@ La nebbia impedisce alla nostra nebbia di vedere, quindi subentra l'immaginazion
 
 *trovando già prese le celle.*
 
-     *La Chioccetta per l’aia azzurra*
+&nbsp;    \*La Chioccetta per l’aia azzurra\*
 
-     *va col suo pigolio di stelle.*
+     \*va col suo pigolio di stelle.\*
+
+
+
+
+
 
 
 
@@ -315,9 +329,12 @@ La nebbia impedisce alla nostra nebbia di vedere, quindi subentra l'immaginazion
 
 *l’odore che passa col vento.*
 
-     *Passa il lume su per la scala;*
+&nbsp;    \*Passa il lume su per la scala;\*
 
-     *brilla al primo piano: s’è spento...*
+     \*brilla al primo piano: s’è spento...\*
+
+
+
 
 
 
@@ -325,9 +342,10 @@ La nebbia impedisce alla nostra nebbia di vedere, quindi subentra l'immaginazion
 
 *un poco gualciti; si cova,*
 
-     *dentro l’urna molle e segreta,*
+&nbsp;    \*dentro l’urna molle e segreta,\*
 
-     *non so che felicità nuova.*
+     \*non so che felicità nuova.\*
+
 
 *"*
 
