@@ -1,0 +1,11 @@
+Cucchi Francesco 5AI 24/11/2025 relazione.txt
+
+Saranno presenti 3 file:
+ - La pagina index.php che sarà il fulcro dell'applicazione;
+ - Il file functions.php che conterrà funzioni di supporto al funzionamento della pagina index.php;
+ - Il file script.js per le validazioni dei dati lato client (pre-invio al server).
+
+Verrà adottato l'utilizzo di un magic-cookie (scadrà al termine della sessione), denominato "pagella", che conterrà la concatenazione di tutte le materie ed i voti corrispondenti nel formato: "mat1;voto1;mat2;voto2; ..." ecc.
+
+Nel caso venga inserito un valore non valido come voto (es. lettera o numero < 1 o > 10) i dati non verranno inviati al server, mentre se il valore è nullo, esso verrà inviato al server ma ingorato dal suddetto.
+

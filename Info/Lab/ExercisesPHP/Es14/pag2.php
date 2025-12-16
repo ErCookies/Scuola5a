@@ -16,7 +16,7 @@
 	<body>
 		<h1>Questa &egrave; un'altra pagina</h1>
 		
-		<a href="es13.php"><button>&larr; Form</button></a>
-		<a href="pag1.php"><button>&rarr; Pag 1</button></a>
+		<a href="pag1.php"><button>&larr; Pag 1</button></a>
+		<a href="es13.php"><button>&rarr; Form</button></a>
 	</body>
 </html>
