@@ -25,7 +25,7 @@ Appoggiato dalla *CIL* (*C*onfederazione *I*taliana del *L*avoro) con un program
 * *Riforma agraria* a vantaggio dei coltivatori diretti e mezzadri;
 * *Sistema elettorale proporzionale;*
 * *Voto alle donne;*
-* *Autonomie locali regionali*.
+* *Autonomie locali e regionali*.
 
 Con una visione *interclassista* ma molto attenta al mondo contadino che favorisce l'adesione ad esponenti di tutte le classi sociali.
 
@@ -36,7 +36,9 @@ Con una visione *interclassista* ma molto attenta al mondo contadino che favoris
 Il ***Partito socialista*** cresce impetuosamente ma soffre della spaccatura interna fra:
 
 * *Massimalisti* (Serrati) rivoluzionari ostili ad ogni collaborazione con la borghesia;
-* *Riformisti (Turati)* favorevoli per il momento alla lotta democratica e forti nella *Confederazione Generale del Lavoro (CGL)* -- SINDACATO SOCIALISTA.
+* *Riformisti (**Turati**)* favorevoli per il momento alla lotta democratica e forti nella *Confederazione Generale del Lavoro (CGL)* -- SINDACATO SOCIALISTA.
+
+
 
 Ancora più a sinistra si viene costituendo attorno a Bordiga ed al Gruppo Torinaese dell'"*Ordine nuovo*" (Gramsci, Togliatti) una frazione rivoluzionaria legata all'esperienza dei *consigli di fabbrica*.
 
@@ -68,7 +70,39 @@ In questo clima incerto si svolgono le *elezioni del 1919* con il proporzionale 
 
 I governi liberali, privi di una solida maggioranza, devono fronteggiare una durissima *conflittualità sociale*.
 
-Dal 1919 al 1920 (***Biennio Rosso***) i *lavoratori* danneggiati dall'inflazione lottano duramente per ottenere *aumenti salariali* e riduzioni di *orario* - 8 ore - con migliaia di *scioperi*, incontrando il *rifiuto degli imprenditori*, anch'essi in seria *difficoltà* (riconversioni).
+Dal 1919 al 1920 (***Biennio Rosso***) i *lavoratori* danneggiati dall'inflazione lottano duramente per ottenere *aumenti salariali* e riduzioni di *orario* - 8 ore - con migliaia di *scioperi*, incontrando *la chiusura degli imprenditori*, anch'essi in seria *difficoltà* (riconversioni).
+
+Nel settembre del 1920 la FIOM (sindacato dei metalmeccanici) promuove l'*occupazione delle fabbriche* autogestite dai *consigli di fabbrica*.
+
+Anche nelle *campagne* del centro-nord si susseguono dure lotte dei *braccianti* organizzati dalle *Leghe Rosse* e *Leghe Bianche*, mentre nel *mezzogiorno* i contadini attuano l'*occupazione delle terre incolte*.
 
 
+
+In questo clima rivoluzionario dopo le dimissioni di Nitti torna al governo *Giolitti*, riprendendo la sua strategia di neutralità nei conflitti di lavoro, Giolitti rifiuta di assalire le fabbriche occupate e *media un accordo fra operai e industriali* (teorico controllo operaio sulla produzione) che tuttavia *scontenta* sia gli *industriali* (che si sentono abbandonati dal governo) che i lavoratori più *rivoluzionari*.
+
+Al *Congresso* socialista *di Livorno* (1921) la minoranzaz di Gramsci e Bordiga esce dal partito e forma il *Partito Comunista* d'Italia aderente alla *Terza Internazionale*.
+
+Giolitti risolve la questione fiumana sul piano diplomatico con il ***Trattato di Rapallo*** con la Jugoslavia (Istria e Zara all'Italia in cambio della Dalmazia, Fiume città libera)
+
+*D'Annunzio viene cacciato da Fiume* dal regio esercito (Gennaio 1921).
+
+
+
+
+
+###### ***L'ASCESA DEL FASCISMO***
+
+*Mussolini abbandona i progetti repubblicani* e accentua il carattere *reazionario* del movimento, ottenendo l'*appoggio dei possidenti* e della piccola-media borghesia con l'opera delle *squadre d'azione*, che a partire dai fatti di *Palazzo d'Accursio* a Bologna (fine 1920) lanciano una violenta offensiva contro il movimento contadino padano, incontrando spesso l'*indifferenza* da parte del *governo* centrale e locale.
+
+Convinto di assorbire facilmente i fascisti, *Giolitti* indice *nuove elezioni* nel 1921 inserendoli nei *blocchi nazionali*: *35 fascisti* - fra cui Mussolini - entrano alla *Camera*.
+
+Mussolini si smarca subito e *cade il governo di Giolitti*, sostituito prima da *Bonomi*, poi da *Facta*.
+
+Il successo dei fascisti è legato all'*appoggio della piccola borghesia* - che fornisce i quadri militanti.
+
+Dal *sostegno della grande borghesia* agraria ed industriale decisa ad utilizzare il movimento in senso *antisocialista* (come pure molti esponenti *liberali*)
+
+
+
+\[...]
 
