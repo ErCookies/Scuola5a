@@ -1,0 +1,4 @@
+Font-Families:
+ - Serif (with strokes) -- tipo Times New Roman
+ - Sans-Serif (w\o strokes) -- Arial
+ - Script (handwritten)

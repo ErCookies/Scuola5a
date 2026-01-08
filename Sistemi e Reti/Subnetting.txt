@@ -1,0 +1,65 @@
+Un indirizzo IP (logico) è un identificativo software per le interfacce di rete
+Viene utilizzato in combinazione con l'indirizzo MAC (fisico), il quale consente di  determinare in modo univoco ogni interfaccia di un dispositivo di rete
+
+L'IP address ha 32 bit (4 gruppi da 8 -> da 0.0.0.0 a 255.255.255.255) ~4.3 miliardi di combinazioni
+Non tutti i valori sono disponibili agli host, visto che esistono indirizzi particolari:
+- Network: La parte dedicata agli host è 0 (tutti i bit dell'host a 0);
+- Network universale: TUTTI i bit a 0;
+- Broadcast: La parte dedicata agli host è 255 (tutti i bit della rete a 1);
+- Broadcast di rete (universale): TUTTI i bit a 1;
+- Loopback: per testare il protocollo TCP/IP, corrisponde all'indirizzo 127.0.0.1 (LocalHost).
+
+Per gestire meglio la rete gli indirizzi sono divisi in classi, in base alla dimensione del network da gestire.
+Esistono 5 classi, ma solo le prime 3 possono essere usate dagli host.
+(R -> rete | H -> host)
+- A: R:H:H:H da 1 a 126 (primi 8 bit saranno 0******* -> 0 fisso) -- NON 127 come tetto perché è riservato alla rete del loopback -> quindi (2^24) - 2 host | -2 perché sono da togliere rete e broadcast;
+- B: R:R:H:H da 128 a 191 (primi 8 bit saranno 10****** -> 10 fisso) -- (2^14) reti per (2^16) host;
+- C: R:R:R:H da 192 a 223 (primi 8 bit saranno 110***** -> 110 fisso) -- (2^21) reti per (2^8) - 2 host;
+- D: non più suddivisione R:H da 224 a 239 (primi 8 bit saranno 1110**** -> 1110 fisso) -- MULTICAST -> destinatari del tipo [224-239].x.x.x;
+- E: no suddivisione R:H da 240 a 255 (primi 8 bit saranno 11110*** -> 11110 fisso) -- Utilizzi futuri [240-255].x.x.x .
+
+SUBNET MASK
+Per definire quale parte del proprio indirizzo è dedicata alla rete e quale è dedicata agli host
+A: R:H:H:H ha come subnet 255.0.0.0 (/8);
+B: R:R:H:H ha come subnet 255.255.0.0 (/16);
+C: R:R:R:H ha come subnet 255.255.255.0. (/24).
+
+Per determinare se il destinatario dei pacchetti si trova sulla mia sottorete si utilizza il processo di ANDing (matematica booleana) tra il proprio indirizzo e la subnet mask
+
+HOST A: 192.168.0.5/24
+HOST B: 192.168.0.25/24
+
+ANDing fra host A e subnet 192.168.0.0
+ANDing fra host B e subnet 192.168.0.0
+Visto che il risultato è identico i due host possono scambiarsi dati direttamente.
+In caso contrario sarebbe stato necessario un router.
+
+SUBNETTING
+Può capitare di dover suddividere una rete in ulteriori sottoreti, per una serie di vantaggi, quali:
+- Minor spreco di indirizzi, scegliendo il numero di host che possono appartenere alla rete;
+- Riduzione del traffico di rete, riducendo il dominio di broadcast (- host da raggiungere con il broadcast);
+- Miglioramento delle performance di rete.
+
+Il subnetting consiste nell'utilizzare alcuni bit "presi in prestito" dalla parte host dell'indirizzo di rete.
+Per effettuare il subnetting bisogna determinare:
+- Il numero di sottoreti necessarie;
+- Numero di host per ogni sottorete;
+- Le subnet valide;
+- Gli indirizzi di network e broadcast delle subnet;
+- Gli host validi.
+
+1 - Numero subnet: 2^x, ove x è il numero di bit ciulati alla parte host;
+2 - NUmero host per subnet: (2^y)-2 ove y è il numero di bit totali rimasti per gli host;
+3 - Subnet valide: 256-z, ove z è il valore della subnet mask -> 3 bit per la subnet quindi 8 subnet (11100000 = 224 -> 256-224=32) -> le subnet saranno 0, 32, 64, 96, 128, 160, 192, 224;
+4 - Indirizzo di rete e broadcast: Tutti i valori di partenza e arrivo;
+5 - Host validi: tutti i numeri fra la rete ed il broadcast
+
+ESEMPIO:
+IP = 192.168.5.0
+SM = 255.255.255.0
+da suddividere in 4 subnet
+Ciuliamo 2 bit alla subnet -> 11111111.11111111.11111111.11000000 -> 255.255.255.192;
+Num host = (2^6) - 2 = 62 host per sottorete;
+Subnet valide = 256 - 192 = 64 -> 0, 64, 128, 192;
+Network e broadcast: 0-63, 64-127, 128-191, 192-255;
+Host validi: fra rete e broadcast.

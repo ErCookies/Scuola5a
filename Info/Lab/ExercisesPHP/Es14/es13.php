@@ -1,6 +1,7 @@
 <?php
 	if($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST))
-		setcookie('favColor',$_POST['col'],0,'/');
+		setcookie('favColor',$_POST['col']);
+		#setcookie('favColor',$_POST['col'], time() + 30); dura 30 secondi
 
 	$colChosen = (isset($_COOKIE['favColor'])) ? $_COOKIE['favColor'] : null;
 ?>
@@ -24,7 +25,7 @@
 		</form>
 		<br>
 		<br>
-		<a href="pag1.php"><button>&larr; Pag 1</button></a>
-		<a href="pag2.php"><button>&rarr; Pag 2</button></a>
+		<a href="pag2.php"><button>&larr; Pag 2</button></a>
+		<a href="pag1.php"><button>&rarr; Pag 1</button></a>
 	</body>
 </html>
