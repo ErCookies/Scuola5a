@@ -1,5 +1,5 @@
 <?php
-	# Cucchi Francesco 5^AI login.php
+	// Cucchi Francesco 5^AI login.php
 	
 	if(!isset($_SESSION['role'])){
 ?>
@@ -33,17 +33,19 @@
 		?>
 		<p><b>HAI GI&Agrave; EFFETTUATO IL LOGIN</b></p>
 		<?php
-				echo "<a href=\"home" . $_SESSION['role'] . ".php\"><button>TORNA ALLA HOME</button></a>";
+				echo "<a href=\"../Homes/home" . $_SESSION['role'] . ".php\"><button>TORNA ALLA HOME</button></a>";
 			}
 		?>
 		
+		<!--
 		<br>
 		<br>
 		<br>
 		<h4>-- DEBUG --</h4>
 		<?php
-			require_once 'func.php';
+			require_once '../func.php';
 			print_r(importUsers());
 		?>
+		-->
 	</body>
 </html>

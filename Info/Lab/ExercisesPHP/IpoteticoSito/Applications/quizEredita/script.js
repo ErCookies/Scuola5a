@@ -1,0 +1,3 @@
+function checkData(){
+	return false;
+}

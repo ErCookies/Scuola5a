@@ -1,5 +1,5 @@
 <?php
-	# Cucchi Francesco 5^AI logout.php
+	// Cucchi Francesco 5^AI logout.php
 
 	session_start();
 	session_destroy();

@@ -1,5 +1,6 @@
 <?php
-	# Cucchi Francesco 5^AI index.php
+	// Cucchi Francesco 5^AI index.php
 	
-	header("Location: login.php")
+	// Da sviluppare come home effettiva, al momento solo redirect al login
+	header("Location: Functionalities/login.php")
 ?>
