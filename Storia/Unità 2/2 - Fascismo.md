@@ -102,7 +102,48 @@ Il successo dei fascisti è legato all'*appoggio della piccola borghesia* - che 
 
 Dal *sostegno della grande borghesia* agraria ed industriale decisa ad utilizzare il movimento in senso *antisocialista* (come pure molti esponenti *liberali*)
 
+Mussolini riorganizza il movimento nel *Partito Nazionale Fascista*, anche per *limitare il potere* dei capi locali - fascisti - (*RAS*: Balbo, Grandi, Farinacci) spesso in contrasto con la sua *politica del doppio binario*
+
+* *Azione legale* nelle istituzioni;
+* ***Violenza squadristica*** sistematica.
+
+Protagonisti del disordine ma apparendo come unici in grado di riportare l'ordine.
+
+L'ascesa del fascismo è favorita dall'*incapacità delle sinistre* di reagire efficacemente a causa delle *divisioni* interne (nuova scissione del PSI - ora guidati da Pietro Nenni - e nascita del *PSU **- Partito Socialista U**nitario - riformista* di Matteotti e Turati).
+
+Mussolini vede la sua occasione: organizza la ***Marcia su Roma*** (Ottobre 1922).
+
+Facta prepara la dichiarazione dello *Stato d'Assedio* ma *Vittorio Emanuele III rifiuta* di firmare il decreto e affida a *Mussolini* l'incarico di formare il nuovo *governo*.
 
 
-\[...]
+
+Quello di Mussolini è un governo di *coalizione* con liberali, popolari, democratici e alti esponenti militari che ottiene la fiducia del parlamento con la promessa di *ritorno alla legalità* (prometteva che il fascismo avrebbe interrotto lo squadrismo e riportato l'ordine).
+
+In realtà *continua lo squadrismo* con il consenso dei conservatori.
+
+
+
+Le prime iniziative di Mussolini sono la creazione del *Gran Consiglio del Fascismo* (che assume commpiti spettanti al parlamento) e della *milizia volontaria per la sicurezza nazionale* (esercito di partito agli ordini di Mussolini, formato dagli ex-squadristi).
+
+In *campo economico* il governo attua con il ministro *De Stefani* una *politica liberista* con un boun successo (privatizzazione delle fabbriche, riduzione del disavanzo dello Stato, *sviluppo* industriale e agricolo) ma a tutto *vantaggio della borghesia* a ai *danni* delle *classi popolari*.
+
+Per rafforzare la sua maggioranza Mussolini indice *nuove elezioni* per il *1924*, introducendo una nuova legge elettorale maggioritaria (*legge Acerbo*: 2/3 dei seggi alla lista vincitrice con almeno 25% dei voti).
+
+Viene creato il *listone* con fascisti ed esponenti della destra liberale e popolare.
+
+
+
+Intimidazione e brogli danno al listone il 64% *Matteotti* li *denuncia* alla camera: il 10 giugno 1924 viene *rapito* da sicari fascisti e *asssassinato*.
+
+Il rapimento di Matteotti scatena un'ondata di indignazione contro il fascismo.
+
+L'opposizione si ritira per protesta dalla camera (***Secessione aventiniana***)
+
+* Le diverse forze non riescono ad accordarsi per una vera lotta politica (limitandosi alle *denunce*);
+* Il *fascismo* mantiene l'*appoggio del re*, della *borghesia* e dell'*esercito*.
+* 
+
+Mussolini comprende la *debolezza delle opposizioni* e decide una svolta politica.
+
+Il 3 gennaio 1925 in un discorso alla camera si assume la *responsabilità politica* del delitto Matteotti e inizia lo *smantellamento dello statuto* accompagnato dalla *violenza squadristica*.
 

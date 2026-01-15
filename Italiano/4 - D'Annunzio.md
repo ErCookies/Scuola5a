@@ -58,7 +58,7 @@ La *trama* è ridotta al minimo mentre l'autore è attento alla *descrizione min
 
 
 
-##### ***IL PIACERE***
+##### ***IL PIACERE - ANDREA SPERELLI***
 
 ###### *TRAMA*:
 
@@ -70,15 +70,96 @@ La *trama* è ridotta al minimo mentre l'autore è attento alla *descrizione min
 
 
 
-AURA
+###### *BOH:*
+
+* *Andrea* come *figura artificiosa e finta* da cui il narratore sembra prendere le distanze, preannunciandone la ***sconfitta***;
+* *Narrazione* che si *allontana dall'oggetttività* (flash-back, descrizioni dell'ambiente mondano);
+* I *fatti* passano in secondo piano rispetto ad altri elementi (***simbolismo*** di luoghi e situazioni, *elementi ideologici*);
+* ***Stile ricercato*** lontano dal linguaggio comune («*Ideal tipo del giovine signore, scienza profonda della vita voluttuaria, vano pascolo di uno spirito disoccupato*») e *attento ai valori musicali* --> scegliere le parole per come suonano, oltre che per il significato.
+* ***CULTO DELLA SENSAZIONE***.
+
+###### 
+
+###### *BOH 2*:
+
+La democrazia è un male perchè si da il potere al popolo, facendo scomparire la nobiltà, che l'estetismo li riteneva volgare, dato che cancellavano la bellezza artistica.
+
+Andrea Sperelli era un giovane conte.
+
+La famiglia degli Sperelli apparteneva alla nobiltà.
+
+Il padre di Andrea Sperelli ha educato il figlio all'amore per l'arte, il culto passionato della bellezza e l'avidità del piacere.
+
+Il padre crebbe durante la decadenza della corte borbonica, il che è importante perché si ricollega alla visione della decadenza.
+
+Lo "*slogan*" dell'estetismo è: *"Bisogna **fare** la propria vita, come un opera d'arte. Bisogna che la vita d'un uomo d'intelletto sia opera di lui"*.
+
+Inoltre il padre diceva anche di *dominare il piacere senza farcisi schiacciare*.
+
+Il padre amava la Roma *decadente* - non la Roma dei Cesari ma la Roma dei Papi, delle ville, fontane e Chiese - non la Roma imperiale.
 
 
 
+##### ***VITALISMO E SUPEROMISMO***
+
+Tendenze opposte sono il *vitalismo* (celebrazione della vita) che esalta la pienezza finale e la *ricerca del piacere* oltre ogni fermo morale, ed il ***superomismo*** affermato da ***Nietzche***:
+
+* *Esaltazione* dello *spirito dionisiaco* (slancio vitale che spinge gli uomini a superare i propri limiti stimolando una *vita originale e creativa*);
+* *Superando lo spirito apollineo* che imprigiona le forze umane nel *controllo razionale* e nella *morale della rinuncia* (sopratutto colpa del cristianesimo);
+* Quindi necessità di *distruggere i valori* correnti basati sul *cristianesimo* («morale degli schiavi») e affermare la *morale del superuomo* (al di là delle costrizioni della morale tradizionale).
 
 
 
+Espressione di ideali vitalistici è anche ***Bergenson***:
+
+* La *conoscenza scientifica* è *inadatta a capire la vita* che è in *continua trasformazione*;
+* Solo l'*intuizione* mette a contatto immediato con il fluire ininterrotto;
+* La vita è dominata da uno *slancio vitale* che è continua \[...]
+
+\[...]
 
 
 
+##### ***I ROMANZI DEL SUPERUOMO***
 
+Attorno al 1892 d'Annunzio approfondisce la lettura di ***Nietzche*** ed elabora una propria *visione originale aristocratica, antiborghese e antidemocratica*
+
+Interpretando il *superuomo* come diritto di pochi individui eccezionali a *dominare sulle masse* al di sopra di ogni legge morale, attribuendosi il compito di *vate* (profeta) della *missione imperiale dell'Italia*.
+
+Ma anche i *superuomini dannunziani* vanno spesso incontro alla *sconfitta* a causa del *fascino perverso* di alcune *figure femminili*.
+
+
+
+##### ***LE OPERE DRAMMATICHE***
+
+A partire dal 1896 d'Annunzio si dedica al *teatro* come strumento di *diffusione* delle *ideologie superomistiche*.
+
+*Rifiuta* le forme del *teatro borghese* (es. «*Lui, Lei, l'Altro*» drammi basati sulla gelosia) elaborando un *teatro "di poesia" dal valore fortemente simbolico*, con argomenti tratti prevalentemente dalla *mitologia classica* o dalla *storia*, ma anche ambientati nel presente e *protagonisti d'eccezione*.
+
+Caso a parte *«La figlia di Iorio»* tragedia pastorale ambientata in un Abruzzo mitico.
+
+
+
+##### ***LA POESIA***
+
+* *1879 - **Primo Vere***: imitazione di Carducci (il poeta in voga);
+* *1882 - **Canto Novo***: compaiono le caratteristiche di d'Annunzio: *sensualità* (enfatizzazione dei sensi, sensazioni)*, panismo* (immersione completa nella 		natura), ricerca di musicalità;
+* *1883 - **Intermezzo***: Accentuato *erotismo* e *atteggiamenti estetizzanti*;
+* *1893 - **Poema Paradisiaco***: pausa dai sensi, ripiegamento interiore (pausa dei sensi), toni più smorzati e malinconici che anticipano i *Crepuscolari* (corrente poetica che riprende queste idee del LATE D'ANNUNZIO)
+
+
+
+##### ***LE LAUDI***
+
+Il progetto delle ***Laudi*** <i>del Cielo del mare della Terra e degli eroi</i> doveva comprendere sette libri.
+
+Nel *1903* pubblica i primi tre: *Maia, Elettra, Alcyone*.
+
+Nel *1912* esce *Merope* che raccoglie le *canzoni della gesta d'oltremare* (celebrazione della guerra libica)
+
+Nel *1915 Asterope* (*Canti della guerra latina* dedicati alla grande guerra)
+
+
+
+***Maia*** è quasi del tutto occupato dal *Laus Vitae*: *poema* in *versi liberi* che parte dal ricordo di un *viaggio in Grecia* (echi mitologici e letterari) fino ad esaltare \[...]
 
