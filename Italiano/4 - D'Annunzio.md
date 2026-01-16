@@ -151,7 +151,7 @@ Caso a parte *«La figlia di Iorio»* tragedia pastorale ambientata in un Abruzz
 
 ##### ***LE LAUDI***
 
-Il progetto delle ***Laudi*** <i>del Cielo del mare della Terra e degli eroi</i> doveva comprendere sette libri.
+Il progetto delle ***Laudi*** *del Cielo del mare della Terra e degli eroi* doveva comprendere sette libri.
 
 Nel *1903* pubblica i primi tre: *Maia, Elettra, Alcyone*.
 
@@ -162,4 +162,66 @@ Nel *1915 Asterope* (*Canti della guerra latina* dedicati alla grande guerra)
 
 
 ***Maia*** è quasi del tutto occupato dal *Laus Vitae*: *poema* in *versi liberi* che parte dal ricordo di un *viaggio in Grecia* (echi mitologici e letterari) fino ad esaltare \[...]
+
+
+
+\[...]
+
+
+
+***Alcyone*** contiene *88 liriche*
+
+Si presenta come il diario di un'*estate in Toscana* in compagnia della donna amata (l'attrice Eleonora *Duse*)
+
+Tema centrale è l'ideale del *Panismo* (fusione tra individuo e natura) che permette di *svelare i misteri della natura* attraverso un *linguaggio simbolico e musicale (fonosimbolismo)*.
+
+
+
+##### ***LA PIOGGIA NEL PINETO***
+
+*Invito all'ascolto* - la musicalità dei versi - sulle soglie del bosco (il mondo del mistero)
+
+Gocciole e foglie «parlano»: l'*umanizzazione della natura*
+
+Versi brevi, ripetizioni, rime varie - anche interne - per dare *musicalità*
+
+Ricercatezza del linguaggio, attento sopratutto ai valori fonici
+
+"Volti silvani": Gabriele ed Ermione cominciano a trasformarsi in elementi vegetali (*Metamorfosi*): ***Panismo***
+
+La *poesia* come *illusione*
+
+* «*...Pensieri freschi...*»: *Sinestesia* --> 
+
+Il *concerto* della natura (la musica come metafora della metamorfosi)
+
+La natura si antropomorfizza
+
+Gli umani vivono l'esistenza degli alberi: la *metamorfosi* si compie
+
+L'ebbrezza di Ermione nella comunione della natura
+
+La freschezza di una rinascita
+
+La metamorfosi si è compiuta
+
+La conclusione riprende l'inizio in un ciclo ininterrotto (la *poesia come illusione musicale* in cui perdersi)
+
+
+
+##### ***I PASTORI***
+
+L'estate sta finendo
+
+Identificazione con i pastori della propria terra
+
+Il legame con la *terra natale* e l'esilio
+
+I pastori lungo la strada degli antichi popoli italici in una *dimensione senza tempo*
+
+*Citazione dantesca*: i pastori fuori dal tempo
+
+***Il tempo si ferma***
+
+piquet
 
