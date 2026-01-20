@@ -1,1 +1,7 @@
-Aggiungere controlli + redirezioni alle varie home: se user accede ad admin --> redirezione || se non loggato (no sessione accede a qualche home --> redirezione form)
+TaskListKeyWords: TODO - BUG - FIX - REFACTOR - DONE - INFO
+
+TODO: Aggiungere controlli + redirezioni alle varie home
+TODO: Implementare storico
+TODO: Aggiungere statistiche per ogni quiz (non risposto%, errato%, corretto%) nella sezione admin
+TODO: Implementare date nel file di storico: usare strtotime("dataInYmd") per il timestamp da scrivere su file, date("d/m/Y", timestamp) per creare la data da stampare, es. "Hai già tentato il quiz in data x con la parola y, vincendo!/perdendo, dato che era z"
+FIX: Fixare redir in tutto il sito per evitare esecuzioni indesiderate di codice 

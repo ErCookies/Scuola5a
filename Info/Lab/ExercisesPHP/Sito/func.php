@@ -11,7 +11,7 @@
 			$users[] = [
 				"user" => $aus[0],
 				"pwd" => $aus[1],
-				"isAdmin" => ($aus[2] === "false")
+				"isAdmin" => ($aus[2] === "true")
 			];
 		}
 		
