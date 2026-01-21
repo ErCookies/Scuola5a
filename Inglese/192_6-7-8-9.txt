@@ -1,0 +1,47 @@
+1 - The purpose of artificial intelligence is to enable computers or robots to perform intellectual tasks that usually require human intelligence, such as reasoning, discovering meaning, generalising and learning from past experience.
+
+2 - A human being can perform a wide variety of flexible tasks and deal with everyday knowledge, while an AI device can only carry out very specific and complex tasks in limited application fields (for example, medical diagnosis, computer search engines, voice or handwriting recognition).
+
+3 - A computer can carry out very specific and complex tasks, such as discovering proofs of mathematical theorems, playing chess, medical diagnosis, search engine queries and voice or handwriting recognition.
+
+4 - The connectionist, or bottom‑up, method is more practical because it creates artificial neural networks that imitate the brain’s structure and can learn from data, making them suitable for many real‑world applications.
+
+5 - With AR, a real‑world environment is experienced, but it is visually changed or “augmented” with extra generated perceptual information and three‑dimensional digital components.
+​
+
+6 - AR needs hardware components such as a processor, sensors (for example, cameras or GPS), a display, and input devices.
+​
+--
+
+1 - Android, personal assistant based of artificial life
+2 - Passed the Turing test
+3 - Nothing too difficult, she just spoke to a few people to see if they could see the difference between her and real humans
+4 - billions of billions
+5 - "... the intelligence of the humans that designed her"
+6 - A soul
+
+--
+
+1 - The way she talks
+2 - Light ring on her [tempia]
+
+--
+
+1 - A basic theoretical model of an artificial network consists of 128 neurons.
+→ False. A basic theoretical model in the text has 5 neurons, not 128.​
+
+2 - The output neuron is called N.
+→ True. The text says 4 are used for input and 1 for output, called N.
+​
+3 - The value of a firing neuron is zero.
+→ False. A firing neuron is given value 1; not firing is 0.
+​
+4 - All the connections lead to N.
+→ True. The text says each connection leading to N has a weight.
+​
+5 - The external agent is a computer.
+→ True. The network is trained by an external agent, i.e. a computer program.
+
+6 - Human intervention is needed to adjust the weights.
+→ False. The learning process is entirely mechanical and does not require human intervention or adjustment.
+​

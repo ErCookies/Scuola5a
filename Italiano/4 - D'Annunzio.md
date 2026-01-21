@@ -187,11 +187,11 @@ Versi brevi, ripetizioni, rime varie - anche interne - per dare *musicalità*
 
 Ricercatezza del linguaggio, attento sopratutto ai valori fonici
 
-"Volti silvani": Gabriele ed Ermione cominciano a trasformarsi in elementi vegetali (*Metamorfosi*): ***Panismo***
+"Volti silvani": Gabriele ed Ermione cominciano a trasformarsi in elementi vegetali (*Metamorfosi*): ***Panismo*** (immersione completa nella natura)
 
 La *poesia* come *illusione*
 
-* «*...Pensieri freschi...*»: *Sinestesia* --> 
+* «*...Pensieri freschi...*»: *Sinestesia* -->
 
 Il *concerto* della natura (la musica come metafora della metamorfosi)
 
@@ -224,4 +224,42 @@ I pastori lungo la strada degli antichi popoli italici in una *dimensione senza 
 ***Il tempo si ferma***
 
 piquet
+
+
+
+##### ***IL PERIODO NOTTURNO***
+
+*Dopo il 1910* d'Annunzio smette di scrivere e si dedica alla *sperimentazione* di una *prosa lirica, evocativa e di memoria* dal carattere *frammentario* (frasi semplici e brevi).
+
+Questa fase prende il nome dal ***Notturno***
+
+Nel *1916*, persa momentaneamente la vista e costretto all'immobilità, scrive un testo caratterizzato *da frasi veloci ed impressionistiche* e *tono più intimo*.
+
+Ritornando su *vicende del passato* e riflettendo sul presente (*introspezione*) senza alcuno schema narrativo con una maggiore *essenzialità di linguaggio*.
+
+Altre opere di questa fase sono:
+
+* «La contemplazione della morte»
+* *«Le faville del maglio»*
+* *«Il libro segreto»*
+
+Sempre legate a un *taglio autobiografico e memoriale* (ricordi, sensazioni e confessioni soggettive) e a un *registro stilistiico più misurato*.
+
+
+
+##### ***NOTTURNO***
+
+Sensazione inedita di *debolezza*
+
+*Frasi brevi ed essenziali* (altro momento dello *sperimentalismo* dannunziano)
+
+*Immagini ricercate* e proiezione di sè stesso nel *mito*
+
+Citazione letteraria a Dante (*«La stanza è muta d'ogni luce*» - sinestesia vista-udito)
+
+Il pensiero ossessivo della *morte*
+
+D'Annunzio non rinuncia al ruolo di poeta-vat che deve porgere significato
+
+Immagine letteratia ed erudita
 

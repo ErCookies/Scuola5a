@@ -111,7 +111,7 @@ Protagonisti del disordine ma apparendo come unici in grado di riportare l'ordin
 
 L'ascesa del fascismo è favorita dall'*incapacità delle sinistre* di reagire efficacemente a causa delle *divisioni* interne (nuova scissione del PSI - ora guidati da Pietro Nenni - e nascita del *PSU **- Partito Socialista U**nitario - riformista* di Matteotti e Turati).
 
-Mussolini vede la sua occasione: organizza la ***Marcia su Roma*** (Ottobre 1922).
+Mussolini vede la sua occasione: organizza la ***Marcia su Roma*** (28 Ottobre 1922).
 
 Facta prepara la dichiarazione dello *Stato d'Assedio* ma *Vittorio Emanuele III rifiuta* di firmare il decreto e affida a *Mussolini* l'incarico di formare il nuovo *governo*.
 
@@ -131,9 +131,11 @@ Per rafforzare la sua maggioranza Mussolini indice *nuove elezioni* per il *1924
 
 Viene creato il *listone* con fascisti ed esponenti della destra liberale e popolare.
 
+Intimidazioni e brogli danno al listone il 64%
 
 
-Intimidazione e brogli danno al listone il 64% *Matteotti* li *denuncia* alla camera: il 10 giugno 1924 viene *rapito* da sicari fascisti e *asssassinato*.
+
+*Matteotti* li *denuncia* alla camera: il 10 giugno 1924 viene *rapito* da sicari fascisti e *asssassinato*.
 
 Il rapimento di Matteotti scatena un'ondata di indignazione contro il fascismo.
 
@@ -141,9 +143,55 @@ L'opposizione si ritira per protesta dalla camera (***Secessione aventiniana***)
 
 * Le diverse forze non riescono ad accordarsi per una vera lotta politica (limitandosi alle *denunce*);
 * Il *fascismo* mantiene l'*appoggio del re*, della *borghesia* e dell'*esercito*.
-* 
+
+
 
 Mussolini comprende la *debolezza delle opposizioni* e decide una svolta politica.
 
-Il 3 gennaio 1925 in un discorso alla camera si assume la *responsabilità politica* del delitto Matteotti e inizia lo *smantellamento dello statuto* accompagnato dalla *violenza squadristica*.
+Il 3 gennaio 1925 in un discorso alla camera si assume la *responsabilità politica* del delitto Matteotti e inizia lo *smantellamento dello statuto* (Albertino) accompagnato dalla *violenza squadristica*.
+
+##### 
+
+##### ***STATO FASCISTA***
+
+La vera svolta verso la *dittatura* si ha con le ***leggi fascistissime*** del 1925-26:
+
+* Vengono ampliati i potero del *capo del governo* responsabile solo davanti al re;
+* Il *governo* può ***emanare leggi***;
+* Nei comuni i sindaci e i consigli elettivi sono sostituiti dal *podestà* nominato dal governo;
+* Vengono *sciolti* tutti i *partiti e i movimenti di opposizione*
+* I *pubblici dipententi* sono obbligati ad iscriversi al ***PNF*** (***P***artito ***N***azionale ***F***ascista);
+* Viene istituito il *tribunale speciale* per la difesa dell Stato;
+* Il *confino* e ripristinata la *pena di morte*;
+* Viene *soppressa* la *libertà di stampa*.
+
+
+
+Nel 1928 viene varata una *riforma elettorale* basata sulla *lista unica* (si o no a una lista bloccata scelta dal Gran Consiglio) con *voto palese*.
+
+Nel 1939 la Camera dei Deputati viene sostituita dalla *Camera dei Fasci e delle Corporazioni*.
+
+Il regime fascista fa ampio ricorso alla *propaganda* attuata dalle *organizzazioni di partito* attraverso il *cinema* (Cinegiornali LUCE) e la *radio* per distruggere ogni senso critico e instillare un'*obbedienza cieca ed assoluta*, in particolare fundata sul *culto del DVCE* da lui stesso promosso.
+
+La maggiore attenzione è riservata alla *stampa* uniformata attraverso la *censura* e le *veline*.
+
+Particolare attenzione viene riservata all'*indottrinamento dei giovani* (*Riforma Gentile* della scuola. *Opera nazionale Balilla*, gruppi universitari fascisti).
+
+
+
+Tutta la *popolazione* viene *inquadrata* nelle *organizzazioni di partito* (dopolavoro).
+
+-- Per inquadramento si intende che tutti dovevano avere un "gruppo di appartenenza" --
+
+Accant all'inquadramento opera la repressione del dissenso (a opera della polizia ordinaria e della polizia politica - *Ovra* - con la sua rete di delatori -> snitch per fare carriera)
+
+
+
+L'***Opposizione*** al regime opera:
+
+* *A livello culturale* (*Croce, Cattolici*);
+* *In esilio* (Turati, Sturzo, Salvemini; *«Giustizia e libertà»* di Lussu e Rosselli);
+* O *clandestinamente* (comunisti).
+
+Pagando con la vita (come Amnedola, Gobetti, fratelli Rosselli) o con il carcere (Gramsci) e il confino.
 
