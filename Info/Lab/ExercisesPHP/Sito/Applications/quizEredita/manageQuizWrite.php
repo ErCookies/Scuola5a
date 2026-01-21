@@ -1,7 +1,5 @@
 <?php
-	// Cucchi Francesco 5^AI checkUser.php
-	
-	require_once '../../func.php';
+	// Cucchi Francesco 5^AI manageQuizWrite.php
 	
 	// Check on page access method
 	if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST) && !empty($_POST)){

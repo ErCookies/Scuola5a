@@ -1,13 +1,22 @@
 <?php
 	// Cucchi Francesco 5^AI login.php
 	
-	if(!isset($_SESSION['role'])){
+	session_start();
+	if(!empty($_SESSION['role']) && ($_SESSION['role'] == 'Admin' || $_SESSION['role'] == 'User')){
+		if($_SESSION['role'] == 'Admin')
+			header("Location: ../Homes/homeAdmin.php");
+		elseif($_SESSION['role'] == 'User')
+			header("Location: ../Homes/homeUser.php");
+		else
+			header("Location: logout.php");
+	}
+	else{
 ?>
 
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Esercizio 16</title>
+		<title>Login Page</title>
 	</head>
 	
 	<body>

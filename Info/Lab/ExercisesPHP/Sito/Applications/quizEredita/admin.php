@@ -1,5 +1,6 @@
 <?php
 	// Cucchi Francesco 5^AI admin.php
+	require_once 'funcEred.php';
 	
 	session_start();
 	if(empty($_SESSION['role']) || $_SESSION['role'] != 'Admin'){
@@ -8,7 +9,8 @@
 		else
 			header("Location: ../../Homes/homeUser.php");
 	}
-	$alrDone = file_exists("Quizzes/quiz_".date("Ymd").".csv")
+	else{
+		$alrDone = file_exists("Quizzes/quiz_".date("Ymd").".csv")
 ?>
 <!DOCTYPE html>
 <html>
@@ -27,7 +29,7 @@
 		?>
 			<h3>Hai gi&agrave; creato il quiz per oggi</h3>
 		<?php
-				}
+			}
 			else{
 		?>
 		<form method="POST" action="manageQuizWrite.php" onsubmit="return checkData(this);">
@@ -47,5 +49,33 @@
 					echo "<p style=\"color:red; font-weight:bold;\">Errore nella scrittura del quiz. Riprovare pi&ugrave; tardi.</p>";
 			}
 		?>
+		<h1>Statistiche quiz</h1>
+		<ul>
+		<?php
+			$quizDates = getAllQuizDates();
+			$history = getHistory();
+			$numUsers = getNumUsers();
+			$totTry = count($history);
+			echo "<li><b>Numero utenti: $numUsers | Numero tentativi: $totTry</b></li>";
+			foreach($quizDates as $date){
+				$numTry = 0;
+				$numWon = 0;
+				foreach($history as $try){
+					if($try['dataQuiz'] == $date){
+						$numTry++;
+						if($try['hasWon'])
+							$numWon++;
+					}
+				}
+				if($numTry != 0)
+					echo "<li>Quiz " . date("d/m/Y", strtotime($date)) . ": $numTry tentativi (" . round(($numTry/$totTry)*100, 1) . "% sul totale), $numWon utenti hanno indovinato (" . round(($numWon/$numTry)*100, 1) . "%)</li>";
+				else
+					echo "<li>Quiz " . date("d/m/Y", strtotime($date)) . ": $numTry tentativi </li>";
+			}
+			echo "</ul>";
+		?>
 	</body>
 </html>
+<?php
+	}
+?>

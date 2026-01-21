@@ -1,3 +1,4 @@
+// Cucchi Francesco 5^AI script.js
 // Function that checks if the form data is valid, returning true or false
 // The condition for the data to be valid is that all of the words have to be 
 // different between each other

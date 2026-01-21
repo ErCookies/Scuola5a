@@ -1,6 +1,5 @@
 <?php
 	// Cucchi Francesco 5^AI user.php
-	// require_once '.php';
 	
 	session_start();
 	if(empty($_SESSION['role']) || $_SESSION['role'] != 'User'){
@@ -8,7 +7,8 @@
 			header("Location: ../../Functionalities/logout.php");
 		else
 			header("Location: ../../Homes/homeAdmin.php");
-	}else{
+	}
+	else{
 ?>
 <!DOCTYPE html>
 <html>

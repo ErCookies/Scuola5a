@@ -7,20 +7,19 @@
 	if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST) && !empty($_POST)){
 		// If user is trying to login
 		if(isset($_POST['login'])){
-			// Create array containing form data
+			// Create associative array containing form data
 			$myUser = ["user" => $_POST['user'],
 						"pwd" => $_POST['pwd'],
 						"isAdmin" => false];
-			// Validation check
+			// Validation check via search in the Database
 			$aus = isValidUser($myUser);
 			// User found
 			if($aus != null){
-				// Set correct rights (Admin/User)
+				// Set correct rights/role (Admin/User)
 				$myUser['isAdmin'] = $aus['isAdmin'];
 				unset($aus);
 				
 				session_start();
-				
 				$_SESSION['user'] = $myUser['user'];
 				$_SESSION['role'] = ($myUser['isAdmin']) ? "Admin" : "User";
 				

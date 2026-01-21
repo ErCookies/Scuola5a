@@ -1,6 +1,14 @@
 <?php
 	// Cucchi Francesco 5^AI homeAdmin.php
+	
 	session_start();
+	if(empty($_SESSION['role']) || $_SESSION['role'] != 'Admin'){
+		if(empty($_SESSION['role']) || $_SESSION['role'] != 'User')
+			header("Location: ../Functionalities/logout.php");
+		else
+			header("Location: homeUser.php");
+	}
+	else{
 ?>
 
 <!DOCTYPE html>
@@ -23,3 +31,6 @@
 		</ul>
 	</body>
 </html>
+<?php
+	}
+?>

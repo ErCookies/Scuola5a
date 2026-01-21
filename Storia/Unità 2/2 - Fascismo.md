@@ -195,3 +195,35 @@ L'***Opposizione*** al regime opera:
 
 Pagando con la vita (come Amnedola, Gobetti, fratelli Rosselli) o con il carcere (Gramsci) e il confino.
 
+
+
+Per consolidare il proprio regime ussolini cerca un *accordo con la Chiesa Cattolica* (profondamente e capillarmente presente nulla società italiana).
+
+Nel *1929* vengono stipulati i ***Patti Lateranensi***:
+
+1. *Trattato internazionale*: religione cattolica come unica religione dello Stato, piena sovranità del papa sullo *stato della Città del Vaticano*. Riconoscimento papale del regno d'Italia con Roma capitale;
+2. *Concordato*: libero esercizio del potere spirituale e del culto, esenzione del clero dal servizio militare, insegnamento religioso nelle scuole, matrimonio religioso con effetti civili;
+3. *Convenzione finanziaria*: indennità al Papa per la perdita delle rendite del potere temporale.
+
+ 
+
+Il fascismo vileva essere L'UNICO ad educare i giovani, ma la Chiesa dunque Mussolini comincia a rimangiarsi subito i patti, tentando di riprendere la totalità del potere, fino a quando nel 1931 trovano un compromesso.
+
+
+
+##### ***LA POLITICA SOCIALE ED ECONOMICA***
+
+Il *Fascismo* garantisce presto un aperto *appoggio all'alta ifnanza* e alla *grande borghesia*, abolendo la libertà sindacale, con gli *accordi di palazzo Vidoni* e con il *codice Rocco*.
+
+Vengono gettate le basi delll'*ordinamento corpopratico* fondato sulla *collaborazione fra le classi* subordinata agli *interessi nazionali* (in realtà a quelli padronali) sancito ufficialmente con la *carta del lavoro* (1927).
+
+Con l'avvento del ministro *Volpi* la politica economica imbocca la via del *protezionismo* per limitare la dipendenza dall'estero (aumento dei dazi doganali).
+
+
+
+In questo quadro si colloca la rivalutazione della lira (*Quota novanta*) che incide positivamente sui risparmi ma negativamente sui consumi (aumento dei prezzi) provocando un *rallentamento della produzione* e delle esportazioni, un aumento della *disoccupazione* e tagli ai salari.
+
+Il regime risponde alla *crisi del 1929*, allargando l'intervento statale (*Stato imprenditore* - prende in mano le banche, aziende...) attraverso l'*IMI* (fondi pubblici alle industrie) e l***'IRI*** (***I***stituto ***R***icostruzione ***I***ndustriale, attraverso cui lo Stato acquista il controllo di *industrie* siderurgiche, meccaniche e navali e di alcune *banche*) creando un sistema di *partecipazioni statali* e con misure che favoriscono le *concentrazioni industriali* a vantaggio di pochi gruppi privati.
+
+Sopratutto *dopo la guerra etiopica* il regime prende la strada dell'*autarchia* (autosufficienza economica) che contribuisce a potenziare alcuni settori ma ai *danni* delle condizioni di *vita dei cittadini* \[...]
+
