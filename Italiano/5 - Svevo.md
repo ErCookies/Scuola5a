@@ -68,15 +68,15 @@ Sposa Livia Veneziani e si mette a lavorare con il suocero, proponendosi di *abb
 
 
 
-Nel 1928 scrive un ***profilo autobiografico***:
+Nel 1928 scrive un ***profilo autobiografico***: racconta tutti gli eventi più importanti, dalla scrittura, agli incontri e pure il lavoro
 
-L'origine dello *pseudonimo* () e la funzione di *Trieste* come *crogiolo di popoli e culture*.
+L'origine dello *pseudonimo* (*Italo Svevo* per richiamare la sua giovinezza: *Italo* per il legame con l'Italia, *Svevo* per quelli con la Germania; aveva studiato sopratutto in Germania ed a Trieste) e la funzione di *Trieste* come *crogiolo di popoli e culture*.
 
 *L'apertura europea di Trieste*
 
-L'amicizia con veruda (Il balli di *Senilità*)
+L'amicizia con veruda (Il ballo di *Senilità*)
 
-L'insuccesso di *«Una vita»* descritto con la consueta *ironia* di Svevo
+L'insuccesso di *«Una vita»* (finisce per regalarlo a parenti e amici) descritto con la consueta *ironia* di Svevo
 
 Insuccesso anche di *«Senilità»*
 
@@ -104,7 +104,7 @@ Svevo presenta una *fisionomia di intellettuale* profondamente *diversa* dalla t
 
 Alla base della sua opera vi è una solida *cultura filosofica* arricchita da *interesse per le scienze*: il pensiero dei suoi "maestri" viene da Svevo utilizzato in *modo critico* come *strumento conoscitivo* (***Fraintendimento*** --> Svevo dice che ha il diritto di fraintendere il filosofo al fine di conoscere e studiare).
 
-Di ***Shopenhauer*** non condivide tutte le teorie ma apprezza la riflessione sull'*inconsistenza della volontà umana*, e il tentativo di *smascherare gli autoinganni* con i quali gli uomini si illudono di avere libertà di scelta.
+Di ***Shopenhauer*** non condivide tutte le teorie ma apprezza la riflessione sull'*inconsistenza della volontà umana*, e il tentativo di *smascherare gli autoinganni* con i quali gli uomini si illudono di avere libertà di scelta --> tentativo fallimentare di cambiare la realtà.
 
 Infatti *Svevo* nei suoi *romanzi* smonta regolarmente gli *alibi* creati dai suoi *personaggi* per nascondere i loro movimenti inconfessabili e i loro fallimenti.
 
@@ -121,4 +121,59 @@ Tutti i *fenomeni sociali* (compresa la *psicologia*) sono condizionati dalla re
 Infatti nei suoi *romanzi Svevo* analizza la coscienza di un tipo umano particolare, il *borghese di fine Ottocento*.
 
 Anche la *psicanalisi* di ***Freud*** non viene apprezzata da Svevo come strumento conoscitivo per indagare a fondo la realtà psichica e quindi come strumento narrativo.
+
+
+
+##### ***UNA VITA***
+
+Nel *1892 Svevo* pubblica a sue spese ***Una Vita*** (titolo originale: *Un Inetto*)
+
+* Il giovane *Alfnoso Nitti* lascia il suo villaggio e si impiega a *Trieste* presso la *Banca Maller*; vive a pensione presso la famiglia *Lanucci*;
+* Non si trova bene nell'ambiente della banca, *sogna il successo letterario*;
+* Ha l'occasione di conoscere *Annetta*, figlia di Maller, alla quale aspira anche il cugino *Macario* (che per lui diventa un modello da imitare);
+* Alfonso e Annetta decidono di scrivere un *romanzo* a quattro mani;
+* *Alfonso seduce Annetta*, ma poi *lascia Trieste*, anche perché la madre è ammalata al paese;
+* Quando torna, pensa di *rinunciare alla lotta per la vita* e dedicarsi alla *contemplazione*;
+* Ma quando scopre che *Annetta si è fidanzata con Macario*, viene preso dalla gelosia: le chiede un colloquio chiarificatore, maa finiscce con una *sfida a duello* lanciata dal fratello di Annetta, Federico Maller;
+* La notte prima del duello *Alfonso si suicida* convincendosi di aver compiuto un gesto nobile.
+
+I *modelli letterari* sono tradizionali (romanzo della scalata sociale, romanzo di formazione)
+
+Si nota *l'influsso naturalista* (studio della legge scientifica nel personaggio) nella ricostruzione del *quadro sociale*, 
+
+*ma al centro della narrazione* so colloca *l'analisi della coscienza del protagonista*: Alfonso Nitti incarna la figura dell'***Inetto***
+
+* È un *intellettuale piccolo borghese* alle prese con i *meccanismi della società capitalista* che ha il culto dell'individuo energico e dominatore;
+* La sua impotenza sociale diventa *impotenza psicologica* (incapacità di lottare);
+* Per compensare la quale *si rifugia negli **autoinganni*** (è troppo nobile per abbassarsi a lottare) e nei sogni.
+
+Il suo antagonista *Macario* incarna invece il *lottatore* opposto al contemplatore.
+
+*IL LOTTATORE MACARIO SI SENTE SUPERIORE ALL'INETTO ALFONSO*
+
+*ALFONSO È MALATO DI INETTUDINE E CERCA LA SALUTE*
+
+*NOMINA LA GEOGRAFIA TRIESTINA*
+
+*IL MA L'ESSERE PROVOCATO DALL'UMILIAZIONE*
+
+*LA FILOSOFIA DEL LOTTATORE: PER VINCERE NELLA VITA IL CERVELLO (INTESO COME PENSIERO, COGITO) NON SERVE...*
+
+*ANZI, L'ABITUDINE ALLA **RIFLESSIONE È UN IMPEDIMENTO ALLA LOTTA***
+
+*PORCODIO BASTA MIM SONO ROTTO GLI STRAMINCHIA DI AURACOGLIONET*
+
+*IL NARRATORE È IN TERZA PERSONA MA ASSUME PREVALENTEMENTE IL PUNTO DI VISTA DEL PROTAGONISTA, MA INTERVIENE A SMASCHERARE I SUOI AUTOINGANNI (COME AVVERRÀ ANCHE IN «**SENILITÀ**»)*
+
+###### ***CONCLUSIONE***
+
+*IL SUICIDIO COME LIBERAZIONE DALLA LOTTA*
+
+*IL NARRATORE FA EMERGERE TUTTA L'INETTITUDNE DI ALFONSO*
+
+*ECHI DI DARWIN E SHOPENHAUER*
+
+*IL DRAMMA DI ALFONSO LIQUIDATO IN POCHE RIGHE BUROCRATICHE, UN TELEGRAMMA*
+
+popopopopopoopo
 

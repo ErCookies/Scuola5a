@@ -2,12 +2,15 @@
 	// Cucchi Francesco 5^AI homeAdmin.php
 	
 	session_start();
+	// Check if who's trying to access this page has the right role
+	// Wrong role
 	if(empty($_SESSION['role']) || $_SESSION['role'] != 'Admin'){
 		if(empty($_SESSION['role']) || $_SESSION['role'] != 'User')
 			header("Location: ../Functionalities/logout.php");
 		else
 			header("Location: homeUser.php");
 	}
+	// Correct role
 	else{
 ?>
 

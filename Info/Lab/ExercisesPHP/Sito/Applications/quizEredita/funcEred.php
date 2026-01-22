@@ -9,24 +9,35 @@
 		fclose($file);
 	}
 	
-	function getHistory(){
+	function getHistory($desUser = null){
 		$rows = file('history.csv', FILE_SKIP_EMPTY_LINES);
 		array_shift($rows);
 		$rows = array_values($rows);
-		$tries[] = array();
+		$tries = array();
 		foreach($rows as $row){
 			$data = explode(';', $row);
-			$tries[] = [
-				'user' => $data[0],
-				'dataQuiz' => $data[1],
-				'hasWon' => ($data[2] == 'true'),
-				'wWord' => $data[3],
-				'userTry' => $data[4],
-				'timestampTry' => $data[5]
-			];
+			if($desUser == null)
+				$tries[] = [
+					'user' => $data[0],
+					'dataQuiz' => $data[1],
+					'hasWon' => ($data[2] == 'true'),
+					'wWord' => $data[3],
+					'userTry' => $data[4],
+					'timestampTry' => $data[5]
+				];
+			else{
+				if($desUser == $data[0])
+					$tries[] = [
+						'user' => $data[0],
+						'dataQuiz' => $data[1],
+						'hasWon' => ($data[2] == 'true'),
+						'wWord' => $data[3],
+						'userTry' => $data[4],
+						'timestampTry' => $data[5]
+					];
+			}
 		}
-		array_shift($tries);
-		return $tries;
+		return (count($tries) > 0) ? $tries : null;
 	}
 	
 	function getTry($user, $dataQuiz){
