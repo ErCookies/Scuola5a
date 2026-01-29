@@ -2,7 +2,7 @@
 
 Il client predispone un form ***IN POST***, attributo *enctype="multipart/form-data"* ed un campo input con *type="file"*
 
-* Verificare nel php.ini file\_uploads=true
+* Verificare nel file xampp/php.ini file\_uploads=true
 
 
 
