@@ -33,6 +33,7 @@
 			Data quiz yyyyMMdd: <input type="text" name="dataQuiz" placeholder="yyyyMMdd" pattern="\d{8}" required><br>
 			<input type="submit" value="Ricerca">
 		</form>
+		<?="<a href=\"quiz.php?dataQuiz=" . getLastQuizDate() . "\"><button>Vai all'ultimo quiz</button></a>"?>
 		<?php
 			echo "<h2>Statistiche personali</h2>";
 			$allTries = getHistory($_SESSION['user']);

@@ -55,32 +55,8 @@
 					echo "<p style=\"color:red; font-weight:bold;\">Errore nella scrittura del quiz. Riprovare pi&ugrave; tardi.</p>";
 			}
 		?>
-		<h1>Statistiche quiz</h1>
-		<ul>
-		<?php
-			// Get all dates of quizzes, all tries from all users and number of users
-			$quizDates = getAllQuizDates();
-			$history = getHistory();
-			$numUsers = getNumUsers();
-			$totTry = count($history);
-			echo "<li><b>Numero utenti: $numUsers | Numero tentativi: $totTry</b></li>";
-			foreach($quizDates as $date){
-				$numTry = 0;
-				$numWon = 0;
-				foreach($history as $try){
-					if($try['dataQuiz'] == $date){
-						$numTry++;
-						if($try['hasWon'])
-							$numWon++;
-					}
-				}
-				if($numTry != 0)
-					echo "<li>Quiz " . date("d/m/Y", strtotime($date)) . ": $numTry tentativi (" . round(($numTry/$totTry)*100, 1) . "% sul totale), $numWon utenti hanno indovinato (" . round(($numWon/$numTry)*100, 1) . "%)</li>";
-				else
-					echo "<li>Quiz " . date("d/m/Y", strtotime($date)) . ": $numTry tentativi </li>";
-			}
-			echo "</ul>";
-		?>
+		<br>
+		<a href="stats.php"><button>&rarr; Vai alle statistiche &larr;</button></a>
 	</body>
 </html>
 <?php

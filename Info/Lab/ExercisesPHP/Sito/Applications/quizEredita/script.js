@@ -19,3 +19,46 @@ function checkData(form){
 	
 	return val;
 }
+
+function showQuizzes(){
+	const ans = document.getElementById("ans");
+	let qz = document.getElementById("formettino").quizD.value;
+	if(qz == "")
+		ans.innerHTML = "Cominciare a digitare per cercare un quiz";
+	else{
+		const xhttp = new XMLHttpRequest();
+		xhttp.open("POST", "server.php");
+		xhttp.onload = function(){
+			printQuizzes(this.responseText);
+		}
+		xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded"); 
+		xhttp.send("quiz="+qz);
+	}
+}
+
+function printQuizzes(serverAns){
+	let HTMLAns = "";
+	if(serverAns == "CON_ERR"){
+		HTMLAns = "Errore - Nessuna connessione al server";
+	}else{
+		let aux = JSON.parse(serverAns);
+		if(aux.length == 0)
+			HTMLAns = "Nessun quiz trovato";
+		else{
+			HTMLAns = "<table border=1><thead><th>Data Quiz</th><th>Num try</th><th>Num win</th></thead><tbody>";
+			for(let k = 0; k < aux.length; k++){
+				HTMLAns += "<tr>";
+				HTMLAns += "<td>" + aux[k].qDate + "</td>"
+				HTMLAns += "<td>" + aux[k].numTry + "</td>"
+				HTMLAns += "<td>" + aux[k].numWin + "</td>"
+				HTMLAns += "</tr>";
+			}
+			HTMLAns += "</tbody></table>";
+		}
+	}
+	document.getElementById("ans").innerHTML = HTMLAns;
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+	document.getElementById("inTxtQuiz").addEventListener("input", showQuizzes);
+});
