@@ -139,7 +139,7 @@ Nel *1892 Svevo* pubblica a sue spese ***Una Vita*** (titolo originale: *Un Inet
 
 I *modelli letterari* sono tradizionali (romanzo della scalata sociale, romanzo di formazione)
 
-Si nota *l'influsso naturalista* (studio della legge scientifica nel personaggio) nella ricostruzione del *quadro sociale*, 
+Si nota *l'influsso naturalista* (studio della legge scientifica nel personaggio) nella ricostruzione del *quadro sociale*,
 
 *ma al centro della narrazione* so colloca *l'analisi della coscienza del protagonista*: Alfonso Nitti incarna la figura dell'***Inetto***
 
@@ -175,5 +175,130 @@ Il suo antagonista *Macario* incarna invece il *lottatore* opposto al contemplat
 
 *IL DRAMMA DI ALFONSO LIQUIDATO IN POCHE RIGHE BUROCRATICHE, UN TELEGRAMMA*
 
-popopopopopoopo
+\[...]
+
+
+
+##### ***SENILITÀ***
+
+Nel 1898 pubblica «*Senilità*» (sempre a sue spese e senza successo)
+
+* *Emilio Brentani* vive una vita mediocre insieme alla sorella *Amalia* e all'amico *Stefano Balli* (che rappresenta il *lottatore*);
+* Conosce *Angiolina* (una ragazza del popolo) e decide di compensare la propria *insoddisfazione* con una *relazione* «*Facile e Breve*» (pensa lui);
+* Ma si *innamora* e nella sua fantasia la trasforma in una *creatura angelica;*
+* Quando scopre il ripetuto *tradimento di Angiolina* decide di interrompere il rapporto, ma poi la *prostrazione* lo spinge a riallacciarlo per ritrovare l'*energia vitale* che la ragazza gli dà;
+* Angiolina si innamora dei balli alimentando la gelosia di Emilio;
+* Intanti anche *Amalia si innamora del Balli* e cerca la consolazione nell'etere, fino a *morire di polmonite*;
+* Dopo l'ennesimo tradimento, finalmente *Emilio rompe con Angiolina*;
+* Ma finirà precocemente invecchiato a vagheggiare una *donna idealizzata* che fonde le figure di Angiolina e Amalia.
+
+***IL RITRATTO DELL'INETTO***
+
+*EMILIO CERCA LA FACILE AVVENTURA INIZIANDO CON LE MENZOGNE*
+
+*COMINCIANO I SUOI AUTOINGANNI (FAMIGLIA E CARRIERA COME ALIBI PER NASCONDERE LA PAURA DI UNA RELAZIONE SERIA), MA IL NARRATORE LI SMONTA*
+
+*EMILIO ED AMALIA COME IMMAGINI DELLA MALATTIA*
+
+*COME ALFONSO, ANCHE EMILIO SOSPETTA LA PROPRIA DEBOLEZZA*
+
+*ANCHE EMILIO È UNO SCRITTORE FALLITO (PICCOLO TRATTO AUTOBIOGRAFICO)*
+
+*IRONIA DI SVEVO SUL PROPRIO INSUCCESSO LETTERARIO*
+
+*ALTRO AUTOINGANNO*
+
+*ANGIOLINA COME IMMAGINE DELLA SALUTE*
+
+*EMILIO CERCA IN ANGIOLINA LA SALUTE*
+
+*L'AUTINGANNO LEGATO ALLA RELAZIONE*
+
+*IL NARRATORE CI FA CAPIRE CHE ANGIOLINA È UNA FURBONA*
+
+*EMILIO CREDE DI POTER DOMINARE LA SITUAZIONE TRAMITE LE SUE CONCLUSIONI LOGICHE*
+
+*ANCORA ANGIOLINA COME IMMAGINE DELLA SALUTE*
+
+* «*Senilità*» *NON* offre più un articolato *quadro sociale*, nè affronta problemi sociali (l'emarginazione sociale di Alfonso Nitti) ma si concentra su *quattro personaggi*;
+* Gli avvenimenti hanno scarso rilievo: prevale l'*analisi psicologica del protagonista*;
+* *Emilio Brentani* è l'evoluzione di Alfonso Nitti (*intellettuale **inetto*** che ja paura ad affrontare la vita e sostituisce la donna reale con la donna ideale): impotenza sociale che diventa psicologica;
+* Guarda alla realtà attraverso *schemi letterari* (Angiolina come donna angelo);
+* Il *Balli* rappresenta la maschera del *superuomo* che però nasconde dietro l'atteggiamento virile un'intima debolezza: è un *artista fallito* che si consola con le donne;
+* *Emilio e il Balli* sono due figure opposte ma complementari di *intellettuali piccolo borghesi in crisi*.
+
+
+
+##### ***LA COSCIENZA DI ZENO***
+
+Tra «Senilità» e «La Coscienza di Zeno» passano *25 anni*, cruciali sia per l'*evoluzione interna* di Svevo che per le *trasformazioni sociali e culturali* accelerate dalla Prima Guerra Mondiale
+
+* Superamento del positivismo ed esplosione delle *avanguardie*;
+* Affacciarsi della ***psicanalisi***;
+* Teoria della *relatività* di Einstein.
+
+Svevo *abbandona il modulo naturalistico* del narratore esterno che abbraccia il punto di vista dei personaggi.
+
+Per gran parte il romanzo è una *confessione autobiografica* di *Zeno* (Quindi in *prima persona*) su invito del *Dottor S.* per guarire dalla sua *malattia*.
+
+Il dottore poi pubblica per vendetta come racconta nella ***PREFAZIONE***:
+
+*È importante perche Dr. S. ci mette sull'attenti riguardo le bugie che Zeno racconterà. Il racconto non viene scritto di sua spontanea volontà, ma viene prescritto dal dottore come cura per la malattia. Zeno si sottrae poi dalla cura e Dr. S., per ripicca, pubblica i racconti, dicendo che ne avrebbe condiviso i "lauti onorari" (imprecisione linguistica: l'"onorario" è uno stipendio, intendeva "ricavo") con Zeno.*
+
+
+
+Il *racconto di Zeno* si articola untorno ad alcuni *temi fondamentali*:
+
+1. ***Prefazione*** (del Dr. S.);
+2. ***Preambolo***: *comincia a parlare Zeno* (un *inetto* ma appartenente alla *ricca borghesia commerciale*) raccontando la difficoltà di ricordare;
+3. ***Il fumo***: Zeno narra come ha cominciato a fumare da bambino e come ha tentato - invano - di smettere; scopre che il fumo è diventato un *alibi* per giustificare la sua *inettitudine*;
+4. ***La morte di mio padre***: lo schiaffo ricevuto dal padre morente e i sensi di colpa che ne nascono (*complesso edipico*, già affiorato nel capitolo precedente);
+5. ***La storia del mio matrimonio***: alla ricerca di un *padre supplementare*, Zeno comincia a frequentare Giovanni *Malfenti* che ha quattro figlie; a Emilio piace *Ada*, che però ama *Guido Speier* - affascinante e sicuro di sè (il *rivale*), ripiega su *Augusta*, brutta e scialba (pallido, smorto, sbiadito);
+6. ***La moglie e l'amante***: mentre *Augusta* che si rivela la *moglie ideale* (la *sanità borghese* contrapposta alla *malattia* di Zeno), Zeno ha una relazione con Carla;
+7. ***Storia di un'associazione commerciale***: Zeno si associa a *Guido*, che cerca di giocare in borsa ma si rivela incapace; per commuovere Ada inscena un falso *suicidio* (Guido), che invece riesce; *Zeno* riesce a risollevare la situazione (per rispetto alla memoria dell'«amico» dice) speculando, ma arriva in ritardo e *sbaglia funerale* (*atto mancato*);
+8. ***Psico-analisi***: molti anni dopo (1915-16), il *vecchio Zeno* ha interrotto la cura ma continua a tenere un *diario* in cui afferma di essere *guarito* grazie alla guerra (ma la conclusione immagina una *catastrofe dell'umanità* dovuta al dilagare della malattia).
+
+Originale è il trattamento del tempo (***Tempo misto***): i ricordi non si presentano in successione lineare ma in un *tempo soggettivo* che mescola piani e distanze (il *passato* e il *presente si intrecciano*).
+
+Il *narratore Zeno* è *inattendibile* (ci avverte subito il Dr. S.) nel suo duplice punto di vista (*Zeno personaggio* e *Zeno narratore*) perché accumula **autoinganni** inconsci per giustificare il suo comportamento (a sua volta motivato da *impulsi inconsci*).
+
+In assenza di narratore esterno la *cattiva coscienza* di Zeno viene a volte svelata dalla realtà oggettiva dei fatti ma il *narratore interno* significa che *non c'è più una realtà oggettiva* (verità e menzogna si mescolano).
+
+Zeno (l'evoluzione dell\*\*\*'inetto\*\*\*) ha acquisito un *distacco ironico* che gli permette di *guardare in modo critico al mondo borghese* (la malattia come funzione straniante).
+
+
+
+###### ***IL FUMO***
+
+*ZENO NARRA IN PRIMA PERSONA*
+
+*SEGUENDO LA TRACCIA DELLE SIGARETTE E SALTANDO DA UN RICORDO ALL'ALTRO (MOLTI SFUOCATI)*
+
+*LA GELOSIA VERSO IL FRATELLO*
+
+*IRONIA SULL'EFFICACIA DELLA PSICANALISI*
+
+*COMPLESSO EDIPICO (APPROPRIARSI DELLA FORZA DEL PADRE --> SIGARO COME FIGURA FALLICA)*
+
+*IL RICORDO DELLA MADRE*
+
+*RIMOZIONE DELLA FIGURA DEL FRATELLO*
+
+*LA COSCIENZA DI ZENO: IL FUMO COME ALIBI PER LA PROPRIA INETTITUDINE*
+
+*L'OLIVI COME TUTORE DELL'INETTO ZENO*
+
+
+
+##### ***LA PROFEZIA DELL'APOCALISSE***
+
+*DISPREZZO DI ZENO PER LA CURA E IL DOTTORE*
+
+*ZENO SI SENTE GUARITO*
+
+*LA SALUTE NASCE DAL SUCCESSO NELLA LOTTA ECONOMICA*
+
+*I SUCCESSI DI UN PESCECANE (TROIE CHE SI SONO ARRICCHITE CON LA GUERRA)*
+
+*LA RIVALSA CONREO L'OLIVI, L'AMMINISTRATORE CHE IL PADRE GLI HA MESSO ALLE COSTOLE CONVINTO DELLA SUA INETTITUDINE AGLI AFFARI*
 

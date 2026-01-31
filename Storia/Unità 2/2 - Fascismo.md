@@ -223,7 +223,7 @@ Con l'avvento del ministro *Volpi* la politica economica imbocca la via del *pro
 
 In questo quadro si colloca la rivalutazione della lira (*Quota novanta*) che incide positivamente sui risparmi ma negativamente sui consumi (aumento dei prezzi) provocando un *rallentamento della produzione* e delle esportazioni, un aumento della *disoccupazione* e tagli ai salari.
 
-Il regime risponde alla *crisi del 1929*, allargando l'intervento statale (*Stato imprenditore* - prende in mano le banche, aziende...) attraverso l'*IMI* (fondi pubblici alle industrie) e l***'IRI*** (***I***stituto ***R***icostruzione ***I***ndustriale, attraverso cui lo Stato acquista il controllo di *industrie* siderurgiche, meccaniche e navali e di alcune *banche*) creando un sistema di *partecipazioni statali* e con misure che favoriscono le *concentrazioni industriali* a vantaggio di pochi gruppi privati.
+Il regime risponde alla *crisi del 1929*, allargando l'intervento statale (*Stato imprenditore* - prende in mano le banche, aziende...) attraverso l'*IMI* (fondi pubblici alle industrie) e l'\*\*\*IRI\*\*\* (***I***stituto ***R***icostruzione ***I***ndustriale, attraverso cui lo Stato acquista il controllo di *industrie* siderurgiche, meccaniche e navali e di alcune *banche*) creando un sistema di *partecipazioni statali* e con misure che favoriscono le *concentrazioni industriali* a vantaggio di pochi gruppi privati.
 
 Sopratutto *dopo la guerra etiopica* il regime prende la strada dell'*autarchia* (autosufficienza economica) che contribuisce a potenziare alcuni settori ma ai *danni* delle condizioni di *vita dei cittadini* \[...]
 
