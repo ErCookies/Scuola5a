@@ -1,0 +1,6 @@
+1. In synchronous transmission, data is sent in a full‑duplex mode in the form of blocks or frames; in asynchronous transmission, data is sent in a half‑duplex mode one byte or character at a time in a continuous stream of bytes.
+
+2. A clock is needed in synchronous transmission to keep the sender and receiver synchronized, so that both know exactly when each bit or byte starts and ends and no gap appears between them.
+
+3. Synchronous transmission is efficient and reliable, suited to transferring large amounts of data and to real‑time communication such as chat rooms, videoconferences and phone conversations.
+​Asynchronous transmission is simpler and cheaper, good for sending small amounts of data that do not need real‑time delivery, such as email and message boards.

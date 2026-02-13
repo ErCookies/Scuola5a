@@ -1,0 +1,33 @@
+6)
+1. packets
+2. network
+3. route
+4. block
+5. instructions
+6. Synchronization
+7. Protocol
+8. Originating
+9. data
+10. bits
+
+8)
+1. Internet
+2. router
+3. coverage
+4. name
+5. term
+6. radio
+7. hackers
+8. password
+
+9)
+4G:
+- latency: 60-98 ms
+- Base stations: cell towers
+- Virtualization: LTE
+5G:
+- dl speed: 10 Gb/s
+- Base stations: small cells
+- Cell density: 5-10x
+- OFDM 100-800 MHz
+- Virtualization: 

@@ -30,3 +30,36 @@ Le istruzioni IN CAPS LOCK
 
 Ogni DBMS ha delle differenze nella sintassi
 
+
+
+###### *NORMALIZZAZIONE*
+
+Spezzettare una tabella con problemi di ridondanza in più tabelle.
+
+***1a Forma Normale (1FN)*** requisiti:
+
+* Tutte le righe hanno lo stesso numero di colonne;
+* Gli attributi sono valori elementari
+* Non è rilevante l'ordine delle righe;
+* Esiste una chiave primaria;
+* Non esistono due righe identiche.
+
+
+
+###### *DIPENDENZA FUNZIONALE*
+
+Un attributo Y dipende *funzionalmente* da X (X→Y) se dato il valore di X è possibile trovare 1 ed 1 solo valore di Y (definizione di funzione)
+
+
+
+***2a forma normale (2FN)*** requisiti:
+
+* essere in 1FN;
+* *NON esistono* campi NON chiave che dipendono **DA UNA PARTE DELLA CHIAVE PRIMARIA** e non dalla sua interezza
+
+
+
+***3FN***:
+
+* è in 2FN;
+* TUTTI gli attributi non chiave dipendono funzionalmente dalla chiave primaria.

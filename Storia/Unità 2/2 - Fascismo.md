@@ -225,5 +225,46 @@ In questo quadro si colloca la rivalutazione della lira (*Quota novanta*) che in
 
 Il regime risponde alla *crisi del 1929*, allargando l'intervento statale (*Stato imprenditore* - prende in mano le banche, aziende...) attraverso l'*IMI* (fondi pubblici alle industrie) e l'\*\*\*IRI\*\*\* (***I***stituto ***R***icostruzione ***I***ndustriale, attraverso cui lo Stato acquista il controllo di *industrie* siderurgiche, meccaniche e navali e di alcune *banche*) creando un sistema di *partecipazioni statali* e con misure che favoriscono le *concentrazioni industriali* a vantaggio di pochi gruppi privati.
 
-Sopratutto *dopo la guerra etiopica* il regime prende la strada dell'*autarchia* (autosufficienza economica) che contribuisce a potenziare alcuni settori ma ai *danni* delle condizioni di *vita dei cittadini* \[...]
+Sopratutto *dopo la guerra etiopica* il regime prende la strada dell'*autarchia* (autosufficienza economica) che contribuisce a potenziare alcuni settori ma ai *danni* delle condizioni di *vita dei cittadini* (merci peggiori a prezzi più alti).
+
+Altre iniziative del regime:
+
+* *Battaglia del grano* (per l'autosufficienza cerealicola);
+* *Bonifiche* (paludi pontine) e i *lavori pubblici*;
+* *Assistenza* a vantaggio dei lavoratori e delle loro famiglie;
+* *Battaglia demografica* (tassa sul celibato, sostegno alla maternità e all'infanzia attraverso l'omni, incentivi alle famiglie numerose).
+
+
+
+###### ***POLITICA ESTERA E LEGGI RAZZIALI***
+
+Nei *primi anni (1922-26)* Mussolini opera in politica estera con *prudenza* anche se si impegna per la *revisione dei trattati* riguardo alle ambizioni mediterranee e africane --> *Amicizia con la Gran Bretagna, ostilità alla Francia*.
+
+In una *seconda fase* incoraggia il *militarismo* e il riarmo in paesi che stanno sperimentando regimi fascisti e accentua il *carattere bellicista*.
+
+Tuttavia, *preoccupato* per l'aggressività della Germania di *Hitler*, si riavvicina alla Francia e Gran Bretagna (accordi di *Stresa*).
+
+La svolta è data dalla ***campagna etiopica***<i> (1935)</i>.
+
+L'aggressione all'Etiopia del *Negus Haile' Selassie'* è motivata sia da motivi di *prestigio* internazionale e *consenso* interno, che dal sogno di trasferire coloni italiani e giustificata come "Missione Civilizzatrice".
+
+L'Etiopia è membro della società delle nazioni, la quale applica all'Italia *sanzioni economiche* di *limitata efficacia* (non coinvolgono USA e Germania e non riguardano il petrolio) ma utili alla *propaganda* del regime.
+
+Durante e dopo la campagna vengono compiute feroci repressioni contro la *guerriglia* con l'impiego di *gas asfissianti*.
+
+Dopo la conquista di Adis Abeba (1936) Mussolini proclama l'*impero dell'Africa Orientale Italiana*.
+
+Il regime raggiunge il *vertice del consenso*.
+
+La guerra etiopica porta all'isolamento europeo spingendola all'alleanza politica con la Germania (*Asse Roma-Berlino*)
+
+La quale funziona però a solo *vantaggio dei tedeschi* (annessione dell'Austria e dei sudeti).
+
+L'Italia cerca una compensazione invadendo l'*Albania* (1939).
+
+La conquista dell'impero sollecita una prima ***legislazione razziale*** per evitare contaminazioni fra italiani ed africani.
+
+Nel 1938 viene emanato il *manifesto della razza*, in base al quale vengono emanate *leggi per la difesa della razza* rivolte in particolare agli *Ebrei*:
+
+esclusione dalle scuole pubbliche, divieto di matrimoni misti, limiti alla proprietà e alle professioni, allontanamento da posti statali.
 

@@ -194,6 +194,8 @@ Nel 1898 pubblica «*Senilità*» (sempre a sue spese e senza successo)
 
 ***IL RITRATTO DELL'INETTO***
 
+
+
 *EMILIO CERCA LA FACILE AVVENTURA INIZIANDO CON LE MENZOGNE*
 
 *COMINCIANO I SUOI AUTOINGANNI (FAMIGLIA E CARRIERA COME ALIBI PER NASCONDERE LA PAURA DI UNA RELAZIONE SERIA), MA IL NARRATORE LI SMONTA*
@@ -226,6 +228,7 @@ Nel 1898 pubblica «*Senilità*» (sempre a sue spese e senza successo)
 * Guarda alla realtà attraverso *schemi letterari* (Angiolina come donna angelo);
 * Il *Balli* rappresenta la maschera del *superuomo* che però nasconde dietro l'atteggiamento virile un'intima debolezza: è un *artista fallito* che si consola con le donne;
 * *Emilio e il Balli* sono due figure opposte ma complementari di *intellettuali piccolo borghesi in crisi*.
+* Il narratore è in terza persona ed il punto di vista viene collocato molto spesso su Emilio
 
 
 
@@ -264,7 +267,7 @@ Il *narratore Zeno* è *inattendibile* (ci avverte subito il Dr. S.) nel suo dup
 
 In assenza di narratore esterno la *cattiva coscienza* di Zeno viene a volte svelata dalla realtà oggettiva dei fatti ma il *narratore interno* significa che *non c'è più una realtà oggettiva* (verità e menzogna si mescolano).
 
-Zeno (l'evoluzione dell\*\*\*'inetto\*\*\*) ha acquisito un *distacco ironico* che gli permette di *guardare in modo critico al mondo borghese* (la malattia come funzione straniante).
+Zeno (l'evoluzione dell'\*\*\*inetto\*\*\*) ha acquisito un *distacco ironico* che gli permette di *guardare in modo critico al mondo borghese* (la malattia come funzione straniante).
 
 
 
@@ -300,5 +303,21 @@ Zeno (l'evoluzione dell\*\*\*'inetto\*\*\*) ha acquisito un *distacco ironico* c
 
 *I SUCCESSI DI UN PESCECANE (TROIE CHE SI SONO ARRICCHITE CON LA GUERRA)*
 
-*LA RIVALSA CONREO L'OLIVI, L'AMMINISTRATORE CHE IL PADRE GLI HA MESSO ALLE COSTOLE CONVINTO DELLA SUA INETTITUDINE AGLI AFFARI*
+*LA RIVALSA CONTRO L'OLIVI, L'AMMINISTRATORE CHE IL PADRE GLI HA MESSO ALLE COSTOLE CONVINTO DELLA SUA INETTITUDINE AGLI AFFARI*
 
+*L'OLIVI VIENE VISTO COME UNA SPECIE DI PADRE DI RISERVA*
+
+*ZENO SI ADEGUA ALLA LOTTA E VINCE*
+
+*OGNI CONCLUSIONE È SEMPRE PROVVISORIA*
+
+*È LA VITA AD ESSERE UNA MALATTIA, TUTTI SONO MALATI*
+
+*LA TECNOLOGIA PORTERÀ ALLA DISTRUZIONE*
+
+*CANCELLANDO LA SELEZIONE NATURALE ED INDEBOLENDO L'UMANITÀ*
+
+*L'ESPLOSIONE FINALE*
+
+* Abbiamo *un solo punto di vista*, quello di *Zeno*: il Dr. S. ci ha avvertiti che il suo racconto è *inattendibile*;
+* In realtà lo *Zeno narratore* vecchio e lo *Zeno attore* di un tempo convivono: Zeno *racconta e giudica* allo stesso momento.
