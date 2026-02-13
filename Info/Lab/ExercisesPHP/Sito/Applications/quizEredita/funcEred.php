@@ -69,6 +69,11 @@
 		return $quizzes;
 	}
 	
+	function getLastQuizDate(){
+		$a = getAllQuizDates();
+		return $a[count($a)-1];
+	}
+	
 	function getNumUsers(){
 		$x = 0;
 		$users = importUsers('../../DataBase/');
@@ -77,5 +82,32 @@
 				$x++;
 		}
 		return $x;
+	}
+	
+	function searchQuiz($quiz){
+		$quizDates = getAllQuizDates();
+		$history = getHistory();
+		$qzs = [];
+		
+		foreach($quizDates as $date){
+			if(str_contains($date,$quiz)){
+				$numTry = 0;
+				$numWon = 0;
+				foreach($history as $try){
+					if($try['dataQuiz'] == $date){
+						$numTry++;
+						if($try['hasWon'])
+							$numWon++;
+					}
+				}
+				$qzs[] = [
+					'qDate' => $date,
+					'numTry' => $numTry,
+					'numWin' => $numWon
+				];
+			}
+		}
+		
+		return $qzs;
 	}
 ?>

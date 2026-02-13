@@ -26,6 +26,7 @@
 	<body>
 		<h1>Ghigliottina - Eredit&agrave;</h1>
 		<a href="../../Homes/homeUser.php"><button>&rarr; TORNA ALLA HOME &larr;</button></a>
+		<a href="user.php"><button>&rarr; TORNA ALLA RICERCA DEL QUIZ &larr;</button></a>
 		<br>
 		<?php
 			if($quizExists){
