@@ -1,0 +1,13 @@
+enable
+configure terminal
+interface fastethernet0/0
+ ip address 192.168.10.65 255.255.255.192
+ no shutdown
+exit
+interface fastethernet0/1
+ ip address 192.168.10.197 255.255.255.252
+ no shutdown
+exit
+ip route 192.168.10.128 255.255.255.192 192.168.10.198 !rete da raggiungere | subnet | host per cui passare
+end
+write memory
