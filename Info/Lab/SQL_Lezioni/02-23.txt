@@ -1,0 +1,347 @@
+MariaDB [(none)]> USE bollette;
+Database changed
+
+MariaDB [bollette]> SELECT * FROM utenti;
++--------+---------+-----------+-----------+-------+
+| codice | cognome | nome      | indirizzo | citta |
++--------+---------+-----------+-----------+-------+
+|      3 | c3      | n3        | NULL      | NULL  |
+|      7 | Cucchi  | Francesco | NULL      | NULL  |
+|      9 | c2      | n2        | NULL      | NULL  |
+|     88 | Bonardi | Andrea    | NULL      | NULL  |
++--------+---------+-----------+-----------+-------+
+4 rows in set (0.004 sec)
+
+MariaDB [bollette]> INSERT INTO utenti (nome, cognome, codice) VALUES ('peffoh', 'dhe', 1984);
+Query OK, 1 row affected (0.109 sec)
+
+MariaDB [bollette]> SELECT * FROM utenti ORDER BY cognome desc, nome desc;
++--------+---------+-----------+-----------+-------+
+| codice | cognome | nome      | indirizzo | citta |
++--------+---------+-----------+-----------+-------+
+|   1984 | dhe     | peffoh    | NULL      | NULL  |
+|      7 | Cucchi  | Francesco | NULL      | NULL  |
+|      3 | c3      | n3        | NULL      | NULL  |
+|      9 | c2      | n2        | NULL      | NULL  |
+|     88 | Bonardi | Andrea    | NULL      | NULL  |
++--------+---------+-----------+-----------+-------+
+5 rows in set (0.001 sec)
+
+MariaDB [bollette]> \t
+MariaDB [bollette]> INSERT INTO utenti (nome, cognome, codice) VALUES ('Francesco', 'Sicignano', 89);
+Query OK, 1 row affected (0.115 sec)
+
+MariaDB [bollette]> SELECT * FROM utenti;
++--------+-----------+-----------+-----------+-------+
+| codice | cognome   | nome      | indirizzo | citta |
++--------+-----------+-----------+-----------+-------+
+|      3 | c3        | n3        | NULL      | NULL  |
+|      7 | Cucchi    | Francesco | NULL      | NULL  |
+|      9 | c2        | n2        | NULL      | NULL  |
+|     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     89 | Sicignano | Francesco | NULL      | NULL  |
+|   1984 | dhe       | peffoh    | NULL      | NULL  |
++--------+-----------+-----------+-----------+-------+
+6 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM utenti WHERE nome='francesco';
++--------+-----------+-----------+-----------+-------+
+| codice | cognome   | nome      | indirizzo | citta |
++--------+-----------+-----------+-----------+-------+
+|      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     89 | Sicignano | Francesco | NULL      | NULL  |
++--------+-----------+-----------+-----------+-------+
+2 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT cognome,codice FROM utenti WHERE nome='francesco';
++-----------+--------+
+| cognome   | codice |
++-----------+--------+
+| Cucchi    |      7 |
+| Sicignano |     89 |
++-----------+--------+
+2 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM utenti
+    -> WHERE nome LIKE 'fra%';
++--------+-----------+-----------+-----------+-------+
+| codice | cognome   | nome      | indirizzo | citta |
++--------+-----------+-----------+-----------+-------+
+|      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     89 | Sicignano | Francesco | NULL      | NULL  |
++--------+-----------+-----------+-----------+-------+
+2 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM utenti
+    -> WHERE nome='fra%';
+Empty set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM bollette;
++--------+------------+---------+---------+--------+
+| numero | data       | consumo | importo | utente |
++--------+------------+---------+---------+--------+
+|     11 | 2026-02-19 |    NULL |   10.00 |   NULL |
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |
++--------+------------+---------+---------+--------+
+10 rows in set (0.003 sec)
+
+MariaDB [bollette]> SELECT * FROM bollette
+    -> WHERE importo >= 20 AND importo <= 60;
++--------+------------+---------+---------+--------+
+| numero | data       | consumo | importo | utente |
++--------+------------+---------+---------+--------+
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |
++--------+------------+---------+---------+--------+
+5 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM bollette
+    -> WHERE importo BETWEEN 20 AND 60;
++--------+------------+---------+---------+--------+
+| numero | data       | consumo | importo | utente |
++--------+------------+---------+---------+--------+
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |
++--------+------------+---------+---------+--------+
+5 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM bollette;
++--------+------------+---------+---------+--------+
+| numero | data       | consumo | importo | utente |
++--------+------------+---------+---------+--------+
+|     11 | 2026-02-19 |    NULL |   10.00 |   NULL |
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |
++--------+------------+---------+---------+--------+
+10 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM utenti;
++--------+-----------+-----------+-----------+-------+
+| codice | cognome   | nome      | indirizzo | citta |
++--------+-----------+-----------+-----------+-------+
+|      3 | c3        | n3        | NULL      | NULL  |
+|      7 | Cucchi    | Francesco | NULL      | NULL  |
+|      9 | c2        | n2        | NULL      | NULL  |
+|     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     89 | Sicignano | Francesco | NULL      | NULL  |
+|   1984 | dhe       | peffoh    | NULL      | NULL  |
++--------+-----------+-----------+-----------+-------+
+6 rows in set (0.001 sec)
+
+MariaDB [bollette]> \t
+MariaDB [bollette]> SELECT * FROM bollette
+    -> INNER JOIN utenti;
++--------+------------+---------+---------+--------+--------+-----------+-----------+-----------+-------+
+| numero | data       | consumo | importo | utente | codice | cognome   | nome      | indirizzo | citta |
++--------+------------+---------+---------+--------+--------+-----------+-----------+-----------+-------+
+|     11 | 2026-02-19 |    NULL |   10.00 |   NULL |      3 | c3        | n3        | NULL      | NULL  |
+|     11 | 2026-02-19 |    NULL |   10.00 |   NULL |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     11 | 2026-02-19 |    NULL |   10.00 |   NULL |      9 | c2        | n2        | NULL      | NULL  |
+|     11 | 2026-02-19 |    NULL |   10.00 |   NULL |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     11 | 2026-02-19 |    NULL |   10.00 |   NULL |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     11 | 2026-02-19 |    NULL |   10.00 |   NULL |   1984 | dhe       | peffoh    | NULL      | NULL  |
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |      3 | c3        | n3        | NULL      | NULL  |
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |      9 | c2        | n2        | NULL      | NULL  |
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |   1984 | dhe       | peffoh    | NULL      | NULL  |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |      3 | c3        | n3        | NULL      | NULL  |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |      9 | c2        | n2        | NULL      | NULL  |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |   1984 | dhe       | peffoh    | NULL      | NULL  |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |      3 | c3        | n3        | NULL      | NULL  |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |      9 | c2        | n2        | NULL      | NULL  |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |   1984 | dhe       | peffoh    | NULL      | NULL  |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |      3 | c3        | n3        | NULL      | NULL  |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |      9 | c2        | n2        | NULL      | NULL  |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |   1984 | dhe       | peffoh    | NULL      | NULL  |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |      3 | c3        | n3        | NULL      | NULL  |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |      9 | c2        | n2        | NULL      | NULL  |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |   1984 | dhe       | peffoh    | NULL      | NULL  |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |      3 | c3        | n3        | NULL      | NULL  |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |      9 | c2        | n2        | NULL      | NULL  |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |   1984 | dhe       | peffoh    | NULL      | NULL  |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |      3 | c3        | n3        | NULL      | NULL  |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |      9 | c2        | n2        | NULL      | NULL  |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |   1984 | dhe       | peffoh    | NULL      | NULL  |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |      3 | c3        | n3        | NULL      | NULL  |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |      9 | c2        | n2        | NULL      | NULL  |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |   1984 | dhe       | peffoh    | NULL      | NULL  |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |      3 | c3        | n3        | NULL      | NULL  |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |      7 | Cucchi    | Francesco | NULL      | NULL  |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |      9 | c2        | n2        | NULL      | NULL  |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |     89 | Sicignano | Francesco | NULL      | NULL  |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |   1984 | dhe       | peffoh    | NULL      | NULL  |
++--------+------------+---------+---------+--------+--------+-----------+-----------+-----------+-------+
+60 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM bollette
+    -> INNER JOIN utenti
+    -> WHERE bollette.utente=utenti.codice;
++--------+------------+---------+---------+--------+--------+---------+-----------+-----------+-------+
+| numero | data       | consumo | importo | utente | codice | cognome | nome      | indirizzo | citta |
++--------+------------+---------+---------+--------+--------+---------+-----------+-----------+-------+
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |      9 | c2      | n2        | NULL      | NULL  |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |      9 | c2      | n2        | NULL      | NULL  |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |      3 | c3      | n3        | NULL      | NULL  |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |      3 | c3      | n3        | NULL      | NULL  |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |      3 | c3      | n3        | NULL      | NULL  |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |      7 | Cucchi  | Francesco | NULL      | NULL  |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |      7 | Cucchi  | Francesco | NULL      | NULL  |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |      7 | Cucchi  | Francesco | NULL      | NULL  |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |      7 | Cucchi  | Francesco | NULL      | NULL  |
++--------+------------+---------+---------+--------+--------+---------+-----------+-----------+-------+
+9 rows in set (0.002 sec)
+
+MariaDB [bollette]> SELECT * FROM bollette
+    -> INNER JOIN utenti ON bollette.utente = utenti.codice;
++--------+------------+---------+---------+--------+--------+---------+-----------+-----------+-------+
+| numero | data       | consumo | importo | utente | codice | cognome | nome      | indirizzo | citta |
++--------+------------+---------+---------+--------+--------+---------+-----------+-----------+-------+
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |      9 | c2      | n2        | NULL      | NULL  |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |      9 | c2      | n2        | NULL      | NULL  |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |      3 | c3      | n3        | NULL      | NULL  |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |      3 | c3      | n3        | NULL      | NULL  |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |      3 | c3      | n3        | NULL      | NULL  |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |      7 | Cucchi  | Francesco | NULL      | NULL  |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |      7 | Cucchi  | Francesco | NULL      | NULL  |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |      7 | Cucchi  | Francesco | NULL      | NULL  |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |      7 | Cucchi  | Francesco | NULL      | NULL  |
++--------+------------+---------+---------+--------+--------+---------+-----------+-----------+-------+
+9 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT utenti.cognome, utenti.nome, bollette.numero, bollette.importo
+    -> INNER JOIN utenti ON bollette.utente = utenti.codice;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INNER JOIN utenti ON bollette.utente = utenti.codice' at line 2
+MariaDB [bollette]> SELECT utenti.cognome, utenti.nome, bollette.numero, bollette.importo FROM bollette
+    -> INNER JOIN utenti ON bollette.utente = utenti.codice;
++---------+-----------+--------+---------+
+| cognome | nome      | numero | importo |
++---------+-----------+--------+---------+
+| c2      | n2        |     12 |   20.00 |
+| c2      | n2        |     13 |   30.00 |
+| c3      | n3        |     14 |   40.00 |
+| c3      | n3        |     15 |   50.00 |
+| c3      | n3        |     16 |   60.00 |
+| Cucchi  | Francesco |     17 |   70.00 |
+| Cucchi  | Francesco |     18 |   80.00 |
+| Cucchi  | Francesco |     19 |   90.00 |
+| Cucchi  | Francesco |     20 |  100.00 |
++---------+-----------+--------+---------+
+9 rows in set (0.000 sec)
+
+MariaDB [bollette]> SELECT utenti.cognome, utenti.nome, bollette.numero, bollette.importo
+    -> INNER JOIN utenti ON bollette.utente = utenti.codice
+    -> WHERE utenti.codice=7;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INNER JOIN utenti ON bollette.utente = utenti.codice
+WHERE utenti.codice=7' at line 2
+MariaDB [bollette]> INNER JOIN utenti ON bollette.utente = utenti.codice		v
+    -> 
+    -> 
+    -> 
+    -> 
+    -> 
+    -> 
+    -> 
+    -> 
+    -> \c
+MariaDB [bollette]> SELECT utenti.cognome, utenti.nome, bollette.numero, bollette.importo FROM bollette
+    -> INNER JOIN utenti ON bollette.utente = utenti.codice
+    -> WHERE utenti.codice=7;
++---------+-----------+--------+---------+
+| cognome | nome      | numero | importo |
++---------+-----------+--------+---------+
+| Cucchi  | Francesco |     17 |   70.00 |
+| Cucchi  | Francesco |     18 |   80.00 |
+| Cucchi  | Francesco |     19 |   90.00 |
+| Cucchi  | Francesco |     20 |  100.00 |
++---------+-----------+--------+---------+
+4 rows in set (0.001 sec)
+
+MariaDB [bollette]> \t
+MariaDB [bollette]> SELECT u.nome, u.cognome, SUM(b.importo) AS 'Importo Totale' FROM utenti AS u
+    -> INNER JOIN bollette AS b ON u.codice=b.utente
+    -> GROUP BY u.codice;
++-----------+---------+----------------+
+| nome      | cognome | Importo Totale |
++-----------+---------+----------------+
+| n3        | c3      |         150.00 |
+| Francesco | Cucchi  |         340.00 |
+| n2        | c2      |          50.00 |
++-----------+---------+----------------+
+3 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM utenti;
++--------+-----------+-----------+-----------+-------+
+| codice | cognome   | nome      | indirizzo | citta |
++--------+-----------+-----------+-----------+-------+
+|      3 | c3        | n3        | NULL      | NULL  |
+|      7 | Cucchi    | Francesco | NULL      | NULL  |
+|      9 | c2        | n2        | NULL      | NULL  |
+|     88 | Bonardi   | Andrea    | NULL      | NULL  |
+|     89 | Sicignano | Francesco | NULL      | NULL  |
+|   1984 | dhe       | peffoh    | NULL      | NULL  |
++--------+-----------+-----------+-----------+-------+
+6 rows in set (0.001 sec)
+
+MariaDB [bollette]> SELECT * FROM bollette;
++--------+------------+---------+---------+--------+
+| numero | data       | consumo | importo | utente |
++--------+------------+---------+---------+--------+
+|     11 | 2026-02-19 |    NULL |   10.00 |   NULL |
+|     12 | 2026-02-19 |    NULL |   20.00 |      9 |
+|     13 | 2026-02-19 |    NULL |   30.00 |      9 |
+|     14 | 2026-02-19 |    NULL |   40.00 |      3 |
+|     15 | 2026-02-19 |    NULL |   50.00 |      3 |
+|     16 | 2026-02-19 |    NULL |   60.00 |      3 |
+|     17 | 2026-02-19 |    NULL |   70.00 |      7 |
+|     18 | 2026-02-19 |    NULL |   80.00 |      7 |
+|     19 | 2026-02-19 |    NULL |   90.00 |      7 |
+|     20 | 2026-02-19 |    NULL |  100.00 |      7 |
++--------+------------+---------+---------+--------+
+10 rows in set (0.001 sec)
+
+MariaDB [bollette]> exit

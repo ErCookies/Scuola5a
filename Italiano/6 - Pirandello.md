@@ -192,7 +192,102 @@ La *narrazione* è *umoristica* (aspetti tragici e comici strettamente connessi)
 8. Il piano di Chiàrchiaro è ottenere la “patente” ufficiale di iettatore: vuole perdere il processo per avere, di fatto, un riconoscimento legale della sua fama e sfruttarla per vivere, facendosi pagare da chi vuole evitarlo (case da gioco, fabbriche, botteghe). Per realizzarlo si è costruito la maschera fisica di jettatore, ha sporto querela e ha lui stesso fornito all’avvocato Baracca prove e testimonianze della propria “potenza” di portasfortuna.
 9. La novella finisce con l’abbraccio del giudice al Chiàrchiaro: D’Andrea, commosso e impotente, lo stringe forte, comprende il suo dramma ma resta prigioniero delle contraddizioni della legge e della società; Chiàrchiaro, invece, resta deciso a ottenere la patente e a vivere assumendo fino in fondo la maschera impostagli.
 10. I concetti si vedono rispettivamente:
-    - Comicità/umorismo: nelle descrizioni grottesche (corse ai gesti scaramantici dei colleghi, travestimento caricaturale di Chiàrchiaro, la sua 	“professione” di iettatore), ma dietro il riso si sente il dolore della sua emarginazione: è l’umorismo pirandelliano, avvertimento del contrario e 	sentimento del contrario.
-    - Dialettica forma/vita: la “forma” è la maschera sociale di iettatore che il paese impone a Chiàrchiaro; la “vita” è la sua sofferenza di uomo e 	padre, che però finisce per adattarsi e sfruttare quella forma, chiedendo persino di legalizzarla con la patente.
-    - Relativismo: il tribunale razionale nega la iettatura, ma tutti, giudici compresi, ci credono nei fatti; la colpa, la sfortuna, la giustizia 	appaiono categorie relative, dipendenti dallo sguardo e dai pregiudizi della comunità.
-    - Alienazione: Chiàrchiaro è isolato e ridotto a “mostro” superstizioso, licenziato, con la famiglia esclusa; anche il giudice, che non dorme e vive 	la sua funzione come supplizio, appare separato da sé e dagli altri. Entrambi sono schiacciati da ruoli sociali che li deformano.
+
+    * Comicità/umorismo: nelle descrizioni grottesche (corse ai gesti scaramantici dei colleghi, travestimento caricaturale di Chiàrchiaro, la sua 	“professione” di iettatore), ma dietro il riso si sente il dolore della sua emarginazione: è l’umorismo pirandelliano, avvertimento del contrario e 	sentimento del contrario.
+    * Dialettica forma/vita: la “forma” è la maschera sociale di iettatore che il paese impone a Chiàrchiaro; la “vita” è la sua sofferenza di uomo e 	padre, che però finisce per adattarsi e sfruttare quella forma, chiedendo persino di legalizzarla con la patente.
+    * Relativismo: il tribunale razionale nega la iettatura, ma tutti, giudici compresi, ci credono nei fatti; la colpa, la sfortuna, la giustizia 	appaiono categorie relative, dipendenti dallo sguardo e dai pregiudizi della comunità.
+    * Alienazione: Chiàrchiaro è isolato e ridotto a “mostro” superstizioso, licenziato, con la famiglia esclusa; anche il giudice, che non dorme e vive 	la sua funzione come supplizio, appare separato da sé e dagli altri. Entrambi sono schiacciati da ruoli sociali che li deformano.
+
+
+
+##### ***I ROMANZI***
+
+Pirandello ha composto *sette romanzi*:
+
+*I primi* ("***L'esclusa***", "***Il turno***": 1901, 1902) conservano ancora *legami col verismo* riguardo alle *tecniche narrative*, *ma* alla fiducia positivistica nella comprensibilità del reale subentra l'idea che la *verità non si può mai stabilire con certezza*.
+
+Al determinismo causa-effetto si sostituisce il *gioco* imprevedibile del *caso*.
+
+Il *successo* viene ottenuto con "*Il fu Mattia Pascal*" (1904).
+
+"*I vecchi e i giovani*" (1909) descrive il fallimento degli ideali risorgimentali adottando una *pluralità di punti di vista diversi*.
+
+"*Suo marito*" (1911) analizza un matrimonio fallmentare attraverso l'*alternarsi dei punti di vista* dei due protagonisti.
+
+*La verità non esiste*, ognuno interpreta la realtà in modo soggettivo.
+
+Gli ultimi romanzi ("*Quaderni di Serafino Gubbio operatore*", 1915; "*Uno, Nessuno e Centomila*", 1925-6) sono caratterizzati da un grande *sperimentalismo*.
+
+
+
+###### ***IL FU MATTIA PASCAL***
+
+* Mattia Pascal vive a *Miragno*; ha ereditato dal padre una grossa fortuna (in maniera ambigua, pare al gioco) ma è in miseria a causa del disonesto amministratore *Batta Malagna*;
+* Si vendica mettendo incinta la nipote di Malagna, *Romilda*, ma è costretto a sposarla; il *matrimonio è un inferno* a causa sopratutto della *suocera* vedova pescatore;
+* Per vivere fa il *bibliotecario* in una vecchia chiesa sconsacrata e abbandonata da tutti: è il classico *piccolo borghese* prigioniero della *trappola sociale*;
+* Decide di *fuggire* a *Montecarlo* e vince una somma ingente al casinò;
+* Pensa in un primo momento di tornare ma sul treno *legge la notizia del suo suicidio*: liberato dalla trappola sociale, si *crea una nuova identità*;
+* Si fa chiamare *Adriano Meis* e si cambia i connotati;
+* Viaggia per tutta Europa ma prova un *senso di solitudine* («Forestiere della vita»): la nuova identità è una *maschera* per di più falsa; non riesce a sottrarsi alla necessità di una personalità definita;
+* Si ferma a *Roma* presso la pensione di *Anselmo Paleari*, che tiene in casa l'ambiguo genero Terenzio Papiano (che cerca di indagare su di lui);
+* Conosce *Adriana* - figlia di Paleari - e si innamorano ma si accorge che *non può sposarla perché non esiste*: non può neppure denunciare un furto subito da Papiano;
+* Finge un nuovo *suicidio* e decide di tornare alla trappola familiare: torna a *Miragno* ma sua moglie si è risposata e ha una figlia;
+* Ora è del tutto *privo d'identità* e forestiere della vita;
+* Scrive le sue memorie nella biblioteca e *rende omaggio alla sua tomba*.
+
+
+
+*Evadere dalla propria forma* (le convenzioni sociali) in cerca di libertà *è impossibile*.
+
+*Mattia Pascal* è un *antieroe* che si ritrova *senza un'identità*.
+
+Ci sono diversi *temi* tipici di Pirandello:
+
+* *La trappola* delle *istituzioni sociali* che imprigionano il flusso vitale;
+* L'*inconsistenza* della *identità individuale* (ridotta a una *maschera*);
+* *L'estraneità di "chi ha capito il gioco"* (ha compreso la falsità della propria condizione e non riesce più ad accettarla);
+* *Mattia Pascal* come *personaggio umoristico* (tragico e comico insieme).
+
+
+
+Anche la *struttura narrativa* è innovativa:
+
+* *Memorie posume* scritte del *protagonista* in *prima persona*;
+* Con un *punto di vista soggettivo, mutevole ed inaffidabile* (relatività del reale).
+
+
+
+###### *PREMESSA SECONDA*
+
+*UN LIBRO SCRITTO PER SUGGERIMENTO ALTRUI NON DESTINATO ALLA PUBBLICAZIONE*
+
+*LA BIBLIOTECA CAOTICA E POLVEROSA COME METAFORA DELLA REALTÀ*
+
+*DON ELIGIO PROPONE MODELLI NARRATIVI TRADIZIONALI*
+
+*MA MATTIA RIFIUTA: L'UOMO NON È PIÙ AL CENTRO DELL'UNIVERSO*
+
+*LA REALTÀ COINCIDE CON LA PERCEZIONE SOGGETTIVA: **RELATIVISMO***
+
+*MESCHINITÀ DELLE VICENDE UMANE*
+
+*CREAZIONE DELLA SUSPENCE*
+
+
+
+###### *CONCLUSIONE DEL ROMANZO*
+
+*LA SOLITUDINE RADICALE DI MATTIA PASCAL*
+
+*L'INDIFFERENZA DEI PAESANI SIMBOLEGGIA L'ESTRANEITÀ DI MATTIA*
+
+*LA PACE FUORI DALLA VITA`, COME SPETTATORE DELL'ESISTENZA ALTRUI*
+
+*CONCLUSIONE SUPERFICIALE DI DON ELIGIO: NON SI PUÒ VIVERE SENZA MASCHERA*
+
+*CONCLUSIONE PIÙ PROFONDA DI MATTIA: IL DUBBIO SULLA PROPRIA IDENTITÀ*
+
+*CONCLUSIONE UMORISTICA*
+
+grazie a dio
+

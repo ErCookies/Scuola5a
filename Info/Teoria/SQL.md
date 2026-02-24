@@ -63,3 +63,44 @@ Un attributo Y dipende *funzionalmente* da X (X→Y) se dato il valore di X è p
 
 * è in 2FN;
 * TUTTI gli attributi non chiave dipendono funzionalmente dalla chiave primaria.
+
+##### 
+
+Esistono delle funzioni (dette di *aggregazione*) che elaborano i dati di una colonna, come COUNT, SUM, AVG, MIN, MAX
+
+ESEMPIO:
+
+&nbsp;	SELECT SUM(population)
+
+&nbsp;	FROM countries
+
+&nbsp;	WHERE region='Europe';
+
+
+
+ESEMPIO 2:
+
+SELECT region, COUNT(\*) AS '#'
+
+FROM countries
+
+GROUP BY region
+
+HAVING '#' >= 50;
+
+
+
+ESEMPIO 3:
+
+SELECT region, COUNT(\*) AS '#'
+
+FROM countries
+
+WHERE area >= 300000
+
+GROUP BY region
+
+HAVING '#' >= 15;
+
+
+
