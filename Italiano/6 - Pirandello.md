@@ -289,5 +289,33 @@ Anche la *struttura narrativa* è innovativa:
 
 *CONCLUSIONE UMORISTICA*
 
-grazie a dio
 
+
+###### ***QUADERNI DI SERAFINO GUBBIO***
+
+In origine intitolato ("*Si gira*") comprende due filoni narrativi: un *dramma passionale* che fa sfondo al *percorso interiore* del *protagonista*.
+
+Umanista emigrato a Roma, si ritrova *emarginato dalla società* e costretti a lavorare come *operatore cinematografico*, riducendosi ad *appendice della macchina (**alienazione**)*, ma allo stesso tempo capace di uno *sguardo estraniato e impassibile* sulla realtà che lo circonda ("Forestiero della vita") e quindi di una *critica spietata della realtà industriale meccanizzata*.
+
+Quando sulla *scena* scoppia la *tragedia* (l'attore protagonista uccide la protagonista e si lascia sbranare da una tigre) Serafino *Gubbio continua a riprendere* e per il trauma diventa *muto* (*estraniarsi* dalla realtà alienante come unica salvezza).
+
+La *narrazione* è in un *diario* in *prima persona* del protagonista (estraniato dalla vita la osserva con *distacco contemplativo*).
+
+
+
+###### ***UNO, NESSUNO E CENTOMILA***
+
+Al centro ancora una volta il *problema dell'identità*:
+
+* La moglie di *Vitangelo Moscarda* gli fa notare che il *naso gli pende* da una parte;
+* Egli scopre che l'*immagine* che si è creato *di sè non corrisponde a quella* di lui che hanno *gli altri*;
+* *Comprende* che esistono *infiniti Vitangelo Moscarda*: comincia ad avere *orrore delle forme*;
+* E a *smascherare* quelle che gli altri gli hanno attribuito compiendo ogni sorta di *stranezze*.
+
+---
+
+* Moscarda si impegna a *distruggere l'immagine che gli altri hanno di lui* compiendo *atti apparentemente folli* (prima sfratta una povera famiglia, poi le regala una casa);
+* *La moglie e gli amministratori* cercano di farlo *interdire*;
+* Solo *Anna Rosa* gli manifesta simpatia, ma Vitangelo la confonde talmente con i suoi ragionamenti che *lei gli spara*;
+* Al *processo* Vitangelo si addossa ogni colpa;
+* Dona i suoi averi per far

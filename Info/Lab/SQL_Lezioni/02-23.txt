@@ -301,7 +301,6 @@ MariaDB [bollette]> SELECT utenti.cognome, utenti.nome, bollette.numero, bollett
 +---------+-----------+--------+---------+
 4 rows in set (0.001 sec)
 
-MariaDB [bollette]> \t
 MariaDB [bollette]> SELECT u.nome, u.cognome, SUM(b.importo) AS 'Importo Totale' FROM utenti AS u
     -> INNER JOIN bollette AS b ON u.codice=b.utente
     -> GROUP BY u.codice;
@@ -344,4 +343,18 @@ MariaDB [bollette]> SELECT * FROM bollette;
 +--------+------------+---------+---------+--------+
 10 rows in set (0.001 sec)
 
-MariaDB [bollette]> exit
+MariaDB [bollette]> SELECT u.nome, u.cognome, SUM(b.importo) AS 'Importo Totale' FROM utenti AS u
+    -> LEFT JOIN bollette AS b ON u.codice=b.utente
+    -> GROUP BY u.codice;
++-----------+-----------+----------------+
+| nome      | cognome   | Importo Totale |
++-----------+-----------+----------------+
+| n3        | c3        |         150.00 |
+| Francesco | Cucchi    |         340.00 |
+| n2        | c2        |          50.00 |
+| Andrea    | Bonardi   |           NULL |
+| Francesco | Sicignano |           NULL |
+| peffoh    | dhe       |           NULL |
++-----------+-----------+----------------+
+6 rows in set (0.001 sec)
+

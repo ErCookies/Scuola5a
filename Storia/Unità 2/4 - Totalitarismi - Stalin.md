@@ -27,7 +27,7 @@ L'URSS staliniana ha tutti i caratteri di uno *Stato totalitario*, in cui tutti 
 
 *Stalin* promuove il *culto della personalità* assumendo i tratti del capo carismatico.
 
-Il grande sviluppo dell'URSS, contemporaneo alla crisi del capitalismo \[...]
+Il grande sviluppo dell'URSS, contemporaneo alla crisi del capitalismo, e l'avvento del nazismo favoriscono la *popolarità del comunismo* nell'opinione pubblica mondiale.
 
 
 
@@ -38,4 +38,8 @@ Stalin realizza una trasformazione radicale utilizzando ampiamente il *terrore* 
 Le *vittime* sono dapprima i *Kulaki*, poi dagli anni trenta gli altri *capi bolscevichi* che potrebbero minacciare il potere di Stalin, a cominciare da *Trockij*.
 
 Le ***grandi purghe*** vedono una serie di processi-farsa e condanne a morte che eliminano la *vecchia guardia bolscevica* compresi antichi alleati di Stalin (Bucharin), ex ministri, dirigenti del *Komintern*, ufficiali dell'*esercito* sostituiti da fedelissimi del dittatore.
+
+Viene potenziato il sistema di *campi di lavoro forzato (Gulag)* già introdotto da Lenin per gli avversari politici finalizzati alla *rieducazione politica* (in realtà *distruzione fisica e psicologica*) dei detenuti (da 10 a 20 milioni), spesso arrestati in seguito a denunce anonime e infondate, ma anche per soddisfare le necessità di lavoro coatto (*pianificazione degli arresti*), sopratutto per la creazione di infrastutture in zone deserte ma ricche di risorse (come la *Kolyma*).
+
+*Lavoro duro* e *condizioni di vita disumane* (denutrizione, clima, punizioni, mancanza di cure mediche) provocano *più di 2 milioni di morti*.
 
