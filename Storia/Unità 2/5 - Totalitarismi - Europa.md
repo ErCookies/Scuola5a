@@ -83,7 +83,7 @@ La prima mossa è l'*uscita della Germania dalla società delle nazioni* (1933),
 
 Nel *Convegno di Stresa* Italia, Gran Bretagna e Francia condannano l'iniziativa tedesca ma non prendono provvedimenti concreti e Hitler rimanda le truppe in *Renania* (1936).
 
-Hitler si riavvicina all'*Italia* con l'*Asse Roma-Berlino* (1936) e nello stesso anno al *Giappone* (che ha invaso la Manciuria) con il *Patto Anticomintern* a cui l'anno dopo aderisce anche l'Italia.
+Hitler si riavvicina all'*Italia* con l'*Asse Roma-Berlino* (1936, per la guerra in Etiopia) e nello stesso anno al *Giappone* (che ha invaso la Manciuria) con il *Patto Anticomintern* a cui l'anno dopo aderisce anche l'Italia.
 
 Dopo di che Hitler inizia il suo disegno di riunire tutti i tedeschi in una *grande Germania*.
 
@@ -97,5 +97,13 @@ Subito dopo Hitler intima alla *Cecoslovacchia* la cessione del territorio dei *
 
 La *Cecoslovacchia* - unica democrazia in Europa centro-orientale - può contare sull'*alleanza* della *Francia*.
 
-Ma le potenze \[...]
+Ma le potenze occidentali la abbandonano per addivenire agli *Accordi di Monaco* (settembre 1938) con cui Hitler \[...]
+
+
+
+Hitler stipula il *Patto d'Acciaio* con l'*Italia* (promettendo tre anni di pace) e - senza avvisare Mussolini - il 23 agosto il ***Patto Molotov-Ribbentrop*** di non aggressione con l'*URSS* con un *protocollo segreto* che prevede la *spartizione della Polonia* e dell'Europa orientale.
+
+La *Germania* si copre le spalle nella prospettiva di una guerra in occidente.
+
+L'*URSS* (spinto all'accordo dall'atteggiamento delle potenze occidentali - si assicura grossi *vantaggi territoriali*).
 

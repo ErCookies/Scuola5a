@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<title>Gelateria</title>
+		<script src="script.js"></script>
+	</head>
+	<!--
+	Creare un applicativo Web per la visualizzazione del catalogo di gelati.
+	Per ogni gelato si conoscono le seguenti informazioni:
+		Nome gelato
+		Data di produzione
+		Data di scadenza
+		Quantità
+		Produttore
+	PAGINA CLIENT:
+	Campo di input dove inserire il nome del gelato
+	Campo di input DATA: dove indicare una data di scadenza
+	Campo di input Produttore: dove indicare un produttore.
+	-->
+	<body>
+		<h1>Gelati</h1>
+		<form name="frmGel" onsubmit="return false;">
+			<input type="text" name="Nome" id="Nome" oninput='cercaGelati(frmGel, this.name)'>
+			<input type="text" name="Data" id="Data" oninput='cercaGelati(frmGel, this.name)'>
+			<input type="text" name="Prod" id="Prod" oninput='cercaGelati(frmGel, this.name)'>
+		</form>
+		<br>
+		<div id="risNome"></div>
+		<div id="risData"></div>
+		<div id="risProd"></div>
+	</body>
+</html>
