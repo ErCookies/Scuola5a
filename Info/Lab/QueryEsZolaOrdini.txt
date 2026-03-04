@@ -1,0 +1,87 @@
+1-
+SELECT * FROM Orders AS o
+ORDER BY o.OrderDate DESC
+LIMIT 3;
+
+2-
+SELECT ProductName FROM Products AS p
+ORDER BY p.ProductName
+LIMIT 20, 10;
+
+3-
+SELECT e.LastName, e.FirstName FROM Employees AS e
+WHERE e.Notes LIKE "%French%"
+ORDER BY e.LastName;
+
+4-
+SELECT e.BirthDate FROM Employees AS e
+ORDER BY e.BirthDate
+LIMIT 1;
+
+5-
+SELECT e.FirstName, e.LastName FROM Employees AS e
+ORDER BY e.BirthDate
+LIMIT 1;
+
+6-
+SELECT * FROM Products
+WHERE UnitPrice > (SELECT AVG(UnitPrice) AS PM FROM Products)
+ORDER BY UnitPrice;
+
+7-
+SELECT p.ProductName, c.CategoryName FROM Products AS p
+INNER JOIN Categories AS c ON p.CategoryID = c.CategoryID;
+
+8-
+SELECT p.ProductName AS Prodotto, od.UnitPrice AS 'Prezzo Unitario', 
+od.Quantity AS Quantità, od.UnitPrice * od.Quantity AS Totale
+FROM 'Order Details' AS od
+INNER JOIN Products AS p ON od.ProductID = p.ProductID
+WHERE od.OrderID=10309;
+
+9-
+SELECT SUM(od.UnitPrice * od.Quantity) AS 'Importo Totale'
+FROM 'Order Details' AS od
+INNER JOIN Products AS p ON od.ProductID = p.ProductID
+WHERE od.OrderID=10309;
+
+10-
+SELECT SUM(od.UnitPrice * od.Quantity) AS 'Importo Totale'
+FROM 'Order Details' AS od
+INNER JOIN Products AS p ON od.ProductID = p.ProductID;
+
+11-
+SELECT od.OrderID, SUM(od.UnitPrice * od.Quantity) AS 'Importo Totale'
+FROM 'Order Details' AS od
+INNER JOIN Products AS p ON od.ProductID = p.ProductID
+GROUP BY od.OrderID;
+
+12-
+SELECT c.Country AS Nazione, COUNT(c.Country) AS 'Numero Clienti' FROM Customers AS c
+GROUP BY c.Country
+ORDER BY COUNT(c.Country) DESC;
+
+13-
+SELECT c.Country AS Nazione FROM Customers AS c
+GROUP BY c.Country HAVING COUNT(c.Country) >= 8
+ORDER BY COUNT(c.Country) DESC;
+
+14-
+SELECT c.CategoryName FROM Products AS p
+INNER JOIN Categories AS c ON p.CategoryID=c.CategoryID
+GROUP BY c.CategoryName HAVING COUNT(c.CategoryName)>10
+
+15-
+SELECT s.Country FROM Categories AS c
+INNER JOIN Products AS p ON c.CategoryID=p.CategoryID
+INNER JOIN Suppliers AS s ON s.SupplierID=p.SupplierID
+WHERE c.CategoryName='Beverages'
+GROUP BY s.Country HAVING COUNT(s.Country)>=2
+ORDER BY COUNT(s.Country) DESC;
+
+16-
+SELECT AVG(Importo) AS 'Importo Medio'
+FROM (SELECT SUM(od.UnitPrice * od.Quantity) AS Importo
+FROM 'Order Details' AS od
+INNER JOIN Products AS p ON od.ProductID = p.ProductID
+GROUP BY od.OrderID);

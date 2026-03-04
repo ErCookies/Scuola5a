@@ -318,4 +318,85 @@ Al centro ancora una volta il *problema dell'identità*:
 * *La moglie e gli amministratori* cercano di farlo *interdire*;
 * Solo *Anna Rosa* gli manifesta simpatia, ma Vitangelo la confonde talmente con i suoi ragionamenti che *lei gli spara*;
 * Al *processo* Vitangelo si addossa ogni colpa;
-* Dona i suoi averi per far
+* Dona i suoi averi per far\[...]
+
+
+
+
+
+##### ***IL TEATRO***
+
+Pirandello esordisce in teatro nel 1910 con due *atti unici* («La morsa», «Lumie di Sicilia») *prima in dialetto poi in italiano*.
+
+La sua *prima fase* (fino al 1920) è quella del *"grottesco"* (fusione di tragico e comico → *umorismo*)
+
+* *Pensaci, Giacomino!*
+* *Così è (se vi pare)*
+* *Il piacere dell'onestà*
+* *Il gioco delle parti*
+
+
+
+***Così è (se vi pare)***:
+
+* Il *signor Ponza* (*impegato* in una cittadina di provincia) tiene *relegata la moglie* nel suo alloggio e *impedisce alla suocera, signora Frola, di vederla* se non da lontano;
+* *Spiegazione di Ponza*: la *figlia della Frola* era la sua *prima moglie, morta*; la *Frola è pazza* ed è concinta che la donna sia sua figlia (non gliela fanno incontrare per il suo bene);
+* *Versione della Frola*: il *pazzo è il genero* che crede di avere una seconda moglie, mentre la *donna segregata è sua figlia*;
+* Il caso suscita la *curiosità morbosa* dei cittadini; alla fine interviene il prefetto che convoca la donna;
+* La *moglie* si presenta *velata* e afferma di essere sia la figlia della Frola che l'unica moglie di Ponza (*«Io sono colei che mi si crede» «e per me nessuna*!» → Secondo il suo punto di vista non è nessuna: è quella che gli altri credono che sia).
+
+Umorismo perchè quando lei afferma ciò, scatta l'avvertimento del contrario, ma conoscendo la vicenda si passa al sentimento del contrario.
+
+Relativismo per il multiplo pov, alienazione perché alla fine lei manco sa chi cazzo è.
+
+---
+
+Pirandello *sconvolge i fondamenti del dramma borghese naturalistico* (verosimiglianza, conseguenzialità logica degli eventi, personaggi unitari e coerenti) presentando *personaggi scissi, sdoppiati, ambigui* con *punti di vista straniati* (che ti confondono, perché vengono presentate come vere due realtà contrastanti) con un *linguaggio concitato e convulso*.
+
+Con la *trilogia del «Teatro nel teatro»* a partire dai ***sei personaggi in cerca d'autore*** (1921) realizza il *rifiuto delle forme tradizionali di teatro*.
+
+
+
+Sono *testi metateatrali*:
+
+* *"Sei personaggi"*: incapacità del teatro di rappresentare ciò che l'autore ha concepito; *conflitto fra personaggi ed attori*;
+* *"Ciascuno a suo modo"*: *conflitto fra attori e pubblico* (che irrombe sulla scena);
+* *"Questa sera si recita a soggetto"*: *conflitto fra attori e regista* (che cerca di ridurre gli attori a esecutori passivi, ma finiscono per ribellarsi e lo cacciano via).
+
+
+
+###### *SEI PERSONAGGI IN CERCA D'AUTORE*
+
+* *Il padre* ha sposato *la madre* con la quale ha avuto il *figlio*;
+* Accetta che la madre vada a vivere con il suo segretario ma le sottrae il figlio;
+* Dalla nuova unione della madre nascono *la figliastra, il giovinetto* e *la bambina*;
+* Muore il nuovo marito e cadono in miseria; la figliastra è costretta a prostituirsi nel retrobottega di *Madama Pace*;
+* Un giorno si presenta il padre: i due non si riconoscono e *stanno per consumare un incesto*, quando la madre arriva a impedirlo;
+* Il padre riporta la famiglia a casa, ma i personaggi sono fissati nella loro *incomunicabilità*: *la figliastra odia il padre, il figlio disprezza i nuovi fratelli, la madre soffre* del suo risentimento;
+* Il finale viene rappresentato in un *giardino*: *la bambina* incustodita *affoga in una vasca*, si sente un colpo di pistola e il *giovinetto* a cui era stata affidata viene portato in scena a braccia: **VERITÀ O FINZIONE?**;
+* Mentre gli attori abbandonano il teatro echeggia la risata della figliastra e compaiono le ombre dei sei personaggi.
+
+---
+
+"Sei personaggi in cerca d'autore" è una commedia teatrale di Luigi Pirandello del 1921, nota per il suo metateatro innovativo. L'opera irrompe sulle convenzioni teatrali tradizionali, mescolando personaggi incompiuti con attori reali.
+
+​
+
+Trama
+
+Sei personaggi irrompono durante una prova teatrale di una compagnia, senza copione né autore, chiedendo di vivere il loro dramma familiare. Il padre ha sposato la madre, avuto un figlio, poi lasciato la madre al segretario; da quest'unione nascono figliastra, giovinetto e bambina; dopo la morte del segretario, la figliastra prostituisce in un bordello, quasi consuma un incesto col padre ignaro, interrotto dalla madre; il padre riunisce la famiglia, ma tensioni esplodono: la bambina annega, il giovinetto si uccide. Gli attori tentano di recitarlo, ma personaggi e attori non coincidono, lasciando ambiguo verosimile e finzione.
+
+​
+
+Carattere Rivoluzionario
+
+L'opera rompe il "quarto muro": sipario alzato, attori entrano dalla platea, personaggi dal fondo, confondendo scena e realtà. Assente autore e copione, i personaggi sono "più reali" degli attori volubili, fissati in sentimenti eterni (rimorso del padre, vendetta della figliastra), suggerendo maschere per enfatizzare. Dopo scandalo iniziale, porta fama mondiale a Pirandello, inaugurando teatro nel teatro.
+
+​
+
+Significato
+
+Rappresenta temi pirandelliani: flusso vitale bergsoniano vs. "forme" rigide (maschere sociali), relativismo (verità soggettive, incomunicabilità), crisi identità ("uno, nessuno e centomila"). I personaggi incompiuti cercano autore per esistere, criticando illusione teatrale e vita come prigione di convenzioni; dramma familiare svela alienazione borghese, follia come fuga, verità irraggiungibile.
+
+---
+

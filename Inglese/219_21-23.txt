@@ -1,0 +1,17 @@
+21)
+1 - computers on the internet
+2 - Transmission Control Protocol/Internet Protocol
+3 - connected to the internet
+4 - a communication request
+5 - full-dulex comunication
+6 - one of the application
+7 - computers
+8 - at the same time
+9 - the application
+10 - computers via the internet
+
+23)
+Bad timing: model was finished halfway through important discoveries
+Bad technology: session and presentation layers are empty, data link is awfuly full
+Bad implementation: buggy and poor quality
+Bad politics: TCP/IP was associated with Unix, while OSI not

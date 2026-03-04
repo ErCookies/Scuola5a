@@ -1,0 +1,14 @@
+1 - SELECT DISTINCT Name FROM genres;
+2 - SELECT COUNT(DISTINCT GenreID) FROM genres;
+3 - SELECT COUNT(*) FROM tracks WHERE GenreID=2;
+4 - SELECT Name FROM tracks WHERE Composer='Metallica';
+5 - SELECT AVG(Milliseconds)/1000/60 AS 'Durata media' FROM tracks WHERE Composer='Metallica';
+6 - SELECT COUNT(*) AS '# brani fra 3 e 5 minuti' FROM tracks
+	WHERE Milliseconds BETWEEN 180000 AND 300000;
+7 - SELECT * FROM tracks ORDER BY Milliseconds LIMIT 1;
+8 - SELECT * FROM tracks ORDER BY Milliseconds DESC LIMIT 1;
+9 - SELECT * FROM tracks WHERE Composer LIKE '%Bach';
+10 - SELECT FirstName AS Nome, LastName AS Cognome, Phone AS Telefono, Email FROM Customers
+	WHERE Email LIKE '%yahoo%';
+11 - SELECT * FROM customers WHERE Phone IS null;
+12 - SELECT DISTINCT City FROM Customers ORDER BY City;
