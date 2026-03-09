@@ -384,7 +384,7 @@ Sono *testi metateatrali*:
 
 Trama
 
-Sei personaggi irrompono durante una prova teatrale di una compagnia, senza copione né autore, chiedendo di vivere il loro dramma familiare. Il padre ha sposato la madre, avuto un figlio, poi lasciato la madre al segretario; da quest'unione nascono figliastra, giovinetto e bambina; dopo la morte del segretario, la figliastra prostituisce in un bordello, quasi consuma un incesto col padre ignaro, interrotto dalla madre; il padre riunisce la famiglia, ma tensioni esplodono: la bambina annega, il giovinetto si uccide. Gli attori tentano di recitarlo, ma personaggi e attori non coincidono, lasciando ambiguo verosimile e finzione.
+Sei personaggi irrompono durante una prova teatrale di una compagnia, senza copione né autore, cercando un autore che possa raccontare il loro dramma familiare. Il padre ha sposato la madre, avuto un figlio, poi lasciato la madre al segretario; da quest'unione nascono figliastra, giovinetto e bambina; dopo la morte del segretario, la figliastra prostituisce in un bordello, quasi consuma un incesto col padre ignaro, interrotto dalla madre; il padre riunisce la famiglia, ma tensioni esplodono: la bambina annega, il giovinetto si uccide. Gli attori tentano di recitarlo, ma personaggi e attori non coincidono, lasciando ambiguo verosimile e finzione.
 
 ​
 
@@ -398,5 +398,48 @@ Significato
 
 Rappresenta temi pirandelliani: flusso vitale bergsoniano vs. "forme" rigide (maschere sociali), relativismo (verità soggettive, incomunicabilità), crisi identità ("uno, nessuno e centomila"). I personaggi incompiuti cercano autore per esistere, criticando illusione teatrale e vita come prigione di convenzioni; dramma familiare svela alienazione borghese, follia come fuga, verità irraggiungibile.
 
+
+
+Appunti
+
+Indossano le maschere per farsi riconoscere dagli attori.
+
+Differenza fra attori e personaggi: il personaggio è fissato in modo definitivo (sempre uguale nel tempo -- la FORMA), mentre l'attore vive e invecchia).
+
+Il conflitto familiare consiste in abbandoni, tradimenti ed un mancato incesto
+
 ---
+
+
+
+##### ENRICO IV
+
+Pubblicato nel 1922
+
+Durante una cavalcata in maschera, un *giovane nobile* viene fatto cadere da cavallo da un rivale in amore, batte la testa e *impazzisce*, convinto di essere *Enrico IV* (vive in un falso palazzo con figuranti vestiti al modo medievale)
+
+*Dopo dodici anni guarisce* ma *continua a fingere di essere pazzo* perché si rende conto di aver perduto la giovinezza e di essere ormai *escluso dalla vita*.
+
+Un *medico* suggerisce di *inscenare uno psicodramma* per guarirloL nel corso di esso, il protagonista *trafigge il rivale* ma è costretto a *fingersi pazzo* per il resto della sua vita.
+
+*Doppia valenza della follia:*
+
+* *Protezione contro la trappola sociale*;
+* *Critica del meccanismo sociale* che costringe tutti a portare una *maschera*.
+
+Il personaggio di *Enrico IV* incarna la figura pirandelliana dell'*eroe filosofo* che *osserva la vita dal di fuori* ma è *diviso* al suo interno per i *rimpianti* che lo legano alla vita.
+
+
+
+###### DOMANDE VERIFICA
+
+* Caratteristiche (Alienazione, Dialettica forma-vita, Comicità-Umorismo, Relativismo);
+* La sua visione del mondo - sociale
+* Il treno ha fischiato;
+* La patente;
+* Una giornata;
+* Il fu Mattia Pascal (Premessa seconda - Brano finale);
+* I sei personaggi in cerca d'autore.
+
+FINE
 
