@@ -1,0 +1,96 @@
+MariaDB [(none)]> CREATE DATABASE Progetti;
+Query OK, 1 row affected (0.031 sec)
+
+MariaDB [(none)]> USE Progetti;
+Database changed
+MariaDB [Progetti]> CREATE TABLE Dipartimenti(
+    -> Codice VARCHAR(6) PRIMARY KEY,
+    -> Descrizione VARCHAR(50),
+    -> Sede VARCHAR(20) NOT NULL);
+Query OK, 0 rows affected (0.111 sec)
+
+MariaDB [Progetti]> CREATE TABLE Impiegati(
+    -> ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Nome VARCHAR(10) NOT NULL,
+    -> Cognome VARCHAR (30) NOT NULL,
+    -> Residenza VARCHAR(50),
+    -> Stipendio DOUBLE(7,2) NOT NULL,
+    -> Dipartimento VARCHAR(6),
+    -> FOREIGN KEY (Dipartimento) REFERENCES Dipartimenti(Codice) ON DELETE SET NULL ON UPDATE CASCADE);
+Query OK, 0 rows affected (0.073 sec)
+
+MariaDB [Progetti]> CREATE TABLE Progetti(
+    -> CodProg INT PRIMARY KEY AUTO_INCREMENT,
+    -> NomeProgetto VARCHAR(25) NOT NULL,
+    -> Durata INT,
+    -> Budget FLOAT(11,2));
+Query OK, 0 rows affected (0.121 sec)
+
+MariaDB [Progetti]> CREATE TABLE Partecipazioni(
+    -> ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Ruolo VARCHAR(12) NOT NULL,
+    -> Percentuale INT CHECK (Percentuale BETWEEN 0 AND 100),
+    -> Impiegato INT,
+    -> Progetto INT,
+    -> FOREIGN KEY (Impiegato) REFERENCES Impiegati(ID) ON DELETE SET NULL ON UPDATE CASCADE,
+    -> FOREIGN KEY (Progetto) REFERENCES Progetti(CodProg) ON DELETE SET NULL ON UPDATE CASCADE);
+Query OK, 0 rows affected (0.074 sec)
+
+MariaDB [Progetti]> SHOW TABLES;
++--------------------+
+| Tables_in_progetti |
++--------------------+
+| dipartimenti       |
+| impiegati          |
+| partecipazioni     |
+| progetti           |
++--------------------+
+4 rows in set (0.003 sec)
+
+MariaDB [Progetti]> DESCRIBE Impiegati;
++--------------+-------------+------+-----+---------+----------------+
+| Field        | Type        | Null | Key | Default | Extra          |
++--------------+-------------+------+-----+---------+----------------+
+| ID           | int(11)     | NO   | PRI | NULL    | auto_increment |
+| Nome         | varchar(10) | NO   |     | NULL    |                |
+| Cognome      | varchar(30) | NO   |     | NULL    |                |
+| Residenza    | varchar(50) | YES  |     | NULL    |                |
+| Stipendio    | double(7,2) | NO   |     | NULL    |                |
+| Dipartimento | varchar(6)  | YES  | MUL | NULL    |                |
++--------------+-------------+------+-----+---------+----------------+
+6 rows in set (0.051 sec)
+
+MariaDB [Progetti]> DESCRIBE Dipartimenti;
++-------------+-------------+------+-----+---------+-------+
+| Field       | Type        | Null | Key | Default | Extra |
++-------------+-------------+------+-----+---------+-------+
+| Codice      | varchar(6)  | NO   | PRI | NULL    |       |
+| Descrizione | varchar(50) | YES  |     | NULL    |       |
+| Sede        | varchar(20) | NO   |     | NULL    |       |
++-------------+-------------+------+-----+---------+-------+
+3 rows in set (0.054 sec)
+
+MariaDB [Progetti]> DESCRIBE Progetti;
++--------------+-------------+------+-----+---------+----------------+
+| Field        | Type        | Null | Key | Default | Extra          |
++--------------+-------------+------+-----+---------+----------------+
+| CodProg      | int(11)     | NO   | PRI | NULL    | auto_increment |
+| NomeProgetto | varchar(25) | NO   |     | NULL    |                |
+| Durata       | int(11)     | YES  |     | NULL    |                |
+| Budget       | float(11,2) | YES  |     | NULL    |                |
++--------------+-------------+------+-----+---------+----------------+
+4 rows in set (0.052 sec)
+
+MariaDB [Progetti]> DESCRIBE Partecipazioni;
++-------------+-------------+------+-----+---------+----------------+
+| Field       | Type        | Null | Key | Default | Extra          |
++-------------+-------------+------+-----+---------+----------------+
+| ID          | int(11)     | NO   | PRI | NULL    | auto_increment |
+| Ruolo       | varchar(12) | NO   |     | NULL    |                |
+| Percentuale | int(11)     | YES  |     | NULL    |                |
+| Impiegato   | int(11)     | YES  | MUL | NULL    |                |
+| Progetto    | int(11)     | YES  | MUL | NULL    |                |
++-------------+-------------+------+-----+---------+----------------+
+5 rows in set (0.054 sec)
+
+MariaDB [Progetti]> \t

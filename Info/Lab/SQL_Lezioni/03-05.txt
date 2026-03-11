@@ -1,0 +1,85 @@
+MariaDB [(none)]> CREATE DATABASE AziendaHUNDAL;
+Query OK, 1 row affected (0.090 sec)
+
+MariaDB [(none)]> USE AziendaHUNDAL;
+Database changed
+MariaDB [AziendaHUNDAL]> CREATE TABLE Dipartimenti(
+    -> Codice VARCHAR(10) PRIMARY KEY,
+    -> Descrizione VARCHAR(255) NOT NULL,
+    -> Sede VARCHAR(100) NOT NULL);
+Query OK, 0 rows affected (0.118 sec)
+
+MariaDB [AziendaHUNDAL]> CREATE TABLE Impiegati(
+    -> ID INT PRIMARY KEY AUTO_INCREMENT,
+    -> Nome VARCHAR(50) NOT NULL,
+    -> Cognome VARCHAR(50) NOT NULL,
+    -> Residenza VARCHAR(150),
+    -> Stipendio FLOAT(10,2) NOT NULL,
+    -> Codice VARCHAR(10),
+    -> FOREIGN KEY (Codice) REFERENCES Dipartimenti(Codice) ON DELETE SET NULL ON UPDATE CASCADE);
+Query OK, 0 rows affected (0.140 sec)
+
+MariaDB [AziendaHUNDAL]> CREATE TABLE Progetti(
+    -> CodProg VARCHAR(15) PRIMARY KEY,
+    -> NomeProgetto VARCHAR(200) NOT NULL,
+    -> Durata INT NOT NULL,
+    -> Budget FLOAT(12,2) NOT NULL);
+Query OK, 0 rows affected (0.127 sec)
+
+MariaDB [AziendaHUNDAL]> CREATE TABLE Assegnazioni(
+    -> ID_Ass INT PRIMARY KEY AUTO_INCREMENT,
+    -> ID INT,
+    -> CodProg VARCHAR(15),
+    -> Ruolo VARCHAR(100) NOT NULL,
+    -> Percentuale FLOAT(5,2) NOT NULL,
+    -> FOREIGN KEY (ID) REFERENCES Impiegati(ID) ON DELETE SET NULL ON UPDATE CASCADE,
+    -> FOREIGN KEY (CodProg) REFERENCES Progetti(CodProg)ON DELETE SET NULL ON UPDATE CASCADE);
+Query OK, 0 rows affected (0.149 sec)
+
+MariaDB [AziendaHUNDAL]> DESCRIBE Dipartimenti;
++-------------+--------------+------+-----+---------+-------+
+| Field       | Type         | Null | Key | Default | Extra |
++-------------+--------------+------+-----+---------+-------+
+| Codice      | varchar(10)  | NO   | PRI | NULL    |       |
+| Descrizione | varchar(255) | NO   |     | NULL    |       |
+| Sede        | varchar(100) | NO   |     | NULL    |       |
++-------------+--------------+------+-----+---------+-------+
+3 rows in set (0.056 sec)
+
+MariaDB [AziendaHUNDAL]> DESCRIBE Impiegati;
++-----------+--------------+------+-----+---------+----------------+
+| Field     | Type         | Null | Key | Default | Extra          |
++-----------+--------------+------+-----+---------+----------------+
+| ID        | int(11)      | NO   | PRI | NULL    | auto_increment |
+| Nome      | varchar(50)  | NO   |     | NULL    |                |
+| Cognome   | varchar(50)  | NO   |     | NULL    |                |
+| Residenza | varchar(150) | YES  |     | NULL    |                |
+| Stipendio | float(10,2)  | NO   |     | NULL    |                |
+| Codice    | varchar(10)  | YES  | MUL | NULL    |                |
++-----------+--------------+------+-----+---------+----------------+
+6 rows in set (0.057 sec)
+
+MariaDB [AziendaHUNDAL]> DESCRIBE Progetti;
++--------------+--------------+------+-----+---------+-------+
+| Field        | Type         | Null | Key | Default | Extra |
++--------------+--------------+------+-----+---------+-------+
+| CodProg      | varchar(15)  | NO   | PRI | NULL    |       |
+| NomeProgetto | varchar(200) | NO   |     | NULL    |       |
+| Durata       | int(11)      | NO   |     | NULL    |       |
+| Budget       | float(12,2)  | NO   |     | NULL    |       |
++--------------+--------------+------+-----+---------+-------+
+4 rows in set (0.047 sec)
+
+MariaDB [AziendaHUNDAL]> DESCRIBE Assegnazioni;
++-------------+--------------+------+-----+---------+----------------+
+| Field       | Type         | Null | Key | Default | Extra          |
++-------------+--------------+------+-----+---------+----------------+
+| ID_Ass      | int(11)      | NO   | PRI | NULL    | auto_increment |
+| ID          | int(11)      | YES  | MUL | NULL    |                |
+| CodProg     | varchar(15)  | YES  | MUL | NULL    |                |
+| Ruolo       | varchar(100) | NO   |     | NULL    |                |
+| Percentuale | float(5,2)   | NO   |     | NULL    |                |
++-------------+--------------+------+-----+---------+----------------+
+5 rows in set (0.054 sec)
+
+MariaDB [AziendaHUNDAL]> \t

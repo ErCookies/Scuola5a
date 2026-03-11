@@ -1,0 +1,238 @@
+MariaDB [(none)]> CREATE DATABASE CF_Accessi;
+Query OK, 1 row affected (0.085 sec)
+
+MariaDB [(none)]> USE CF_Accessi
+Database changed
+
+MariaDB [CF_Accessi]> CREATE TABLE Utenti(
+    -> idU INT PRIMARY KEY AUTO_INCREMENT,
+    -> nome VARCHAR(25) NOT NULL,
+    -> cognome VARCHAR(25) NOT NULL,
+    -> dataNascita DATE NOT NULL,
+    -> sesso CHAR NOT NULL CHECK (sesso='M' OR sesso='F'),
+    -> email VARCHAR(40) NOT NULL UNIQUE,
+    -> password VARCHAR(32) NOT NULL CHECK(CHAR_LENGTH(password) >= 8),
+    -> telefono VARCHAR(15) NOT NULL UNIQUE,
+    -> residenza VARCHAR(50) NOT NULL);
+Query OK, 0 rows affected (0.125 sec)
+
+MariaDB [CF_Accessi]> CREATE TABLE Accessi(
+    -> idA INT PRIMARY KEY AUTO_INCREMENT,
+    -> DataInizio DATE NOT NULL,
+    -> OraInizio TIME NOT NULL,
+    -> DataFine DATE,
+    -> OraFine TIME,
+    -> idU INT,
+    -> FOREIGN KEY (idU) REFERENCES utenti(idU) ON DELETE SET NULL ON UPDATE CASCADE);
+Query OK, 0 rows affected (0.133 sec)
+
+MariaDB [CF_Accessi]> DESCRIBE utenti;
++-------------+-------------+------+-----+---------+----------------+
+| Field       | Type        | Null | Key | Default | Extra          |
++-------------+-------------+------+-----+---------+----------------+
+| idU         | int(11)     | NO   | PRI | NULL    | auto_increment |
+| nome        | varchar(25) | NO   |     | NULL    |                |
+| cognome     | varchar(25) | NO   |     | NULL    |                |
+| dataNascita | date        | NO   |     | NULL    |                |
+| sesso       | char(1)     | NO   |     | NULL    |                |
+| email       | varchar(40) | NO   | UNI | NULL    |                |
+| password    | varchar(32) | NO   |     | NULL    |                |
+| telefono    | varchar(15) | NO   | UNI | NULL    |                |
+| residenza   | varchar(50) | NO   |     | NULL    |                |
++-------------+-------------+------+-----+---------+----------------+
+9 rows in set (2.089 sec)
+
+MariaDB [CF_Accessi]> DESCRIBE Accessi;
++------------+---------+------+-----+---------+----------------+
+| Field      | Type    | Null | Key | Default | Extra          |
++------------+---------+------+-----+---------+----------------+
+| idA        | int(11) | NO   | PRI | NULL    | auto_increment |
+| DataInizio | date    | NO   |     | NULL    |                |
+| OraInizio  | time    | NO   |     | NULL    |                |
+| DataFine   | date    | YES  |     | NULL    |                |
+| OraFine    | time    | YES  |     | NULL    |                |
+| idU        | int(11) | YES  | MUL | NULL    |                |
++------------+---------+------+-----+---------+----------------+
+6 rows in set (0.254 sec)
+
+MariaDB [CF_Accessi]> INSERT INTO utenti
+    ->     (nome, cognome, dataNascita, sesso, email, password, telefono, residenza)
+    -> VALUES
+    ->     ('Mario',   'Rossi',    '1990-05-10', 'M', 'mario.rossi@example.com',   'pwdMario90', '3331111111', 'Brescia'),
+    ->     ('Lucia',   'Bianchi',  '1992-08-21', 'F', 'lucia.bianchi@example.com', 'pwdLucia92', '3332222222', 'Milano'),
+    ->     ('Gianni',  'Verdi',    '1988-01-15', 'M', 'gianni.verdi@example.com',  'pwdGianni88','3333333333', 'Roma'),
+    ->     ('Sara',    'Neri',     '1995-12-03', 'F', 'sara.neri@example.com',     'pwdSara95',  '3334444444', 'Torino'),
+    ->     ('Francesco','Cucchi',  '1998-07-30', 'M', 'francesco.cucchi@example.com','pwdFran98','3335555555','Brescia');
+Query OK, 5 rows affected (0.085 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+MariaDB [CF_Accessi]> SELECT * FROM utenti;
++-----+-----------+---------+-------------+-------+------------------------------+-------------+------------+-----------+
+| idU | nome      | cognome | dataNascita | sesso | email                        | password    | telefono   | residenza |
++-----+-----------+---------+-------------+-------+------------------------------+-------------+------------+-----------+
+|   1 | Mario     | Rossi   | 1990-05-10  | M     | mario.rossi@example.com      | pwdMario90  | 3331111111 | Brescia   |
+|   2 | Lucia     | Bianchi | 1992-08-21  | F     | lucia.bianchi@example.com    | pwdLucia92  | 3332222222 | Milano    |
+|   3 | Gianni    | Verdi   | 1988-01-15  | M     | gianni.verdi@example.com     | pwdGianni88 | 3333333333 | Roma      |
+|   4 | Sara      | Neri    | 1995-12-03  | F     | sara.neri@example.com        | pwdSara95   | 3334444444 | Torino    |
+|   5 | Francesco | Cucchi  | 1998-07-30  | M     | francesco.cucchi@example.com | pwdFran98   | 3335555555 | Brescia   |
++-----+-----------+---------+-------------+-------+------------------------------+-------------+------------+-----------+
+5 rows in set (0.001 sec)
+
+MariaDB [CF_Accessi]> INSERT INTO Accessi (DataInizio, OraInizio, DataFine, OraFine, idU)
+    -> VALUES
+    ->   ('2023-02-12', '08:15:00', NULL, NULL, 1),
+    ->   ('2023-02-12', '09:30:00', NULL, NULL, 2),
+    ->   ('2023-02-13', '10:05:00', NULL, NULL, 3),
+    ->   ('2023-03-01', '14:20:00', NULL, NULL, 4),
+    ->   ('2023-03-05', '18:45:00', NULL, NULL, 5);
+Query OK, 5 rows affected (0.077 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+MariaDB [CF_Accessi]> SELECT * FROM accessi;
++-----+------------+-----------+----------+---------+------+
+| idA | DataInizio | OraInizio | DataFine | OraFine | idU  |
++-----+------------+-----------+----------+---------+------+
+|   1 | 2023-02-12 | 08:15:00  | NULL     | NULL    |    1 |
+|   2 | 2023-02-12 | 09:30:00  | NULL     | NULL    |    2 |
+|   3 | 2023-02-13 | 10:05:00  | NULL     | NULL    |    3 |
+|   4 | 2023-03-01 | 14:20:00  | NULL     | NULL    |    4 |
+|   5 | 2023-03-05 | 18:45:00  | NULL     | NULL    |    5 |
++-----+------------+-----------+----------+---------+------+
+5 rows in set (0.001 sec)
+
+MariaDB [CF_Accessi]> UPDATE Accessi
+    -> SET
+    ->     DataFine = CASE idA
+    ->         WHEN 1 THEN '2023-02-12'
+    ->         WHEN 2 THEN '2023-02-12'
+    ->         WHEN 3 THEN '2023-02-13'
+    ->         WHEN 4 THEN '2023-03-01'
+    ->         WHEN 5 THEN '2023-03-05'
+    ->     END,
+    ->     OraFine = CASE idA
+    ->         WHEN 1 THEN '09:00:00'
+    ->         WHEN 2 THEN '10:15:00'
+    ->         WHEN 3 THEN '11:30:00'
+    ->         WHEN 4 THEN '15:10:00'
+    ->         WHEN 5 THEN '19:30:00'
+    ->     END
+    -> WHERE idA IN (1,2,3,4,5);
+Query OK, 5 rows affected (0.075 sec)
+Rows matched: 5  Changed: 5  Warnings: 0
+
+MariaDB [CF_Accessi]> SELECT * FROM accessi;
++-----+------------+-----------+------------+----------+------+
+| idA | DataInizio | OraInizio | DataFine   | OraFine  | idU  |
++-----+------------+-----------+------------+----------+------+
+|   1 | 2023-02-12 | 08:15:00  | 2023-02-12 | 09:00:00 |    1 |
+|   2 | 2023-02-12 | 09:30:00  | 2023-02-12 | 10:15:00 |    2 |
+|   3 | 2023-02-13 | 10:05:00  | 2023-02-13 | 11:30:00 |    3 |
+|   4 | 2023-03-01 | 14:20:00  | 2023-03-01 | 15:10:00 |    4 |
+|   5 | 2023-03-05 | 18:45:00  | 2023-03-05 | 19:30:00 |    5 |
++-----+------------+-----------+------------+----------+------+
+5 rows in set (0.000 sec)
+
+MariaDB [CF_Accessi]> DELETE FROM utenti WHERE idU=5;
+Query OK, 1 row affected (0.075 sec)
+
+MariaDB [CF_Accessi]> SELECT * FROM utenti;
++-----+--------+---------+-------------+-------+---------------------------+-------------+------------+-----------+
+| idU | nome   | cognome | dataNascita | sesso | email                     | password    | telefono   | residenza |
++-----+--------+---------+-------------+-------+---------------------------+-------------+------------+-----------+
+|   1 | Mario  | Rossi   | 1990-05-10  | M     | mario.rossi@example.com   | pwdMario90  | 3331111111 | Brescia   |
+|   2 | Lucia  | Bianchi | 1992-08-21  | F     | lucia.bianchi@example.com | pwdLucia92  | 3332222222 | Milano    |
+|   3 | Gianni | Verdi   | 1988-01-15  | M     | gianni.verdi@example.com  | pwdGianni88 | 3333333333 | Roma      |
+|   4 | Sara   | Neri    | 1995-12-03  | F     | sara.neri@example.com     | pwdSara95   | 3334444444 | Torino    |
++-----+--------+---------+-------------+-------+---------------------------+-------------+------------+-----------+
+4 rows in set (0.001 sec)
+
+MariaDB [CF_Accessi]> SELECT * FROM accessi;
++-----+------------+-----------+------------+----------+------+
+| idA | DataInizio | OraInizio | DataFine   | OraFine  | idU  |
++-----+------------+-----------+------------+----------+------+
+|   1 | 2023-02-12 | 08:15:00  | 2023-02-12 | 09:00:00 |    1 |
+|   2 | 2023-02-12 | 09:30:00  | 2023-02-12 | 10:15:00 |    2 |
+|   3 | 2023-02-13 | 10:05:00  | 2023-02-13 | 11:30:00 |    3 |
+|   4 | 2023-03-01 | 14:20:00  | 2023-03-01 | 15:10:00 |    4 |
+|   5 | 2023-03-05 | 18:45:00  | 2023-03-05 | 19:30:00 | NULL |
++-----+------------+-----------+------------+----------+------+
+5 rows in set (0.000 sec)
+
+MariaDB [CF_Accessi]> INSERT INTO accessi (oraInizio, DataInizio, idU) VALUES ('2022-01-11', '08:00:00', 1);
+Query OK, 1 row affected, 2 warnings (0.074 sec)
+
+MariaDB [CF_Accessi]> DELETE FROM accessi WHERE DataInizio < '2022-12-11';
+Query OK, 1 row affected (0.076 sec)
+
+MariaDB [CF_Accessi]> SELECT * FROM accessi;
++-----+------------+-----------+------------+----------+------+
+| idA | DataInizio | OraInizio | DataFine   | OraFine  | idU  |
++-----+------------+-----------+------------+----------+------+
+|   1 | 2023-02-12 | 08:15:00  | 2023-02-12 | 09:00:00 |    1 |
+|   2 | 2023-02-12 | 09:30:00  | 2023-02-12 | 10:15:00 |    2 |
+|   3 | 2023-02-13 | 10:05:00  | 2023-02-13 | 11:30:00 |    3 |
+|   4 | 2023-03-01 | 14:20:00  | 2023-03-01 | 15:10:00 |    4 |
+|   5 | 2023-03-05 | 18:45:00  | 2023-03-05 | 19:30:00 | NULL |
++-----+------------+-----------+------------+----------+------+
+5 rows in set (0.000 sec)
+
+MariaDB [CF_Accessi]> SELECT * FROM utenti WHERE dataNascita < '2020-12-25';
++-----+--------+---------+-------------+-------+---------------------------+-------------+------------+-----------+
+| idU | nome   | cognome | dataNascita | sesso | email                     | password    | telefono   | residenza |
++-----+--------+---------+-------------+-------+---------------------------+-------------+------------+-----------+
+|   1 | Mario  | Rossi   | 1990-05-10  | M     | mario.rossi@example.com   | pwdMario90  | 3331111111 | Brescia   |
+|   2 | Lucia  | Bianchi | 1992-08-21  | F     | lucia.bianchi@example.com | pwdLucia92  | 3332222222 | Milano    |
+|   3 | Gianni | Verdi   | 1988-01-15  | M     | gianni.verdi@example.com  | pwdGianni88 | 3333333333 | Roma      |
+|   4 | Sara   | Neri    | 1995-12-03  | F     | sara.neri@example.com     | pwdSara95   | 3334444444 | Torino    |
++-----+--------+---------+-------------+-------+---------------------------+-------------+------------+-----------+
+4 rows in set (0.045 sec)
+
+MariaDB [CF_Accessi]> SELECT nome, cognome FROM utenti WHERE dataNascita BETWEEN '1992-01-01' AND '1992-12-31'
+    -> ORDER BY cognome ASC, nome ASC;
++-------+---------+
+| nome  | cognome |
++-------+---------+
+| Lucia | Bianchi |
++-------+---------+
+1 row in set (0.130 sec)
+
+MariaDB [CF_Accessi]> SELECT a.DataInizio, a.OraInizio, a.DataFine, a.OraFine FROM accessi AS a
+    -> INNER JOIN utenti AS u ON a.idU=u.idU WHERE u.nome='Mario' AND u.cognome='Rossi';
++------------+-----------+------------+----------+
+| DataInizio | OraInizio | DataFine   | OraFine  |
++------------+-----------+------------+----------+
+| 2023-02-12 | 08:15:00  | 2023-02-12 | 09:00:00 |
++------------+-----------+------------+----------+
+1 row in set (0.141 sec)
+
+MariaDB [CF_Accessi]> SELECT * FROM Accessi WHERE DataInizio BETWEEN '2023-02-10' AND '2023-02-15';
++-----+------------+-----------+------------+----------+------+
+| idA | DataInizio | OraInizio | DataFine   | OraFine  | idU  |
++-----+------------+-----------+------------+----------+------+
+|   1 | 2023-02-12 | 08:15:00  | 2023-02-12 | 09:00:00 |    1 |
+|   2 | 2023-02-12 | 09:30:00  | 2023-02-12 | 10:15:00 |    2 |
+|   3 | 2023-02-13 | 10:05:00  | 2023-02-13 | 11:30:00 |    3 |
++-----+------------+-----------+------------+----------+------+
+3 rows in set (0.001 sec)
+
+MariaDB [CF_Accessi]> SELECT u.*, COUNT(*) AS 'Numero Accessi' FROM utenti AS u
+    -> JOIN accessi AS a ON a.idU=u.idU
+    -> WHERE MONTH(a.DataInizio)=2 AND YEAR(a.DataInizio)=2023
+    -> GROUP BY u.idU HAVING 'Numero Accessi'>=4;
+Empty set, 1 warning (0.012 sec)
+
+MariaDB [CF_Accessi]> SELECT * FROM accessi WHERE (SELECT TIMESTAMPDIFF(HOUR, DataInizio, DataFine)>=1);
+Empty set (0.001 sec)
+
+MariaDB [CF_Accessi]> SELECT u.nome, u.cognome, u.email FROM utenti AS u
+    -> INNER JOIN accessi AS a ON a.idU=u.idU
+    -> ORDER BY TIMESTAMPDIFF(SECOND, CONCAT(a.DataInizio, a.OraInizio), CONCAT(a.DataFine, a.OraFine))
+    -> LIMIT 1;
++-------+---------+-------------------------+
+| nome  | cognome | email                   |
++-------+---------+-------------------------+
+| Mario | Rossi   | mario.rossi@example.com |
++-------+---------+-------------------------+
+1 row in set, 4 warnings (0.003 sec)
+
+MariaDB [CF_Accessi]> exit
