@@ -420,7 +420,7 @@ Durante una cavalcata in maschera, un *giovane nobile* viene fatto cadere da cav
 
 *Dopo dodici anni guarisce* ma *continua a fingere di essere pazzo* perché si rende conto di aver perduto la giovinezza e di essere ormai *escluso dalla vita*.
 
-Un *medico* suggerisce di *inscenare uno psicodramma* per guarirloL nel corso di esso, il protagonista *trafigge il rivale* ma è costretto a *fingersi pazzo* per il resto della sua vita.
+Un *medico* suggerisce di *inscenare uno psicodramma* per guarirlo nel corso di esso, il protagonista *trafigge il rivale* ma è costretto a *fingersi pazzo* per il resto della sua vita.
 
 *Doppia valenza della follia:*
 

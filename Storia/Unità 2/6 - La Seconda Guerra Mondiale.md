@@ -51,3 +51,93 @@ Il 22 giugno 1941 Hitler lancia l'*attacco all'Unione Sovietica* (Operazione ***
 
 *L'avanzata* tedesca è *travolgente* ma i *russi* fanno *terra bruciata* e organizzano la *resistenza* dietro le linee e *bloccano* i tedeschi davanti a Mosca e Leningrado (*Zukov*).
 
+I *sovietici* vengono *riforniti dagli Stati Uniti* - ancora *neutrali* - grazie alla *legge affitti e prestiti* che ne fa l'arsenale delle democrazie.
+
+Nell'agosto 1941 Roosvelt e Churchill a Terranova firmano la *carta atlantica* per delineare un nuovo mondo democratico dopo la distruzione del nazismo, sulla cui base nel 1942 viene firmato dai nemici della Germania il *Patto delle Nazioni Unite*.
+
+Intanto il *Giappone* coltiva il disegno della *Grande Asia* sotto la propria egemonia.
+
+Impegnato in *Cina*, approfitta della sconfitta di Francia e Olanda per occupare l'*indocina* e le *Indie orientali*.
+
+Di fronte all'*embargo americano* i Giapponesi attaccano di sorpresa la flotta americana di ***Pearl Harbour***.
+
+
+
+##### ***LA CONTROFFENSIVA DEGLI ALLEATI***
+
+All'inizio del *1942* le potenze del *tripartito* sono all'*offensiva*.
+
+I *Giapponesi* occupano una vasta area dell'*estremo Oriente* (minacciando India e Australia).
+
+L'*asse* avanza in *nord Africa* e nella Russia meridionale fino a *Stalingrado*.
+
+L'allungamento delle linee di rifornimento gioca però a loro svantaggio.
+
+Al contrario, gli *alleati* possono contare sul *sostegno americano* sia militare che produttivo, non frenato dalla *guerra sottomarina* italo-tedesca.
+
+Mentre iniziano massicci *bombardamenti* sulle città europee finalizzati a *spezzare il morale* delle popolazioni civili.
+
+La *svolta* si ha su tre fronti:
+
+* A ***Stalingrado*** l'assedio tedesco viene spezzato dalla *controffensiva sovietica* che costringe alla resa l'armata Von Paulus e coninvolge il pieno l'*armir* distrutto in una tragica *ritirata* (culminata nella battaglia di *Nikolajewka*);
+* In *Nord Africa* i britannici rompono il fronte italo-tedesco ad ***El Alamein*** mentre gli americani sbarcano in *Marocco e Algeria*. L'ultima resistenza italo-tedesca cessa nel *maggio 1943*;
+* Nel *Pacifico* gli americani vincono le grandi battaglie aero-navali di *Midway* e *Guadalcanal*.
+
+
+
+##### ***IL NUOVO ORDINE NAZISTA E LA SHOAH***
+
+Conquistata l'Europa, *Hitler* può mettere in atto il *nuovo ordine* basato sulle sue concezioni razziali:
+
+* Riduzione in *schiavitù* degli *slavi* ed *eliminazione* degli *ebrei*;
+* Costituzione di un sistema dominato dalla *Germania* con ruolo subalterno (in secondo piano) dell'*Italia* e degli altri alleati europei;
+* Trasformazione degli altri *paesi occupati* in *colonie di sfruttamento* (prelievo di risorse alimentiari e materie prime, *deportazione coatta di manodopera* nelle fabbriche tedesche).
+
+Riguardo alla "***Questione ebraica***" la prima tabba è la *deportazione* in Pomeriana (regione della Polonia), seguita - con la *conquista della Polonia* - dall'obbligo di residenza nei *ghetti* con la *stella gialla* cucita sugli abiti.
+
+Nel 1943 i *ghetti* vengono *svuotati* e la popolazione deportata in *campi di concentramento* nonstante l'eroica *rivolta* del *ghetto di Varsavia*.
+
+La *"Soluzione finale"* viene adottata a partire dall'invasione della *Russia* (1941).
+
+Viene creato un sistema di *campi* di *concentramento* (per sfruttamento a oltranza) e di *sterminio* organizzato in modo scientifico mediante *camere a gas* (*selezioni* con eliminazione istantanea degli inabili al lavoro) e *forni crematori* per l'eliminazione dei resti.
+
+Alcuni blocchi sono destinati ad *esperimenti su cavie umane*.
+
+
+
+##### ***LA GUERRA DEI CIVILI***
+
+L'intero *apparato produttivo* viene indirizzato alle esigenze della guerra imponendo ai civili il *razionamento* che finisce per alimentare il *mercato nero*.
+
+La situazione migliora solo grazie ai massicci *aiuti napoletani*.
+
+La guerra cancella ogni distinzione fra militari e *civili* (oltre metà delle vittime) attraverso i *bombardamenti aerei* prima sull'Inghilterra, poi sull'Italia ma sopratutto la Germania.
+
+La società è coinvolta anche dalla nascita della *Resistenza* contro l'occupazione dell'asse che trova invece sostegno nei *regimi collaborazionisti*.
+
+All'*inizio* la resistenza si limita allo *spionaggio* e al *sabotaggio*.
+
+In seguito diventa una vera *lotta armata* che costringe i tedeschi a distrarre truppe dal fronte e a rispondere con *rappresaglie* ed *esecuzioni in massa* di innocenti.
+
+La resistenza ha un volto diverso nei vari paesi:
+
+* In *Italia* e *Germania* si ricollega alla *lotta antifascista* degli anni Trenta;
+* In Norvegia, Belgio e Olanda agisce in contatto con i governi in esilio (sabotaggio);
+* In *Francia* la prima resistenza viene dalla «Francia libera» di De Gaulle;
+* In *Unione Sovietica* da' un contributo importante alla controffensiva sfruttando la rabbia per la brutalità;
+* In *Jugoslavia* si combatte una cruenta *guerra civile* fra i *comunisti* di Tito, *Cetnici* monarchici e gli *Utascia filonazisti*.
+
+
+
+##### ***IL CROLLO DEL FASCISMO E LA RESISTENZA IN ITALIA***
+
+Nella conferenza di *Casablanca* Roosvelt e Churchill decidono l'*attacco all'Italia,* dove la ripresa degli *scioperi operai* al Nord e l'intensificarsi dei *bombardamenti* hanno spinto settori della *monarchia*, dell'esercito e del fascismo moderatp a pensare ad uno *sganciamento dalla Germania*.
+
+Il 10 luglio 1943 gli alleati *sbarcano in Sicilia* e poi bombardano Roma.
+
+Il ***25 luglio*** il *Gran Consiglio del fascismo* vota un *ordine del giorno* per restituire al re il comando delle truppe.
+
+Il re fa *arrestare Mussolini* e affida il governo al Maresciallo *Badoglio*, fra l'*entusiasmo* incontenibile della folla che crede nella fine della guerra.
+
+
+
