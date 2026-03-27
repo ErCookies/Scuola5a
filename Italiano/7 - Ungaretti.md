@@ -1,4 +1,4 @@
-##### ***GIUSEPPE UNGARETTI***
+#### ***GIUSEPPE UNGARETTI***
 
 Nasce ad *Alessandria d'Egitto* nel *1883* da *genitori lucchesi*.
 
@@ -12,7 +12,7 @@ Nel 1933 pubblica ***Sentimento del tempo***.
 
 Dal 1936 al 1941 vive in *Brasile* dove insegna all'università e *perde il figlio*.
 
-La sofferenza personale, unita a quella collettiva (la guerra e l'occupazione nazista di Roma) ispira i versi de ***Il Dolore***<i> (1947)</i>.
+La sofferenza personale, unita a quella collettiva (la guerra e l'occupazione nazista di Roma) ispira i versi de ***Il Dolore*** <i>(1947)</i>.
 
 Ottiene un grande *successo di pubblico*.
 
@@ -26,15 +26,16 @@ Pubblica *altre raccolte* (La terra promessa, Un grido e Paesaggi, Il taccuino d
 
 Poesie *scritte in trincea* e stampate in *80 copie nel 1916* con il titolo *"Il porto sepolto"*, poi ampliate in *"Allegria di naufragi"* nel *1919* (simbolo degli estremi che si toccano nella vita, dolore e felicità) e in terza versione nel *1931* con il titolo definitivo.
 
-* *Proposizioni brevi, periodi semplici*
-* a
-* a
-* a
-* a
+* *Proposizioni brevi, periodi semplici* con poche subordinate e frequentemente *nominali* (senza verbo);
+* Sostituzione dei legami logici con le ***analogie***, accostamento intuitivo di oggetti diversi;
+* *Rinuncia* della *punteggiatura* e alle *rime* per evidenziare le *parole* isolato graficamente nello *spazio bianco* (*strofe* corrispondenti ai *periodi*);
+* Restituzione della ***parola*** alla profondità e della *purezza* inquinate dall'uso («Dare un senso più puro alle parole della tribù» - Mallarmé);
+* Uso frequente di *dimostrativi* per dare evidenza alle immagini;
+* *Versi brevi liberissimi* spezzati dalle *pause*.
 
 
 
-##### *IL PORTO SEPOLTO*
+###### *IL PORTO SEPOLTO*
 
 *«*
 
@@ -84,11 +85,11 @@ A partire dalle esperienze fondamentali dell'esistenza (*fondo autobiografico* d
 
 *«*
 
-*Si sta come*
+*Si sta come*			Un'**immagine** *classica* della **fragilità** della condizione umana
 
 *d'autunno*
 
-*sugli alberi*
+*sugli alberi*			Rinnovata dalla disposizione che mette in evidenza il sostantivo chiave (autunno - foglie)
 
 *le foglie*
 
@@ -98,7 +99,7 @@ A partire dalle esperienze fondamentali dell'esistenza (*fondo autobiografico* d
 
 *»*
 
-Un'*immagine classica* della *fragilità* della condizione umana rinnovata dalla disposizione che mette in evidenza il sostantivo chiave (autunno - foglie)
+
 
 
 
@@ -108,23 +109,17 @@ Un'*immagine classica* della *fragilità* della condizione umana rinnovata dalla
 
 *«*
 
-*M'illumino*
+*M'illumino*			**Il singolo** (finitezza) **si fonde nel tutto** (la dimensione dell'assoluto)
 
-*d'immenso*
+*d'immenso*			**Allitterazione** di I e M
+
+
 
 
 
 *Santa Maria La Longa il 26 gennaio 1917*
 
 *»*
-
-*Il singolo* (finitezza) *si fonde nel tutto* (la dimensione dell'assoluto)
-
-*Allitterazione* di I e M
-
-Il singolo si fonde con il tutto
-
-
 
 Le liriche dell'"Allegria" si presentano come *"folgorazioni"*, attimi in cui si presenta quasi magicamente il *mistero della vita*.
 
@@ -160,13 +155,13 @@ Le liriche dell'"Allegria" si presentano come *"folgorazioni"*, attimi in cui si
 
 *Fu Marcel*
 
-*ma non era Francese*		-
+*ma non era Francese*
 
 *e non sapeva più*
 
 *vivere*
 
-*nella tenda dei suoi*
+*nella tenda dei suoi*			Il dramma di **Mohammed** che ha **reciso le proprie radici** senza integrarsi nella nuova realtà
 
 *dove si ascolta la cantilena*
 
@@ -176,7 +171,7 @@ Le liriche dell'"Allegria" si presentano come *"folgorazioni"*, attimi in cui si
 
 
 
-*E non sapeva*				Mohammed non possedeva l'ancora di salvezza della poesia come ponte di comunicazione con gli altri (come Ungaretti)
+*E non sapeva*				Mohammed non possedeva l'ancora di **salvezza** della **poesia** come ponte di comunicazione con gli altri (come Ungaretti)
 
 *sciogliere*
 
@@ -199,7 +194,7 @@ dove abitavamo*
 
 
 
-*Riposa*					Dal passato al *presente* (la morte fuori dal tempo)
+*Riposa*					Dal passato al **presente** (la morte fuori dal tempo)
 
 *nel camposanto d'Ivry*
 
@@ -215,7 +210,7 @@ dove abitavamo*
 
 
 
-*E forse io solo*				Il compito del poeta è preservare dal nulla la *memoria* di un amico
+*E forse io solo*				Il compito del poeta è preservare dal nulla la **memoria** di un amico
 
 *so ancora*
 
@@ -223,7 +218,7 @@ dove abitavamo*
 
 
 
-*Locvizza il 30 settembre 1916*		*Data* (la lirica come un frammento di un diario intimo)
+*Locvizza il 30 settembre 1916*		**Data** (la lirica come un frammento di un diario intimo)
 
 *»*
 
@@ -280,3 +275,397 @@ dove abitavamo*
 * Eliminazione quasi completa dei verbi;
 * Accostamento delle immagini senza connettivi;
 * Eliminazione della punteggiatura (solo un ?).
+
+
+
+###### *VEGLIA*
+
+*«*
+
+*Un’intera nottata*			La **durezza dei suoni** (dentali) riflette il destino di morte del compagno
+
+*buttato vicino*
+
+*a un compagno*
+
+*massacrato*
+
+*con la sua bocca*
+
+*digrignata*
+
+*volta al plenilunio*			La rabbia contro la natura imperturbabile di fronte al dolore dell'uomo
+
+*con la congestione*
+
+*delle sue mani*
+
+*penetrata*
+
+*nel mio silenzio*
+
+*ho scritto*
+
+*lettere piene d’amore*			**La poesia come salvezza** rivolta all'umanità
+
+
+
+*Non sono mai stato*			**Lo stacco**: il poeta scende al fondo del proprio animo
+
+*tanto*
+
+*attaccato alla vita*			Una dolente veglia funebre che permette al poeta di cogliere il significato profondo dell'esistere
+
+
+
+*Cima Quattro il 23 dicembre 1915*
+
+*»*
+
+
+
+###### *I FIUMI*
+
+*«*
+
+*Mi tengo a quest’albero mutilato*
+
+*abbandonato in questa dolina*		Aggrappato come per cercare come un punto di riferimento nel caos della guerra: ma **anche la natura soffre**
+
+*che ha il languore*
+
+*di un circo*
+
+
+
+*prima o dopo lo spettacolo*
+
+*e guardo*
+
+*il passaggio quieto*
+
+*delle nuvole sulla luna*
+
+
+
+*Stamani mi sono disteso*
+
+*in un’urna d’acqua*
+
+*e come una reliquia*
+
+*ho riposato*
+
+
+
+*L’Isonzo scorrendo*
+
+*mi levigava*
+
+*come un suo sasso*
+
+
+
+*Ho tirato su*
+
+*le mie quattr’ossa*
+
+*e me ne sono andato*
+
+*come un acrobata*
+
+*sull’acqua*
+
+
+
+*Mi sono accoccolato*
+
+*vicino ai miei panni*
+
+*sudici di guerra*
+
+*e come un beduino*
+
+*mi sono chinato a ricevere*
+
+*il sole*
+
+
+
+*Questo è l’Isonzo*
+
+*e qui meglio*
+
+*mi sono riconosciuto*
+
+*una docile fibra*
+
+*dell’universo*
+
+
+
+*Il mio supplizio*
+
+*è quando*
+
+*non mi credo*
+
+*in armonia*
+
+
+
+*Ma quelle occulte*
+
+*mani*
+
+*che m’intridono*
+
+*mi regalano*
+
+*la rara*
+
+*Felicità*
+
+
+
+*Ho ripassato*
+
+*le epoche*
+
+*della mia vita*
+
+
+
+*Questi sono*
+
+*i miei fiumi*
+
+
+
+*Questo è il Serchio*
+
+*al quale hanno attinto*
+
+*duemil’anni forse*
+
+*di gente mia campagnola*
+
+*e mio padre e mia madre*
+
+
+
+*Questo è il Nilo*
+
+*che mi ha visto*
+
+*nascere e crescere*
+
+*e ardere d’incosapevolezza*
+
+*nelle estese pianure*
+
+
+
+*Questa è la Senna*
+
+*e in quel suo torbido*
+
+*mi sono rimescolato*
+
+*e mi sono conosciuto*
+
+
+
+*Questi sono i miei fiumi*
+
+*contati nell’Isonzo*
+
+
+
+*Questa è la mia nostalgia*
+
+*che in ognuno*
+
+*mi traspare*
+
+*ora ch’è notte*
+
+*che la mia vita mi pare*
+
+*una corolla*
+
+*di tenebre*
+
+
+
+*Cotici il 16 agosto 1916*
+
+*»*
+
+
+
+###### *SONO UNA CREATURA*
+
+*«*
+
+*Come questa pietra*
+
+*del S. Michele*
+
+*così fredda*
+
+*così dura*
+
+*così prosciugata*
+
+*così refrattaria*
+
+*così totalmente*
+
+*disanimata*
+
+*Come questa pietra*
+
+*è il mio pianto*
+
+*che non si vede*
+
+*La morte*
+
+*si sconta*
+
+*Vivendo*
+
+
+
+*Valloncello di Cima Quattro il 5 agosto 1916*
+
+*»*
+
+
+
+###### *NATALE*
+
+*«*
+
+*Non ho voglia*
+
+*di tuffarmi*
+
+*in un gomitolo*			La **stanchezza** e la fuga dal caos della vita
+
+*di strade*
+
+*Ho tanta*
+
+*stanchezza*
+
+*sulle spalle*
+
+*Lasciatemi così*
+
+*come una*
+
+*cosa*				**Bisogno di pace**
+
+*posata*
+
+*in un*
+
+*angolo*
+
+*e dimenticata*
+
+*Qui*
+
+*non si sente*
+
+*altro*
+
+*che il caldo buono*
+
+*Sto*
+
+*con le quattro*
+
+*capriole*			La **casa** come rifugio dalla guerra e **pace dell'anima** (sottolineata dalla sinestesia caldo buono)
+
+*di fumo*
+
+*del focolare*
+
+
+
+*Napoli il 26 dicembre 1916*
+
+*»*
+
+
+
+
+
+##### *IL SENTIMENTO DEL TEMPO*
+
+Le poesie della nuova raccolta (1933) abbandonano lo scenario bellico e si ambientano nella *Roma barocca* (Luogo della *memoria*, in cui si coglie la *presenza del passato* e l'accanirsi del *tempo* a cancellarlo).
+
+Mentre nell'*«Allegria»* le singole liriche miravano a fissare una «*Folgorazione*» (sentimento momentaneo), nel *«Sentimento del tempo»* il *tempo* è sentito come *durata, cambiamento* di tutte le cose.
+
+Prevalgono ***temi*** come il passare delle *stagioni*, il cammino della *storia*, le riflessioni sulla *morte*; ci sono anche *messaggi positivi* legati alla *fede religiosa*.
+
+Anche lo ***stile*** si rinnova:
+
+* *Recupero* delle *strutture sintattiche* e delle *forme metriche* tradizionali (Petrarca, Leopardi);
+* *Lessico più letterario*, alto, meno frammentario;
+* Meno riferimenti alla realtà, concreta, più allusioni all'irraggiungibile;
+* Diviene dominante la tecnica dell'*analogia*.
+
+È la raccolta a cui guardano i *poeti dell'ermetismo*.
+
+
+
+###### *MADRE*
+
+*«*
+
+*E il cuore quando d’un ultimo battito*		La **congiunzione** suggerisce un **dialogo** fra madre e figlio **mai interrotto**
+
+*Avrà fatto cadere il muro d’ombra,*
+
+*Per condurmi, Madre, sino al Signore,*		**Il momento** immaginato **della morte del poeta** ritornato bambino come passaggio dall'ombra alla luce
+
+*Come una volta mi darai la mano.*
+
+
+
+*In ginocchio, decisa,*
+
+*sarai una statua davanti all’Eterno,*		Immagine monumentale della madre mediatrice di grazia...
+
+*Come già ti vedeva*
+
+*Quando eri ancora in vita.*
+
+
+
+*Alzerai tremante le vecchie braccia,*
+
+*Come quando spirasti*				... che si umanizza
+
+*Dicendo: Mio Dio, eccomi.*
+
+
+
+*E solo quando m’avrà perdonato,*
+
+*Ti verrà desiderio di guardarmi.*		**Solo dopo il perdono** di Dio **l'affetto materno** può manifestarsi liberamente
+
+
+
+*Ricorderai d’avermi atteso tanto,*
+
+*E avrai negli occhi un rapido sospiro.*
+
+*»*
+
+
+
