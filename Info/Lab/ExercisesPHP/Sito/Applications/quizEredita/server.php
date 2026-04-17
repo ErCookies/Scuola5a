@@ -1,4 +1,5 @@
 <?php
+	// Cucchi Francesco 5^AI server.php
 	require_once 'funcEred.php';
 	if(isset($_POST['quiz'])){
 		$qz = $_POST['quiz'];

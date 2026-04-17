@@ -139,5 +139,107 @@ Il ***25 luglio*** il *Gran Consiglio del fascismo* vota un *ordine del giorno* 
 
 Il re fa *arrestare Mussolini* e affida il governo al Maresciallo *Badoglio*, fra l'*entusiasmo* incontenibile della folla che crede nella fine della guerra.
 
+*Badoglio* proclama la continuazione della guerra ma inizia trattative segrete con gli Alleati per una *pace separata*.
+
+I *tedeschi* fanno affluire le *truppe in Italia*.
+
+Il 3 settembre viene firmato l'*Armistizio* che viene reso noto l'***8 settembre***.
+
+*Il re e Badoglio fuggono a Brindisi senza* dare *indicazioni precise* all'*esercito* che *si sbanda* (600 mila prigionieri dei tedeschi, molti si salvavano grazie alla popolazione, chi resiste come a *Cefalonia* viene massacrato).
+
+Il *paese* precipita nel *caos* e i *tedeschi occupano* tutto il centro-nord.
+
+*Mussolini* viene *liberato dai tedeschi* e in Germania annuncia la nascita della *Repubblica Sociale Italiana*, di fatto un regime collaborazionista, alle cui forze armate (*repubblichini*) guidate da *Graziani* si contrappongono i *partigiani* unitisi spontaneamente.
+
+Alla *guerra di liberazione* si intreccia in tutto il centro-nord una *guerra civile*.
+
+Le *formazioni partigiane* nelle *zone montane* e nelle *città* sono un gran parte collegate ai *partiti antifascisti* riorganizzati durante il periodo badogliano, che si uniscono nel *Comitato di Liberazione Nazionale*:
+
+* *Garibaldini* (comunisti) sono la maggioranza;
+* *Giustizia e libertà* fanno capo al partito d'azione;
+* Gli *autonomi* sono ex militari fedeli alla monarchia.
+
+Il *governo Badoglio* dichiara guerra alla Germania ottenendo lo status di *cobelligerante*.
+
+*Napoli* per prima si ribella ai tedeschi (*quattro giornate*).
+
+I tedeschi si trincerano sulla *linea Gustav* fronteggiando sia l'offensiva alleata a *Cassino* che lo *sbarco di Anzio*.
+
+Intanto *al Sud* il contrasto fra Vittorio Emanuele III e i *Partiti del CLN* che ne chiedono l'*abdicazione*.
+
+Viene risolto da *Togliatti*, leader comunista, che propone la *svolta di Salerno*: al momento della liberazione di Roma il re si sarebbe ritirato affidando la *luogotenenza* al figlio *Umberto*.
+
+La svolta consente la formazione di un *governo di unità nazionale* con Badoglio presidente.
+
+Il 4 giugno *1944* viene *liberata Roma* e si forma il *governo Bonomi*.
+
+I partigiani vengono riuniti nel *Corpo Volontari della Libertà* e danno un contributo decisivo nella liberazione di *Firenze*.
+
+Nell'*autunno 1944* l'avanzata alleata viene nuovamente bloccata sulla *linea gotica culona*.
+
+Il *nord*, stretto dalla *fame* e dai *bombardamenti*, deve subire alcune delle peggiori ***stragi nazifasciste*** *(fosse ardeatine, Marzabotto)*
+
+Mentre sul confine orientale i *comunisti jugoslavi* di Tito intraprendono l'uccisione di migliaia di civili italiani nelle *foibe*.
+
+
+
+##### ***LA VITTORIA DEGLI ALLEATI***
+
+Il *fronte italiano* viene considerati *secondario* dagli alleati, che alla *Conferenza di Teheran* (1943) decidono lo ***sbarco in Normandia*** (operazione "Overlord").
+
+Nel *giugno 1944* il *vallo Atlantico* tedesco viene *sfondato* da una poderosa offensiva terrestre ed aerea.
+
+Il contemporaneo sbarco in *Provenza* porta alla *liberazione della Francia*.
+
+Intanto prosegue l'***avanzata sovietica*** che riconquista i *Paesi Baltici*, si *arrendono Romania, Ungheria e Bulgaria*, mentre la *Jugolslavia* viene liberata dai partigiani di Tito
+
+Gli inglesi sbarcano in *Grecia*.
+
+*Fallisce* il tentativo di uccidere Hitler operato dal colonnello *Stauffemberg*.
+
+Nella *conferenza di Jalta* viene decisa l'entrata in guerra dell'URSS contro il Giappone.
+
+*Hitler* spera nelle *armi segrete* ma nella primavera del *1945* riprende l'offensiva alleata.
+
+Gli *anglo-americani* varcano il *Reno* e sottopongono le città tedesche a *bombardamenti* apocalittici.
+
+I *sovietici* conquistano la *Polonia* ed entrano in *Germania* da Est.
+
+Il ***25 aprile*** si incontrano (sovietici e americani) sul *fiume Elba*.
+
+In Italia gli *alleati* sfondano la *linea gotica culona*, mentre scoppia l'*insurrezione* partigiana che *libera* le *città del Nord*.
+
+*Mussolini* in fuga viene catturato e *fucilato* dai partigiani.
+
+Il *2 maggio 1945* le truppe tedesche in Italia si arrendono.
+
+Lo stesso giorno si conclude la *battaglia di Berlino* mentre *Hitler* si è *suicidato*.
+
+Il 7 maggio la *Germania* firma la *resa incondizionata*.
+
+Rimane in campo il *Giappone* nonostante le *pesanti sconfitte* subite dagli americani (riconquista delle *Filippine* e di vari arcipelaghi).
+
+Nemmeno le battaglie di *Iwo Jima* e *Okinawa* - territorio metropolitano - non piegano i giapponesi, inducendo il nuovo presidente americano *Truman* a ricorrere alla *bomba atomica* (Hiroshima, Nagasaki), che alla fine costringe il *Giappone* alla *resa*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

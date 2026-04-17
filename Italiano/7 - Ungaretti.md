@@ -12,7 +12,7 @@ Nel 1933 pubblica ***Sentimento del tempo***.
 
 Dal 1936 al 1941 vive in *Brasile* dove insegna all'università e *perde il figlio*.
 
-La sofferenza personale, unita a quella collettiva (la guerra e l'occupazione nazista di Roma) ispira i versi de ***Il Dolore*** <i>(1947)</i>.
+La sofferenza personale, unita a quella collettiva (la guerra e l'occupazione nazista di Roma) ispira i versi de ***Il Dolore*** *(1947)*.
 
 Ottiene un grande *successo di pubblico*.
 
@@ -37,31 +37,31 @@ Poesie *scritte in trincea* e stampate in *80 copie nel 1916* con il titolo *"Il
 
 ###### *IL PORTO SEPOLTO*
 
-*«*
+*-*------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Vi arriva il poeta*
+*Vi arriva il poeta*				|
 
-*E poi torna alla luce con i suoi canti*
+*E poi torna alla luce con i suoi canti*		|
 
-*E li disperde*
+*E li disperde*					|
 
+&#x09;					|
 
+*Di questa poesia*				|
 
-*Di questa poesia*
+*Mi resta*					|
 
-*Mi resta*
+*Quel nulla*					|
 
-*Quel nulla*
+*Di inesauribile segreto.*			|
 
-*Di inesauribile segreto.*
+&#x09;					|
 
+&#x09;					|
 
+*Mariano il 19 giugno 1916*			|
 
-
-
-*Mariano il 19 giugno 1916*
-
-*»*
+*-*------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -83,21 +83,21 @@ A partire dalle esperienze fondamentali dell'esistenza (*fondo autobiografico* d
 
 ###### *SOLDATI*
 
-*«*
+*-*------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Si sta come*			Un'**immagine** *classica* della **fragilità** della condizione umana
+*Si sta come*				| Un'**immagine** *classica* della **fragilità** della condizione umana
 
-*d'autunno*
+*d'autunno*				| 
 
-*sugli alberi*			Rinnovata dalla disposizione che mette in evidenza il sostantivo chiave (autunno - foglie)
+*sugli alberi*				| Rinnovata dalla disposizione che mette in evidenza il sostantivo chiave (autunno - foglie)
 
-*le foglie*
+*le foglie*				|
 
+&#x09;				|
 
+*Bosco di Courton luglio 1918*		|
 
-*Bosco di Courton luglio 1918*
-
-*»*
+*-*------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -107,19 +107,19 @@ A partire dalle esperienze fondamentali dell'esistenza (*fondo autobiografico* d
 
 ###### *MATTINA*
 
-*«*
+*-*------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*M'illumino*			**Il singolo** (finitezza) **si fonde nel tutto** (la dimensione dell'assoluto)
+*M'illumino*					| **Il singolo** (finitezza) **si fonde nel tutto** (la dimensione dell'assoluto)
 
-*d'immenso*			**Allitterazione** di I e M
+*d'immenso*					| **Allitterazione** di I e M
 
+&#x09;					|
 
+&#x09;					|
 
+*Santa Maria La Longa il 26 gennaio 1917*		|
 
-
-*Santa Maria La Longa il 26 gennaio 1917*
-
-*»*
+*-*------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Le liriche dell'"Allegria" si presentano come *"folgorazioni"*, attimi in cui si presenta quasi magicamente il *mistero della vita*.
 
@@ -127,100 +127,100 @@ Le liriche dell'"Allegria" si presentano come *"folgorazioni"*, attimi in cui si
 
 ###### *IN MEMORIA*
 
-*«*
+*-*------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Si chiamava*				Titolo e verbo al *passato* annunciano il tragico destino dell'amico
+*Si chiamava*				| Titolo e verbo al *passato* annunciano il tragico destino dell'amico
 
-*Mohammed Sceab*
+*Mohammed Sceab*				|
 
+&#x09;				|
 
+*Discendente*				| *Tono severo* da onorazione funebre
 
-*Discendente*				*Tono severo* da onorazione funebre
+*di emiri nomadi*				|
 
-*di emiri nomadi*
+*suicida*					| La forza della *parola isolata*
 
-*suicida*					La forza della *parola isolata*
+*perché non aveva più*			|
 
-*perché non aveva più*
+*Patria*					| Il destino comune di esuli
 
-*Patria*					Il destino comune di esuli
+&#x09;				|
 
+*Amò la Francia*				|
 
+*e mutò nome*				|
 
-*Amò la Francia*
+&#x09;				|
 
-*e mutò nome*
+*Fu Marcel*				|
 
+*ma non era Francese*			|
 
+*e non sapeva più*			|
 
-*Fu Marcel*
+*vivere*					|
 
-*ma non era Francese*
+*nella tenda dei suoi*			| Il dramma di **Mohammed** che ha **reciso le proprie radici** senza integrarsi nella nuova realtà
 
-*e non sapeva più*
+*dove si ascolta la cantilena*		|
 
-*vivere*
+*del Corano*				|
 
-*nella tenda dei suoi*			Il dramma di **Mohammed** che ha **reciso le proprie radici** senza integrarsi nella nuova realtà
+*gustando un caffè*			|
 
-*dove si ascolta la cantilena*
+&#x09;				| 
 
-*del Corano*
+*E non sapeva*				| Mohammed non possedeva l'ancora di **salvezza** della **poesia** come ponte di comunicazione con gli altri (come Ungaretti)
 
-*gustando un caffè*
+*sciogliere*				|
 
+*il canto*				|
 
+*del suo abbandono*			|
 
-*E non sapeva*				Mohammed non possedeva l'ancora di **salvezza** della **poesia** come ponte di comunicazione con gli altri (come Ungaretti)
+&#x09;				|
 
-*sciogliere*
+*L'ho accompagnato*			|
 
-*il canto*
+*insieme alla padrona dell'albergo*	|
+*dove abitavamo*				|
 
-*del suo abbandono*
+*a Parigi*				|
 
+*dal numero 5 della rue des Carmes*	|
 
+*appassito vicolo in discesa*		| La discesa verso le tenebre
 
-*L'ho accompagnato*
+&#x09;				|
 
-*insieme alla padrona dell'albergo
-dove abitavamo*
+*Riposa*					| Dal passato al **presente** (la morte fuori dal tempo)
 
-*a Parigi*
+*nel camposanto d'Ivry*			|
 
-*dal numero 5 della rue des Carmes*
+*sobborgo che pare*			|
 
-*appassito vicolo in discesa*		La discesa verso le tenebre
+*sempre*					|
 
+*in una giornata*				|
 
+*di una*					|
 
-*Riposa*					Dal passato al **presente** (la morte fuori dal tempo)
+*decomposta fiera*			|
 
-*nel camposanto d'Ivry*
+&#x09;				|
 
-*sobborgo che pare*
+*E forse io solo*				| Il compito del poeta è preservare dal nulla la **memoria** di un amico
 
-*sempre*
+*so ancora*				|
 
-*in una giornata*
+*che visse*				|
 
-*di una*
+&#x09;				|
 
-*decomposta fiera*
+*Locvizza il 30 settembre 1916*		| **Data** (la lirica come un frammento di un diario intimo)
 
-
-
-*E forse io solo*				Il compito del poeta è preservare dal nulla la **memoria** di un amico
-
-*so ancora*
-
-*che visse*
-
-
-
-*Locvizza il 30 settembre 1916*		**Data** (la lirica come un frammento di un diario intimo)
-
-*»*
+*-*------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -666,6 +666,4 @@ Anche lo ***stile*** si rinnova:
 *E avrai negli occhi un rapido sospiro.*
 
 *»*
-
-
 
