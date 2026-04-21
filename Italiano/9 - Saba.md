@@ -138,35 +138,221 @@ L'umanità di Saba gli permette un atteggiamento di **apertura e comprensione ve
 
 \-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Ho parlato a una capra.*					| Apertura descrittiva: il colloquip con ogni realtà della vita
+*Ho parlato a una capra.*				| Apertura descrittiva: il colloquip con ogni realtà della vita
 
-*Era sola sul prato, era legata.*				|
+*Era sola sul prato, era legata.*			|
 
-*Sazia d’erba, bagnata*					|
+*Sazia d’erba, bagnata*				|
 
-*dalla pioggia, belava.*					|
+*dalla pioggia, belava.*				|
 
-&#x09;						|
+&#x09;					|
 
-*Quell’uguale belato era fraterno*			|
+*Quell’uguale belato era fraterno*		|
 
-*al mio dolore. Ed io risposi, prima*			| Celia: scherzo ---- La **fratellanza** che nasce dalla **comune sofferenza** 
+*al mio dolore. Ed io risposi, prima*		| Celia: scherzo ---- La **fratellanza** che nasce dalla **comune sofferenza**
 
-*per celia, poi perché il dolore è eterno,*		|
+*per celia, poi perché il dolore è eterno,*	|
 
-*ha una voce e non varia.*			 	|
+*ha una voce e non varia.*			|
 
-*Questa voce sentiva gemere in una capra solitaria.*	|
+*Questa voce sentiva gemere in una capra-*	|
 
-&#x09;						| 
+*-solitaria.*					|
 
-*In una capra dal viso semita*				| Allusione alle sofferenze subite dagli **ebrei**
+&#x09;					|
 
-*sentiva querelarsi ogni altro male,*			| Rapporto fra **male e vita**
+*In una capra dal viso semita*			| Allusione alle sofferenze subite dagli **ebrei**
 
-*ogni altra vita.*					|
+*sentiva querelarsi ogni altro male,*		| Rapporto fra **male e vita**
 
-&#x09;						| **Metro: endecasillabi a settenari** (tradizionale)
+*ogni altra vita.*				|
+
+&#x09;					| **Metro: endecasillabi a settenari** (tradizionale)
+
+\-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+###### *A MIA MOGLIE*
+
+\-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Tu sei come una giovane,*			|
+
+*una bianca pollastra.*				| Altro **tema** fondamentale: il **rapporto con le donne** (in cui il poeta cerca sostituti della figura materna)
+
+*Le si arruffano al vento*			|
+
+*le piume, il collo china*			|
+
+*per bere, e in terra raspa;*			|
+
+*ma, nell’andare, ha il lento*			| Capacità di ribaltare in positivo paragoni superficialmente offensivi 
+
+*tuo passo di regina,*				| cogliendo le virtù delle femmine animali
+
+*ed incede sull’erba*				|
+
+*pettoruta e superba.*				|
+
+*È migliore del maschio.*				|
+
+*È come sono tutte*				|
+
+*le femmine di tutti*				|
+
+*i sereni animali*				|
+
+*che avvicinano a Dio.*				|
+
+*Così se l’occhio, se il giudizio mio*		|
+
+*non m’inganna, fra queste hai le tue uguali,*	|
+
+*e in nessun’altra donna.*			|
+
+*Quando la sera assonna*				|
+
+*le gallinelle,*					|
+
+*mettono voci che ricordan quelle,*		|
+
+*dolcissime, onde a volte dei tuoi mali*		|
+
+*ti quereli, e non sai*				|
+
+*che la tua voce ha la soave e triste*		|
+
+*musica dei pollai.*				|
+
+*Tu sei come una gravida*				|
+
+*giovenca;*					|
+
+*libera ancora e senza*				|
+
+*gravezza, anzi festosa;*				|
+
+*che, se la lisci, il collo*			|
+
+*volge, ove tinge un rosa*			|
+
+*tenero la sua carne.*				|
+
+*Se l’incontri e muggire*				|
+
+*l’odi, tanto è quel suono*			|
+
+*lamentoso, che l’erba*				|
+
+*strappi, per farle un dono.*			|
+
+*È così che il mio dono*				|
+
+*t’offro quando sei triste.*			|
+
+*Tu sei come una lunga*				|
+
+*cagna, che sempre tanta*				|
+
+*dolcezza ha negli occhi,*			|
+
+*e ferocia nel cuore.*				|
+
+*Ai tuoi piedi una santa*				|
+
+*sembra, che d’un fervore*			|
+
+*indomabile arda,*				|
+
+*e così ti riguarda*				|
+
+*come il suo Dio e Signore.*			|
+
+*Quando in casa o per via*			|
+
+*segue, a chi solo tenti*				|
+
+*avvicinarsi, i denti*				|
+
+*candidissimi scopre.*				|
+
+*Ed il suo amore soffre*				|
+
+*di gelosia.*					|
+
+*Tu sei come la pavida*				|
+
+*coniglia. Entro l’angusta*			|
+
+*gabbia ritta al vederti*				|
+
+*s’alza,*						|
+
+*e verso te gli orecchi*				|
+
+*alti protende e fermi;*				|
+
+*che la crusca e i radicchi*			|
+
+*tu le porti, di cui*				|
+
+*priva in sé si rannicchia,*			|
+
+*cerca gli angoli bui.*				|
+
+*Chi potrebbe quel cibo*				|
+
+*ritoglierle? chi il pelo*			|
+
+*che si strappa di dosso,*			|
+
+*per aggiungerlo al nido*				|
+
+*dove poi partorire?*				|
+
+*Chi mai farti soffrire?*				|
+
+*Tu sei come la rondine*				|
+
+*che torna in primavera.*				|
+
+*Ma in autunno riparte;*				|
+
+*e tu non hai quest’arte.*			|
+
+*Tu questo hai della rondine:*			|
+
+*le movenze leggere;*				|
+
+*questo che a me, che mi sentiva ed era*		|
+
+*vecchio, annunciavi un’altra primavera.*		|
+
+*Tu sei come la provvida*				|
+
+*formica. Di lei, quando*				|
+
+*escono alla campagna,*				|
+
+*parla al bimbo la nonna*				|
+
+*che l’accompagna.*				|
+
+*E così nella pecchia*				| Pecchia: ape
+
+*ti ritrovo, ed in tutte*				|
+
+*le femmine di tutti*				|
+
+*i sereni animali*				|
+
+*che avvicinano a Dio;*				|
+
+*e in nessun’altra donna.*			|
 
 \-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
