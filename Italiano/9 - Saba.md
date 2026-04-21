@@ -190,7 +190,7 @@ L'umanità di Saba gli permette un atteggiamento di **apertura e comprensione ve
 
 *per bere, e in terra raspa;*			|
 
-*ma, nell’andare, ha il lento*			| Capacità di ribaltare in positivo paragoni superficialmente offensivi 
+*ma, nell’andare, ha il lento*			| Capacità di ribaltare in positivo paragoni superficialmente offensivi
 
 *tuo passo di regina,*				| cogliendo le virtù delle femmine animali
 
@@ -357,4 +357,106 @@ L'umanità di Saba gli permette un atteggiamento di **apertura e comprensione ve
 \-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+###### *CITTÀ VECCHIA*
+
+\-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Spesso, per ritornare alla mia casa*		| Inizio narrativo
+
+*prendo un’oscura via di città vecchia.*		| Oscuro sia come mal-illuminata, sia come trascurato, poco conosciuto
+
+*Giallo in qualche pozzanghera si specchia*	|
+
+*qualche fanale, e affollata è la strada.*	|
+
+&#x09;					|
+
+&#x20;*Qui tra la gente che viene che va*		|
+
+*dall’osteria alla casa o al lupanare,*		| *lupanare*: case chiuse
+
+*dove son merci ed uomini il detrito*		|
+
+*di un gran porto di mare,*			|
+
+*io ritrovo, passando, l’infinito*		|
+
+*nell’umiltà.*					| Il senso dell'assoluto nelle realtà umili della vita
+
+*Qui prostituta e marinaio, il vecchio*		|
+
+*che bestemmia, la femmina che bega,*		|
+
+*il dragone che siede alla bottega*		| L'attrazione di Saba per i personaggi del popolo
+
+*del friggitore,*					|
+
+*la tumultuante giovane impazzita*		|
+
+*d’amore,*					|
+
+*sono tutte creature della vita*			| Accostamento **vita-dolore**:
+
+*e del dolore;*					|
+
+*s’agita in esse, come in me, il Signore.*	| La religiosità istintiva di Saba
+
+&#x09;					|
+
+*Qui degli umili sento in compagnia*		|
+
+*il mio pensiero farsi*				| **Il bisogno di Saba della comunione con gli altri uomini** ()
+
+*più puro dove più turpe è la via.*		|
+
+\-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+###### *GOAL*
+
+\-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Il portiere caduto alla difesa*			| L'interesse per il calcio come **volontà** di **accostarsi** alla vita della **gente comune**
+
+*ultima vana, contro terra cela*			|
+
+*la faccia, a non veder l’amara luce.*		|
+
+*Il compagno in ginocchio che l’induce*		|
+
+*con parole e con mano, a rilevarsi,*		|
+
+*scopre pieni di lacrime i suoi occhi.*		|
+
+&#x09;					|
+
+*La folla- unita ebrezza - per trabocchi*		|
+
+*nel campo. Intorno al vincitore stanno,*		|
+
+*al suo collo si gettano i fratelli.*		|
+
+*Pochi momenti come questo belli,*		| Riflessione amara sulla vita
+
+*a quanti l’odio consuma e l’amore,*		|
+
+*è dato, sotto il cielo, di vedere.*		|
+
+&#x09;					|
+
+*Presso la rete inviolata il portiere –*		|
+
+*l’altro - è rimasto. Ma non la sua anima,*	| Gusto sabiano per l'**antitesi** (dolore/gioia)
+
+*con la persona vi è rimasto sola.*		|
+
+*La sua gioia si fa una capriola,*		| La situazione di esclusione/coinvolgimento del **portiere**
+
+*si fa baci che manda di lontano.*		| rispecchia la **condizione esistenziale di Saba**
+
+*Della festa - egli dice - anch’io son parte.*	|
+
+\-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
