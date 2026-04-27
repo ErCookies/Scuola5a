@@ -35,7 +35,7 @@ ACL Standard: 1-99 | analizzano l'indirizzo IP
 
 ###### CREARE ACL
 
-Router(Config)# access-list 1 deny 192.168.2.3 0.0.0.0	-- acl num \[deny/permit] IP Wildcard | Wildcard 0.0.0.0 == host
+Router(Config)# access-list 1 deny 192.168.2.3 0.0.0.0			-- acl num \[deny/permit] IP Wildcard | Wildcard 0.0.0.0 == host
 
 Router(Config)# access-list 1 permit any
 
@@ -49,5 +49,17 @@ Router# show access-lists
 
 Router(Config)# interface GigabitEthernet0/0
 
-Router(Config-if)# ip access-group 1 out		-- ip access-group num \[in/out]
+Router(Config-if)# ip access-group 1 out				-- ip access-group num \[in/out]
+
+
+
+
+
+##### ACL ESTESA
+
+**SOLITAMENTE SI POSIZIONA L'ACL SULL'INTERFACCIA PIÙ VICINA ALLA PARTENZA**
+
+access-list 100 deny ip 192.168.2.3 0.0.0.0 192.168.1.0 0.0.0.255	-- ip1 wild1 sono per identificare su chi applicare la regola, mentre ip2 wild2 per 									   verso chi andare
+
+access-list 100 permit any any
 
