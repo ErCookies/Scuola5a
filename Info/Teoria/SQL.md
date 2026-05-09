@@ -70,11 +70,11 @@ Esistono delle funzioni (dette di *aggregazione*) che elaborano i dati di una co
 
 ESEMPIO:
 
-&nbsp;	SELECT SUM(population)
+ 	SELECT SUM(population)
 
-&nbsp;	FROM countries
+ 	FROM countries
 
-&nbsp;	WHERE region='Europe';
+ 	WHERE region='Europe';
 
 
 
@@ -103,4 +103,45 @@ GROUP BY region
 HAVING '#' >= 15;
 
 
+
+###### **TRANSAZIONE**
+
+una transazione è una sequenza di operazioni che DEVONO essere eseguite a pieno o annullate completamente; Serve a garantire l'integrità dei dati anche in caso di errori etc.
+
+
+
+* **Atomicity:** Come unità indivisibile -> o tutte le instr. o nessuna;
+* **Consistency**: Avere dei dati coerenti sia prima che dopo le operazioni;
+* **Isolation**: aa
+* **Durability**: aa.
+
+
+
+BEGIN TRANSACTION;
+
+UPDATE Conti SET saldo = (saldo = saldo-1000) WHERE numConto = 1;
+
+UPDATE Conti SET saldo = (saldo = saldo+1000) WHERE numConto = 2;
+
+COMMIT;
+
+###### 
+
+###### **VISTE LOGICHE**
+
+Una vista SQL è una tabella virtuale che preleva dati da più tabelle e li presenta in una singola.
+
+Si usano per:
+
+* Memorizzare query molto complesse e frequenti;
+* Nascondere la complessità;
+* Limitare l'accesso dei dati sulla base del ruolo degli utenti
+
+CREATE VIEW ... AS
+
+(SELECT \[...])
+
+
+
+###### **UTENTI E DCL**
 
