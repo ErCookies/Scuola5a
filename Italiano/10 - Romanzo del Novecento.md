@@ -209,7 +209,12 @@ La rivendicazione di Vittorini dell'**autonomia degli intellettuali** dalla poli
 * Collabora a ***Solaria*** su cui pubblica i primi racconti (***Piccola borghesia***, 1931) e a puntate ***Il garofano rosso*** (1934) interrotto dalla censura;
 * **Cacciato dal PNF** pubblica nel 1937-38 ***Conversazione in Sicilia*** (racconto lirico del ritorno di un giovane intellettuale nella natia Sicilia e incontro con un'umanità oppressa dalle ingiustizie - «**Mondo offeso**» espresso in modo mitico e **simbolico**, non realistico);
 * Per l'editore Bompiani allestisce l'antologia ***americana*** che fa conoscere in Italia gli autori americani;
-* Partecipa alla **resistenza** \[...]
+* Partecipa alla **resistenza** (che rievoca in ***Uomini e no***)
+* Dopo la guerra impersona l'**intellettuale impegnato** vicino al **PCI**
+Nel 1945-47 pubblica la rivista ***Il Politecnico*** che chiude dopo la **polemica con Togliatti**. Nel 1951 **abbandona il PCI**;
+* Cura numerose collane librarie **scoprendo nuovi autori**;
+* Lavora a un nuovo romanzo incompiuto (***Le città del mondo***) e dal 1959 pubblica con **Calvino *Il Menabò***;
+* **Muore a Milano** nel 1966.
 
 
 
@@ -218,5 +223,20 @@ A sollecitare un concreto **impegno politico-sociale** e la lotta per un'**arte 
 * Con la sua idea di **letteratura nazional-popolare** per colmare la frattura fra scrittori e classi subalterne;
 * E di **intellettuale organico** al proletariato e alle sue esigenze, capace di leggere la realtà e guidarne la trasformazione.
 
-aaaaaaaaa
+Queste tendenze prendono il nome di ***neorealismo***.
+
+Si registrano anche nel ***cinema*** con le opere di **Rossellini** (*Roma città aperta* - 1945, *Paisà* - 1946), **De Sica** (*Sciuscià* - 1946, *Ladri di biciclette* - 1948), **Visconti** (*La terra trema* - 1948) e nelle ***arti figurative*** (**Guttuso**, **Sassu**).
+
+In ***letteratura*** si riprende il **romanzo realistico** dell'Ottocento, ricollegandosi a **Silone**, **Alvaro** e ai giovani **Vittorini** e **Pavese**.
+
+A livello formale si punta su **linguaggi anti-letterari** vicini al parlato e ai dialetti con spesso il limite della **mitizzazione del popolo** e del **patetismo sentimentale**.
+
+
+
+###### ***FILONI NARRATIVI PREVALENTI***
+
+* La ***Guerra***, la **resistenza** e l'esperienza dei ***campi di sterminio***
+Oggetto sia di **testimonianze**, diari, cronache (*16 ottobre 1943* di **DeBenedetti**) che di **romanzi-diario** (*Se questo è un uomo* e *La tregua* di **Primo Levi**);
+* La realtà del ***mezzogiorno*** (i campi al sud, le differenze fra nord e sud);
+* La ***vita del popolo*** nelle sue varietà regionali.
 
